@@ -1,0 +1,501 @@
+problem-id,NLI Premise,NLI Hypothesis,Gold Label
+nluds-0001-ww,Seven red apples and two green apples are in the basket.,There are nine apples in the basket.,entailment
+nluds-0002-ww,Ellen has six more balls than Marin. Marin has nine balls.,Ellen has fifteen balls.,entailment
+nluds-0003-ww,Janet has nine oranges and Sharon has seven oranges.,Janet and Sharon have sixteen oranges together.,entailment
+nluds-0006-ww,Brian has four more plums than Paul. Paul has seven plums.,Brian has eleven plums.,entailment
+nluds-0009-ww,Fourteen red plums and four green plums are in the basket.,There are eighteen plums in the basket.,entailment
+nluds-0010-ww,Marin has nine apples and Donald has two apples.,Marin and Donald have eleven apples together.,entailment
+nluds-0014-ww,Two marbles are in the basket. Two marbles are taken out of the basket.,There are zero marbles in the basket now.,entailment
+nluds-0016-ww,Some oranges were in the basket. Five oranges were taken from the basket. Now there are three oranges.,There were eight oranges in the basket before some of the oranges were taken.,entailment
+nluds-0017-ww,Jake has six fewer peaches than Steven. Steven has thirteen peaches.,Jake has seven peaches.,entailment
+nluds-0018-ww,David has zero fewer apples than Marin. Marin has three apples.,David has three apples.,entailment
+nluds-0020-ww,Brian has zero fewer oranges than Marcie. Marcie has twelve oranges.,Brian has twelve oranges.,entailment
+nluds-0040-ww,Mrs. Hilt saw three bugs eat two flowers each.,The bugs ate six flowers in total.,entailment
+nluds-0068-ww,There are twelve birds on the fence. Eight more birds land on the fence.,There are twenty birds on the fence.,entailment
+nluds-0070-ww,Thirteen ducks are swimming in a lake. Twenty more ducks come to join them.,Thirty three ducks are swimming in the lake.,entailment
+nluds-0072-ww,"Bobby ate twenty-six pieces of candy. Then, he ate seventeen more.",Bobby ate forty three pieces of candy.,entailment
+nluds-0073-ww,Sandy had twenty-six pet fish. She bought six more fish.,Sandy has thirty two pet fish now.,entailment
+nluds-0074-ww,The clown blew up forty-seven balloons. Then he blew up thirteen more balloons.,The clown has sixty balloons now.,entailment
+nluds-0075-ww,Our class got fifty-four books from the library. Then we got twenty-three more books from the library.,Our class got seventy seven books from the library.,entailment
+nluds-0130-ww,Each CD rack holds eight CDs. A shelf can hold four racks.,There can be thirty two CDs on the shelf in total.,entailment
+nluds-0136-ww,There are sixty-four pigs in the barn. Some more come to join them. Now there are eighty-six pigs.,There are twenty two pigs in total.,entailment
+nluds-0137-ww,"Rosa had sixty-seven flowers. Andre gave her some more flowers. Now, Rosa has ninety flowers.",Andre gave Rosa twenty three flowers.,entailment
+nluds-0140-ww,Hugo had seventy-nine stickers in his sticker book. He got some more to add to his book and now he has one hundred-twenty stickers.,Hugo added forty one stickers to his book.,entailment
+nluds-0161-ww,The Hawks scored three touchdowns worth seven points each.,The Hawks have twenty one points.,entailment
+nluds-0194-ww,Adi bought a pencil for thirty five cents. He paid with a one-dollar bill.,Adi will get sixty five dollars in change.,entailment
+nluds-0387-ww,If each bus have nine rows of seats and each row of seats can accommodate four children.,Each bus can accommodate thirty six children.,entailment
+nluds-0476-ww,"Haley loves to collect things. This year, she decided to give away part of her collection as it was taking too much space in her room. Nine of her closest friends like stickers. Haley has seventy two stickers. She plans to give all of them an equal number of stickers.",Each of Haley's friend will receive eight stickers.,entailment
+nluds-0490-ww,"For dessert, Jane's mom prepared twelve pieces of bite-size cinnamon swirls. The three of them ate an equal number of pieces of cinnamon swirls.",Jane ate four pieces.,entailment
+nluds-0540-ww,This year on your 11th birthday your mother tells you that she is exactly three times as old as you are.,She is thirty three years old.,entailment
+nluds-0619-ww,Tyler had fifteen dogs. Each dog had five puppies.,Tyler now has seventy five puppies.,entailment
+nluds-1365-ww,There are thirty-eight dogwood trees currently in the park. Park workers will plant more dogwood trees today. When the workers are finished there will be fifty-six dogwood trees in the park.,The workers planted eighteen dogwood trees today.,entailment
+nluds-1369-ww,"Sam received eighty-seven dollars for his birthday. He went to a sporting goods store and bought a baseball glove, baseball, and bat. He had twenty-three dollars left over.",Sam spent sixty four dollars on the baseball gear.,entailment
+nluds-1372-ww,There were eight red roses and two white roses in the vase. Melanie cut some more roses from her flower garden. There are now fourteen red roses in the vase.,Melanie cut six red roses.,entailment
+nluds-1374-ww,"Mike found sixty-two seashells on the beach, he gave Tom some of his seashells. He has thirteen seashell left.",Mike gave forty nine seashells to Tom.,entailment
+nluds-1377-ww,There were forty-seven bales of hay in the barn and forty bales in the shed. Benny stacked more bales in the barn today. There are now eighty-two bales of hay in the barn.,Benny stored thirty five bales in the barn.,entailment
+nluds-1381-ww,There are thirty-three rose bushes and thirty-seven oak trees currently in the park. Park workers will plant more rose bushes today. When the workers are finished there will be ninety-eight rose bushes in the park.,The workers planted sixty five rose bushes today.,entailment
+nluds-1382-ww,Dan's high school played eighteen baseball games this year and two were at night. The team won most of their games. They were defeated during three games.,They won fifteen games.,entailment
+nluds-1556-ww,An industrial machine can make three hundred sixty-one crayons a day. Each box of crayons has four crayons in it.,The machine makes ninety full boxes a day.,entailment
+nluds-1718-ww,A mailman has to give twenty-eight pieces of junk mail to each block. There are four houses on a block.,A mailman should give each house seven pieces of junk mail.,entailment
+nluds-1719-ww,Billy bought five boxes of books at a yard sale. Each box had seven books.,Billy bought thirty five books.,entailment
+nluds-1720-ww,At the fair the 'Twirly Tea Cups' ride can hold nine people per teacup. The ride has seven tea cups.,A total of sixty three people can ride at a time.,entailment
+nluds-1721-ww,Mike played six games of basketball with his friends. Mike scored four points each game.,Mike scored twenty four points in total.,entailment
+nluds-1722-ww,Emily was selling some of her old toys at a garage sale. She started out with seven toys and sold three of them.,Emily has four toys left.,entailment
+nluds-1723-ww,Adam had to wash fourteen loads of clothes. By noon he had only washed eight loads.,Adam still needs to wash six loads of clothes.,entailment
+nluds-1725-ww,At the state fair Paul bought eleven tickets. He spent three tickets on the Ferris wheel.,Paul had eight tickets left.,entailment
+nluds-1726-ww,Cody had nine old video games he wanted to get rid of. He gave his friend four of the games.,Cody still has five video games.,entailment
+nluds-1727-ww,Victor bought several boxes of books at a yard sale and ended up with twenty-four books total. Each box had three books.,Victor bought eight boxes.,entailment
+nluds-1729-ww,Paul was packing up his old toys. He managed to squeeze eight toys into a box. Paul filled up four boxes.,Paul packed thirty two toys in total.,entailment
+nluds-1731-ww,Each table in a break room can seat eight people. The break room has four tables.,Thirty two people can sit in there.,entailment
+nluds-1732-ww,Adam could fit nine action figures on each shelf in his room. His room has three shelves.,His shelves could hold a total of twenty seven action figures.,entailment
+nluds-1733-ww,Ned mowed his lawn six times in the spring and five times in the summer.,Ned mowed a total of eleven times.,entailment
+nluds-1734-ww,Billy was making ice using ice trays. Each tray held nine ice cubes. He had eight trays.,Billy could make seventy two cubes.,entailment
+nluds-1735-ww,Frank had forty-two pieces of candy. He put them into bags with seven pieces in each bag.,Frank would have six bags.,entailment
+nluds-1736-ww,For Gwen's birthday she received five dollars. She spent three dollars.,Gwen still has two dollars.,entailment
+nluds-1738-ww,Emily is making bead necklaces for her friends. She has twenty-eight beads and each necklace takes seven beads.,Emily can make four necklaces.,entailment
+nluds-1739-ww,Oliver bought eight boxes of candy. Later he bought six more boxes.,Oliver had fourteen boxes in total.,entailment
+nluds-1741-ww,Tiffany was collecting cans for recycling. On Monday she had four bags of cans. The next day she found eight more bags worth.,Tiffany had twelve bags in total.,entailment
+nluds-1743-ww,Lana's mom was buying extra school supplies for her and her siblings. She bought three packs of glue sticks with seven glue sticks in each pack.,Lana got twenty one glue sticks in total.,entailment
+nluds-1744-ww,Maria was placing her spare change into stacks. Each stack had three coins. She had five stacks.,Maria has fifteen coins.,entailment
+nluds-1745-ww,A chef used five potatoes to make fries for the lunch crowd. Later he used another two potatoes for the dinner crowd.,A chef used a total of seven potatoes.,entailment
+nluds-1746-ww,Dave was making ice using ice trays. He originally had two ice cubes. But made seven more cubes.,Dave had nine ice cubes in total.,entailment
+nluds-1747-ww,On the last day of school only sixteen students showed up. Seven of them were checked out early.,Nine students were left.,entailment
+nluds-1748-ww,Jerry was playing the ring toss at the carnival. All together he used forty-eight rings. Each game you get six rings.,Jerry played eight games.,entailment
+nluds-1749-ww,Tom read three chapters of a book. Each chapter was eight pages.,Tom read twenty four pages.,entailment
+nluds-1751-ww,The roller coaster at the state fair costs five tickets per ride. You had ten tickets.,You can ride it two times.,entailment
+nluds-1753-ww,Will went to the state fair and rode the Ferris wheel thirteen times. He rode it seven times during the day.,Will rode it six times at night.,entailment
+nluds-1754-ww,"Tiffany was buying sodas for her and her friends. They needed nine sodas, but Tiffany bought seven extra.",Tiffany bought sixteen sodas.,entailment
+nluds-1758-ww,Larry's Lawn Care charges nine bucks to trim a hedge. Henry has three hedges.,Larry would spend twenty seven bucks.,entailment
+nluds-1759-ww,Maria was buying DVDs of her old favorite TV series. She bought eight DVDs at the store and she bought two online.,Maria bought ten DVDs.,entailment
+nluds-1762-ww,Tiffany was sending out birthday invitations to her friends. She sent out nine on Monday and eight on Tuesday.,Tiffany sent seventeen birthday invitations in total.,entailment
+nluds-1763-ww,A delivery driver had to make three more stops on his route. At each stop he had to drop off nine boxes.,A delivery driver has twenty seven boxes.,entailment
+nluds-1768-ww,"A chef had five potatoes to make fries with, but he only used three of them.",A chef still has two potatoes.,entailment
+nluds-1839-ww,A pet store took ten birds out of a cage and had nine still left inside.,There were nineteen birds in the cage to start with.,entailment
+nluds-1843-ww,Sarah could send ten text messages a day. She sent eight.,Sarah has two text messages left she can send.,entailment
+nluds-1844-ww,"Debby had twelve pieces of candy. After eating some, she had three pieces.",Debby ate nine pieces.,entailment
+nluds-1846-ww,Robin's hair was fifteen inches long. She cut off five inches.,Her hair is ten inches now.,entailment
+nluds-1851-ww,Ned ordered some pizzas for a party. During the party four were eaten. Now he has seven left.,Ned ordered eleven pizzas for the party.,entailment
+nluds-1852-ww,A baker sold twelve cakes. Now he has three cakes.,The baker had fifteen cakes to start with.,entailment
+nluds-1854-ww,"Dave had sixteen apps on his phone. After deleting some, he had eight left.",Dave deleted eight apps.,entailment
+nluds-1855-ww,Isabel had sixteen bottles of water. After a week she had seven left.,Isabel drank nine bottles of water.,entailment
+nluds-1856-ww,A waiter had eighteen customers. Six left.,The waiter would still have twelve customers.,entailment
+nluds-1857-ww,Megan had seventeen bottles of water. She drank three of them.,Megan would have fourteen bottles left.,entailment
+nluds-1861-ww,Paige had eleven pencils. After using some she had four left.,Paige used seven pencils.,entailment
+nluds-1862-ww,Cody had a bag of marbles. Later he gave five to his brother. Now Cody has seven marbles.,Cody had twelve marbles to start with.,entailment
+nluds-1865-ww,Amy's hair was eleven inches long. After a haircut it was seven inches long.,Amy cut off four inches.,entailment
+nluds-1867-ww,A chef had fourteen apples. He used eight of them to make a pie.,A chef would still have six apples.,entailment
+nluds-1868-ww,"For Halloween Will got fifteen pounds of candy. After giving some to Haley, he had nine pounds left.",Will gave six pounds to Haley.,entailment
+nluds-1869-ww,Amy had twelve pencils. She used four of them.,Amy would have eight pencils left.,entailment
+nluds-1870-ww,Victor had nineteen apps on his phone. He deleted eight of them.,Victor has eleven apps left.,entailment
+nluds-1872-ww,A package had eighteen cookies in it. After eating some there were nine left.,Nine cookies were eaten.,entailment
+nluds-1873-ww,A tape was thirteen meters long. Haley used some to seal cartons. Now the tape is six meters long.,Haley used seven meters of tape.,entailment
+nluds-1876-ww,Ned gave away thirteen of his video games to a friend. Now Ned has six games.,Ned had nineteen games before he gave the games away.,entailment
+nluds-1877-ww,For a party Cody bought eleven cupcakes. After the party he had two left.,Nine cupcakes were eaten at the party.,entailment
+nluds-1878-ww,Jerry had eleven cherries. He ate eight of them.,Jerry has three cherries left.,entailment
+nluds-1881-ww,Frank got fifteen pounds of mushroom for family barbecue. They ate eight pounds.,Seven pounds were left.,entailment
+nluds-1882-ww,"Adam put eighteen items in the shopping cart. After deleting some, he had eight left.",Adam deleted ten items.,entailment
+nluds-1886-ww,A clown had sixteen balloons. He gave four away at a party.,A clown still has twelve balloons.,entailment
+nluds-1888-ww,Debby owned thirteen DVDs. She sold six of them.,Debby would have seven DVDs left.,entailment
+nluds-1889-ww,The host prepared nineteen cakes for the party. After the party he had nine left.,People ate ten cakes at the party.,entailment
+nluds-1890-ww,Frank had thirteen boxes. He filled eight with toys.,Frank still has five boxes.,entailment
+nluds-1891-ww,Mike got twenty-eight GB of space on his disk drive to backup his files. His files would take up twenty-six GB.,Mike would have two GB left.,entailment
+nluds-1893-ww,"Olivia owned ninety-three pennies. After she bought an apple, she had fifty-six pennies left.",Olivia spent thirty seven pennies for the apple.,entailment
+nluds-1894-ww,A farmer had ninety-seven tomatoes from his garden. He picked eighty-three of them.,A farmer would have fourteen tomatoes left.,entailment
+nluds-1901-ww,While playing a game Kaleb had ninety-eight lives. After losing some lives he had seventy-three left.,Kaleb lost twenty five lives.,entailment
+nluds-1905-ww,Gwen had ninety-eight DS games. After she gave some to her friends she had ninety-one left.,Gwen gave away seven games.,entailment
+nluds-1906-ww,Billy had seventy-four cherries. He ate seventy-two of them.,Billy has two cherries left.,entailment
+nluds-1907-ww,Adam had some quarters. He spent nine of them at the arcade and had seventy-nine left over.,Adam had eighty eight quarters to start with.,entailment
+nluds-1908-ww,At a bus stop forty-seven people got off the bus. Now there were forty-three people on the bus.,There were ninety people on the bus before.,entailment
+nluds-1909-ww,"It takes Mike ninety-eight minutes to walk to school. He rides a bicycle to school, it would save him sixty-four minutes.",Mike saved thirty four minutes.,entailment
+nluds-1910-ww,A farmer had forty-six tomatoes from his garden. After picking some he had three left.,A farmer picked forty three tomatoes.,entailment
+nluds-1912-ww,Jerry had caught some butterflies. He let eleven go and now he has eighty-two left.,Jerry originally had ninety three butterflies.,entailment
+nluds-1913-ww,A chef had forty-six apples. After making some pies he had fourteen left.,A chef used thirty two apples.,entailment
+nluds-1914-ww,"For Halloween Oliver got seventy-eight pounds of candy. After giving some to Janet, he had sixty-eight pounds left.",Oliver gave ten pounds to Janet.,entailment
+nluds-1915-ww,There were fifty-eight people on the train. At the next stop forty-five people got off.,There are thirteen people on the train now.,entailment
+nluds-1916-ww,A fast food restaurant had ninety-nine hotdogs. After selling some they had ninety-seven left.,They sold two hotdogs.,entailment
+nluds-1917-ww,John bought some cupcakes for a party. During the party eleven were eaten. Now he has twenty-one left.,John got thirty two cupcakes for the party.,entailment
+nluds-1919-ww,There were forty-eight people on the train. After the first stop there were thirty-one people left.,Seventeen people got off.,entailment
+nluds-1920-ww,"Mike had fifty-one books, but he sold forty-five at a garage sale.",Mike still has six books.,entailment
+nluds-1921-ww,"A museum had ninety-eight paintings. After they got rid of some, they had ninety-five left.",They got rid of three paintings.,entailment
+nluds-1922-ww,"Jessie weighted seventy-four kilograms. After she started to go jogging everyday, now she weights sixty-seven kilograms.",Jessie lost seven kilograms of weight in the past.,entailment
+nluds-1923-ww,At the arcade Billy had won forty-eight tickets. After buying a yoyo he had thirty-two tickets left.,The yoyo cost sixteen tickets.,entailment
+nluds-1924-ww,For a party Adam bought ninety-seven cupcakes. Fifty-eight were eaten.,Adam would have thirty nine cupcakes left.,entailment
+nluds-1925-ww,For a birthday party a clown gave away six balloons. Now he has fifty-five balloons left.,The clown had sixty one balloons to start with.,entailment
+nluds-1927-ww,"There were ninety-four dollars in Olivia's wallet. After she visited a supermarket, there were seventy-eight dollars left.",Olivia spent sixteen dollars.,entailment
+nluds-1928-ww,Winnie completed eighty-six consecutive repetitions for rope jumping yesterday. Today she completed only seventy-three.,Winnie fell behind thirteen repetitions.,entailment
+nluds-1929-ww,While playing a video game Ned lost thirteen lives. Now he has seventy lives.,Ned had eighty three lives at the start.,entailment
+nluds-1930-ww,Will was picking up sticks from his yard. He picked up thirty-eight but there were still sixty-one left.,There were ninety nine sticks in the yard to start with.,entailment
+nluds-1931-ww,Gwen prepared ninety-eight books to sell in the flea market. After the activity ended she had ninety-six books left.,Gwen sold two books.,entailment
+nluds-1932-ww,A baker made ninety cakes. He sold eighty-three of them.,The baker would still have seven cakes.,entailment
+nluds-1933-ww,A chef had seventy-seven cherries. He used sixty of them to make a pie.,A chef would still have seventeen cherries.,entailment
+nluds-1936-ww,Maria stored ninety-three cloves of garlic in the kitchen. She used eighty-six for roast chicken for dinner.,Maria has seven cloves of garlic left.,entailment
+nluds-1937-ww,A store has thirty-five shirts. They sold thirty of them.,They would have five shirts.,entailment
+nluds-1938-ww,Paige used three of her pencils. Now she has ninety-one pencils.,Paige had ninety four pencils to begin with.,entailment
+nluds-1940-ww,"Adam picked thirty-five strawberries. After eating some, he had thirty-three left.",Adam ate two strawberries.,entailment
+nluds-1941-ww,"Janet had eighty-five paper clips on the desk when she woke up in the morning. Before going to bed, she found there were twenty-six left.",Janet used fifty nine paper clips today.,entailment
+nluds-1942-ww,At the zoo a cage had sixty-eight snakes. Forty-two were hiding.,Twenty six snakes were not hiding.,entailment
+nluds-1943-ww,Olivia gave her cat two cheese cubes. Now Olivia has ninety-eight cheese cubes left.,Olivia had one hundred cheese cubes originally.,entailment
+nluds-1944-ww,A clown had eighty-two balloons. After a party he had sixteen left.,A clown used sixty six balloons at the party.,entailment
+nluds-1945-ww,A pet store had eighty-five gerbils. They sold sixty-nine of them.,They would have sixteen gerbils left.,entailment
+nluds-2117-ww,A grocery store had forty-nine bottles of regular soda and thirty-five bottles of diet soda.,They had eighty four bottles in total.,entailment
+nluds-2118-ww,While playing a game Sam had ninety-two points. He scored another three points.,Sam would have ninety five points in total.,entailment
+nluds-2119-ww,In the first half of a trivia game Kaleb scored forty-three points. In the second half he scored twenty-three points.,Kaleb scored sixty six points in total.,entailment
+nluds-2121-ww,For a party Henry spent forty-five dollars on food and thirty-three dollars on drinks.,Henry spent seventy eight dollars in total.,entailment
+nluds-2124-ww,Bianca spent twenty-two minutes drawing at school and nineteen minutes drawing at home.,Bianca spent a total of forty one minutes drawing.,entailment
+nluds-2125-ww,There were sixty-one people in line at lunch when twenty-two more got in line.,There were eighty three people in line in total.,entailment
+nluds-2126-ww,A fast food restaurant sold fifty-eight small hotdogs and twenty-one large hotdogs.,They sold seventy nine hotdogs in total.,entailment
+nluds-2128-ww,An aquarium had ten fish in it. Later they added three fish.,There are thirteen fish in the aquarium now.,entailment
+nluds-2129-ww,Isabel had sixty-eight pieces of candy. Her friend gave her twenty-five more pieces.,Isabel had a total of ninety three pieces of candy.,entailment
+nluds-2132-ww,Adam had seventy-nine dollars saved up. After doing some chores his mother gave him another thirteen dollars.,Adam has a total of ninety two dollars.,entailment
+nluds-2133-ww,Debby received twenty-one text messages before noon and another eighteen after noon.,Debby received a total of thirty nine text messages.,entailment
+nluds-2138-ww,At the zoo Zoe took sixty-seven pictures. Her sister took another seventeen pictures.,They took a total of eighty four pictures.,entailment
+nluds-2140-ww,Katie had seventy-two DS games and her friend had twenty-three games.,They have a total of ninety five DS games.,entailment
+nluds-2141-ww,Sam was playing basketball with his friend. Sam scored seventy-five points and his friend scored twelve points.,They scored a total of eighty seven points.,entailment
+nluds-2142-ww,While exercising Paul did fifty-nine push-ups in the morning and thirty-eight more in the afternoon.,Paul did a total of ninety seven push-ups.,entailment
+nluds-2144-ww,Haley watched TV for six hours on Saturday and three hours on Sunday.,Haley watched TV for a total of nine hours.,entailment
+nluds-2145-ww,Jerry walked nine miles on Monday and nine more on Tuesday.,Jerry walked a total of eighteen miles.,entailment
+nluds-2146-ww,Gwen had ten fish and her sister had five fish.,They had a total of fifteen fish.,entailment
+nluds-2153-ww,John has twelve shirts. Later he bought four more shirts.,John has a total of sixteen shirts.,entailment
+nluds-2156-ww,Olivia picked up sixteen pieces of paper from the floor. Edward picked up three pieces.,They picked up a total of nineteen pieces of paper.,entailment
+nluds-2157-ww,Victor had nine books. During the book fair he bought three more.,Victor had a total of twelve books.,entailment
+nluds-2158-ww,Katie had twelve pencils in her desk and three more in her backpack.,Katie had a total of fifteen pencils.,entailment
+nluds-2160-ww,At the fair Haley went on six rides in the day and three at night.,Haley went on a total of nine rides.,entailment
+nluds-2162-ww,Jerry owned seven video games. For his birthday he got two more.,Jerry had a total of nine games.,entailment
+nluds-2163-ww,A clown gave away eleven balloons to girls and three balloons to boys.,A clown gave away a total of fourteen balloons.,entailment
+nluds-2164-ww,There were ten people on the bus. At the next stop three more people got on the bus.,There are thirteen people on the bus now.,entailment
+nluds-2165-ww,Oliver collected two seashells from the beach on Monday and two more on Tuesday.,Oliver collected a total of four seashells.,entailment
+nluds-2186-ww,Vanessa uploaded twenty-three pictures from her phone and seven from her camera to Facebook. She sorted the pics into five different albums with the same amount of pics in each album.,Each of the albums had six pictures.,entailment
+nluds-2187-ww,For a birthday party Cody bought thirty regular sodas and five diet sodas. His fridge would only hold seven on each shelf.,Cody would fill up five shelves.,entailment
+nluds-2188-ww,Paul made forty-four dollars mowing lawns and twenty-eight dollars weed eating. He only spent nine dollar a week.,The money would last him eight weeks.,entailment
+nluds-2189-ww,The school's baseball team had two new players and twenty-two returning players. The coach put them into groups with three players in each group.,There would be eight groups.,entailment
+nluds-2191-ww,The school's debate team had thirty-one boys and thirty-two girls on it. They were split into groups of nine.,They could make seven groups.,entailment
+nluds-2192-ww,Chloe and her friends were recycling paper for their class. For every six pounds they recycled they earned one point. Chloe recycled twenty-eight pounds and her friends recycled two pounds.,They earned five points.,entailment
+nluds-2193-ww,A group of nine friends went into a restaurant. The chef already had two chicken wings cooked but cooked twenty-five more for the group. They each got the same amount.,Each person would get three chicken wings.,entailment
+nluds-2194-ww,A pet shelter had twenty-three puppies when another two were brought in. Five puppies a day are adopted.,It would take five days for all of them to be adopted.,entailment
+nluds-2196-ww,Dave was organizing his baseball cards in a binder with eight on each page. He had three new cards and thirteen old cards to put in the binder.,Dave would use two pages.,entailment
+nluds-2198-ww,At a company picnic three managers and three employees decided to start a game of volleyball. They split into three teams.,Each team would have two people.,entailment
+nluds-2200-ww,For homework Megan had thirty-six math problems and twenty-eight spelling problems. She can finish eight problems in an hour.,It would take her eight hours to finish all the problems.,entailment
+nluds-2201-ww,Gwen's class is going on a field trip to the zoo. Each van can hold seven people and there are thirty-three students and nine adults going.,They would need six vans.,entailment
+nluds-2202-ww,For Halloween Isabel received sixteen pieces of candy from neighbors and five pieces from her older sister. She only ate three pieces a day.,The candy would last her seven days.,entailment
+nluds-2204-ww,Chloe was making baggies of cookies with seven cookies in each bag. She had thirty-four chocolate chip cookies and twenty-nine oatmeal cookies.,Chloe could make nine baggies.,entailment
+nluds-2206-ww,Wendy was playing a video game where she scores five points for each treasure she finds. She found four treasures on the first level and three on the second.,Her score would be thirty five points.,entailment
+nluds-2208-ww,At Billy's Restaurant a group with two adults and five children came in to eat. Each meal cost three dollars.,The bill was twenty one dollars.,entailment
+nluds-2209-ww,"While playing a trivia game, Adam answered five questions correct in the first half and five questions correct in the second half. Each question was worth five points.",His final score was fifty points.,entailment
+nluds-2210-ww,Haley's favorite band was holding a concert where tickets were four dollars each. Haley bought three tickets for herself and her friends and five extra tickets in case anyone else wanted to go.,Haley spent thirty two dollars.,entailment
+nluds-2212-ww,Victor and his friend were buying trick decks from the magic shop for eight dollars each. Victor bought six decks and his friend bought two decks.,Victor and his friends spent sixty four dollars.,entailment
+nluds-2213-ww,Katie was selling her necklaces at a garage sale. She sold four bead necklaces and three gem stone necklaces. Each necklace cost three dollars.,Katie earned twenty one dollars.,entailment
+nluds-2214-ww,Tiffany had six pages of math homework and four pages of reading homework. Each page had three problems on it.,Tiffany had to complete thirty problems in total.,entailment
+nluds-2215-ww,Zoe was unboxing some of her old winter clothes. She found eight boxes of clothing and inside each box there were four scarves and six mittens.,Zoe had eighty pieces of winter clothing in total.,entailment
+nluds-2217-ww,"While shopping for music online, Zoe bought three country albums and five pop albums. Each album came with a lyric sheet and had three songs.",Zoe bought twenty four songs in total.,entailment
+nluds-2218-ww,April's discount flowers was having a sale where each flower was eight dollars. Vanessa bought three roses and three daisies.,Vanessa spent forty eight dollars.,entailment
+nluds-2219-ww,Rachel bought seven new chairs and three new tables for her house. She spent four minutes on each piece furniture putting it together.,It took her forty minutes to finish.,entailment
+nluds-2220-ww,Kaleb was collecting cans for recycling. On Saturday he filled five bags up and on Sunday he filled five more bags. Each bag had four cans in it.,Kaleb picked up forty cans in total.,entailment
+nluds-2222-ww,Dave was working as a sacker at a grocery store where he made six dollars an hour. On Monday he worked six hours and on Tuesday he worked two hours.,Dave made forty eight dollars in those two days.,entailment
+nluds-2224-ww,Amy was planting vegetables in her garden. She started with one hundred one seeds and planted forty-seven of them in the big garden and in each of her small gardens put six seeds each.,Amy had nine small gardens.,entailment
+nluds-2229-ww,A pet store had forty-five puppies. In one day they sold thirty-nine of them and put the rest into cages with two in each cage.,They used three cages.,entailment
+nluds-2230-ww,Faye picked eighty-eight flowers for her friend's wedding. She was making bouquets with five flowers in each one. Forty-eight of the flowers wilted before the wedding.,Faye could still make eight bouquets.,entailment
+nluds-2237-ww,Faye's team won their baseball game and scored sixty-eight points total. Faye scored twenty-eight of the points and everyone else scored eight points each.,There were five players on her team.,entailment
+nluds-2238-ww,"A company invited sixty-eight people to a luncheon, but fifty of them didn't show up. The tables they had held three people each.",They need six tables.,entailment
+nluds-2239-ww,For Halloween Bianca received seventeen pieces of candy. She ate two pieces then placed the rest into piles with three in each pile.,Bianca could make five piles.,entailment
+nluds-2240-ww,The cafeteria had fifty-one apples. For lunch they handed out forty-one to students and decided to use the rest to make pies. Each pie takes five apples.,The students could make two pies.,entailment
+nluds-2242-ww,There are fifty-eight students trying out for the school's trivia teams. Twenty-eight of them didn't get picked for the team and the rest were put into five groups.,There would be six students in each group.,entailment
+nluds-0009_input-ww,Fourteen red plums and four green plums are in the basket.,There are fourteen plums in the basket.,contradiction
+nluds-0012_input-ww,Five red peaches and fourteen green peaches are in the basket.,There are fourteen peaches in the basket.,contradiction
+nluds-0017_input-ww,Jake has six fewer peaches than Steven. Steven has thirteen peaches.,Jake has thirteen peaches.,contradiction
+nluds-0020_input-ww,Brian has zero fewer oranges than Marcie. Marcie has twelve oranges.,Brian has twelve oranges.,contradiction
+nluds-0040_input-ww,Mrs. Hilt saw three bugs eat two flowers each.,The bugs ate three flowers in total.,contradiction
+nluds-0130_input-ww,Each CD rack holds eight CDs. A shelf can hold four racks.,There can be eight CDs on the shelf in total.,contradiction
+nluds-0476_input-ww,"Haley loves to collect things. This year, she decided to give away part of her collection as it was taking too much space in her room. Nine of her closest friends like stickers. Haley has seventy two stickers. She plans to give all of them an equal number of stickers.",Each of Haley's friend will receive seventy two stickers.,contradiction
+nluds-0485_input-ww,Brenda's mother made cookies for five. She prepared thirty five cookies and each of them had the same number of cookies.,They each have thirty five cookies.,contradiction
+nluds-0490_input-ww,"For dessert, Jane's mom prepared twelve pieces of bite-size cinnamon swirls. The three of them ate an equal number of pieces of cinnamon swirls.",Jane ate twelve pieces.,contradiction
+nluds-0540_input-ww,This year on your 11th birthday your mother tells you that she is exactly three times as old as you are.,She is three years old.,contradiction
+nluds-0618_input-ww,Six students were sitting at each table in the lunchroom. There are thirty four tables.,Thirty four students were sitting in the lunchroom.,contradiction
+nluds-0640_input-ww,Mrs. Hilt measured the distance from her desk to the water fountain. It was thirty feet. She goes to the water fountain four times today.,Mrs. Hilt will walk thirty feet on her trips to the fountain.,contradiction
+nluds-0728_input-ww,"Kendra took a road trip. In the afternoon, she saw four minivans like hers. Later, in the evening, she saw one more minivan like hers.",Kendra saw four minivans like hers in all.,contradiction
+nluds-2192_input-ww,Chloe and her friends were recycling paper for their class. For every six pounds they recycled they earned one point. Chloe recycled twenty-eight pounds and her friends recycled two pounds.,They earned one points.,contradiction
+nluds-0001_random-ww,Seven red apples and two green apples are in the basket.,There are eight apples in the basket.,contradiction
+nluds-0003_random-ww,Janet has nine oranges and Sharon has seven oranges.,Janet and Sharon have fifty eight oranges together.,contradiction
+nluds-0004_random-ww,Allan brought two balloons and Jake brought four balloons to the park.,Allan and Jake had nine balloons in the park.,contradiction
+nluds-0006_random-ww,Brian has four more plums than Paul. Paul has seven plums.,Brian has sixty four plums.,contradiction
+nluds-0009_random-ww,Fourteen red plums and four green plums are in the basket.,There are forty nine plums in the basket.,contradiction
+nluds-0015_random-ww,Eight balls were in the basket. Some of the balls were removed from the basket. Now there are six balls.,One balls were removed from the basket.,contradiction
+nluds-0017_random-ww,Jake has six fewer peaches than Steven. Steven has thirteen peaches.,Jake has one peaches.,contradiction
+nluds-0018_random-ww,David has zero fewer apples than Marin. Marin has three apples.,David has seven apples.,contradiction
+nluds-0020_random-ww,Brian has zero fewer oranges than Marcie. Marcie has twelve oranges.,Brian has six oranges.,contradiction
+nluds-0040_random-ww,Mrs. Hilt saw three bugs eat two flowers each.,The bugs ate eighty two flowers in total.,contradiction
+nluds-0069_random-ww,Twenty-two boys went down the slide. Thirteen more boys went down the slide.,Seventy three boys went down the slide.,contradiction
+nluds-0071_random-ww,Thirty dogs are barking. Ten more dogs start to bark.,Thirty dogs are barking.,contradiction
+nluds-0072_random-ww,"Bobby ate twenty-six pieces of candy. Then, he ate seventeen more.",Bobby ate forty eight pieces of candy.,contradiction
+nluds-0074_random-ww,The clown blew up forty-seven balloons. Then he blew up thirteen more balloons.,The clown has zero balloons now.,contradiction
+nluds-0138_random-ww,Adolfo made a tower with thirty-five blocks. He added some more blocks and now he has sixty-five blocks.,Adolfo had to add twenty nine blocks.,contradiction
+nluds-0476_random-ww,"Haley loves to collect things. This year, she decided to give away part of her collection as it was taking too much space in her room. Nine of her closest friends like stickers. Haley has seventy two stickers. She plans to give all of them an equal number of stickers.",Each of Haley's friend will receive sixty nine stickers.,contradiction
+nluds-0619_random-ww,Tyler had fifteen dogs. Each dog had five puppies.,Tyler now has seventy four puppies.,contradiction
+nluds-0728_random-ww,"Kendra took a road trip. In the afternoon, she saw four minivans like hers. Later, in the evening, she saw one more minivan like hers.",Kendra saw four minivans like hers in all.,contradiction
+nluds-1372_random-ww,There were eight red roses and two white roses in the vase. Melanie cut some more roses from her flower garden. There are now fourteen red roses in the vase.,Melanie cut forty one red roses.,contradiction
+nluds-1374_random-ww,"Mike found sixty-two seashells on the beach, he gave Tom some of his seashells. He has thirteen seashell left.",Mike gave seventy one seashells to Tom.,contradiction
+nluds-1556_random-ww,An industrial machine can make three hundred sixty-one crayons a day. Each box of crayons has four crayons in it.,The machine makes eighty five full boxes a day.,contradiction
+nluds-1721_random-ww,Mike played six games of basketball with his friends. Mike scored four points each game.,Mike scored ninety two points in total.,contradiction
+nluds-1723_random-ww,Adam had to wash fourteen loads of clothes. By noon he had only washed eight loads.,Adam still needs to wash thirteen loads of clothes.,contradiction
+nluds-1725_random-ww,At the state fair Paul bought eleven tickets. He spent three tickets on the Ferris wheel.,Paul had ten tickets left.,contradiction
+nluds-1726_random-ww,Cody had nine old video games he wanted to get rid of. He gave his friend four of the games.,Cody still has three video games.,contradiction
+nluds-1727_random-ww,Victor bought several boxes of books at a yard sale and ended up with twenty-four books total. Each box had three books.,Victor bought three boxes.,contradiction
+nluds-1728_random-ww,Sam had eleven friends over for his birthday party. Later three of his friends had to go home.,There are nine friends left.,contradiction
+nluds-1729_random-ww,Paul was packing up his old toys. He managed to squeeze eight toys into a box. Paul filled up four boxes.,Paul packed thirty three toys in total.,contradiction
+nluds-1732_random-ww,Adam could fit nine action figures on each shelf in his room. His room has three shelves.,His shelves could hold a total of ninety four action figures.,contradiction
+nluds-1741_random-ww,Tiffany was collecting cans for recycling. On Monday she had four bags of cans. The next day she found eight more bags worth.,Tiffany had twenty nine bags in total.,contradiction
+nluds-1743_random-ww,Lana's mom was buying extra school supplies for her and her siblings. She bought three packs of glue sticks with seven glue sticks in each pack.,Lana got twenty two glue sticks in total.,contradiction
+nluds-1744_random-ww,Maria was placing her spare change into stacks. Each stack had three coins. She had five stacks.,Maria has eighty two coins.,contradiction
+nluds-1746_random-ww,Dave was making ice using ice trays. He originally had two ice cubes. But made seven more cubes.,Dave had thirty one ice cubes in total.,contradiction
+nluds-1747_random-ww,On the last day of school only sixteen students showed up. Seven of them were checked out early.,Fifteen students were left.,contradiction
+nluds-1749_random-ww,Tom read three chapters of a book. Each chapter was eight pages.,Tom read five pages.,contradiction
+nluds-1752_random-ww,Vanessa bought twelve old CDs at a garage sale. Seven of the CDs were scratched up.,Vanessa bought six good CDs.,contradiction
+nluds-1753_random-ww,Will went to the state fair and rode the Ferris wheel thirteen times. He rode it seven times during the day.,Will rode it eight times at night.,contradiction
+nluds-1761_random-ww,For Halloween Tom received twenty pieces of candy. He put them into piles with five in each pile.,Tom could make one piles.,contradiction
+nluds-1768_random-ww,"A chef had five potatoes to make fries with, but he only used three of them.",A chef still has fifty potatoes.,contradiction
+nluds-1841_random-ww,Paige raised fifteen goldfish in the pond but stray cats loved eating them. Now she has four left.,Eighty two goldfish disappeared.,contradiction
+nluds-1851_random-ww,Ned ordered some pizzas for a party. During the party four were eaten. Now he has seven left.,Ned ordered twelve pizzas for the party.,contradiction
+nluds-1854_random-ww,"Dave had sixteen apps on his phone. After deleting some, he had eight left.",Dave deleted seven apps.,contradiction
+nluds-1856_random-ww,A waiter had eighteen customers. Six left.,The waiter would still have eighty customers.,contradiction
+nluds-1857_random-ww,Megan had seventeen bottles of water. She drank three of them.,Megan would have thirteen bottles left.,contradiction
+nluds-1859_random-ww,Maria took sixteen fish out of her fish tank. Now there are three fish in the tank.,There were twenty seven fish in the tank to start with.,contradiction
+nluds-1861_random-ww,Paige had eleven pencils. After using some she had four left.,Paige used three pencils.,contradiction
+nluds-1862_random-ww,Cody had a bag of marbles. Later he gave five to his brother. Now Cody has seven marbles.,Cody had forty marbles to start with.,contradiction
+nluds-1863_random-ww,A museum had thirteen paintings. They got rid of eight of them.,They would have seven pictures left.,contradiction
+nluds-1866_random-ww,Megan gave seven acorns to her sister. Now Megan has nine acorns left.,Megan had zero acorns in the beginning.,contradiction
+nluds-1868_random-ww,"For Halloween Will got fifteen pounds of candy. After giving some to Haley, he had nine pounds left.",Will gave eighty seven pounds to Haley.,contradiction
+nluds-1873_random-ww,A tape was thirteen meters long. Haley used some to seal cartons. Now the tape is six meters long.,Haley used fifteen meters of tape.,contradiction
+nluds-1874_random-ww,"A furniture store had fifteen chairs. After selling some, there was three left.",They sold forty eight chairs.,contradiction
+nluds-1875_random-ww,Rachel took two dollars from her piggy bank. Now she has three dollars in her piggy bank.,"Originally, there was four dollars in there.",contradiction
+nluds-1883_random-ww,Kaleb has seventeen shirts. He got rid of seven of them.,Kaleb would have one shirts.,contradiction
+nluds-1887_random-ww,Haley grew sixteen trees in her backyard. After a typhoon five died.,Haley has twelve trees left.,contradiction
+nluds-1889_random-ww,The host prepared nineteen cakes for the party. After the party he had nine left.,People ate eighty five cakes at the party.,contradiction
+nluds-1892_random-ww,There are ninety-eight cats in the little town. Ninety-two of them are a asleep.,One cats are still awake.,contradiction
+nluds-1904_random-ww,At the arcade Dave spent forty-three tickets on stuffed tiger. Then he had fifty-five left.,Dave had forty seven tickets to start with.,contradiction
+nluds-1906_random-ww,Billy had seventy-four cherries. He ate seventy-two of them.,Billy has one cherries left.,contradiction
+nluds-1907_random-ww,Adam had some quarters. He spent nine of them at the arcade and had seventy-nine left over.,Adam had eighty seven quarters to start with.,contradiction
+nluds-1908_random-ww,At a bus stop forty-seven people got off the bus. Now there were forty-three people on the bus.,There were ninety eight people on the bus before.,contradiction
+nluds-1910_random-ww,A farmer had forty-six tomatoes from his garden. After picking some he had three left.,A farmer picked fifty two tomatoes.,contradiction
+nluds-1911_random-ww,Carol had ninety-seven pieces of tissue paper. After blowing her nose she had ninety-three left.,Carol used thirty pieces of tissue paper.,contradiction
+nluds-1916_random-ww,A fast food restaurant had ninety-nine hotdogs. After selling some they had ninety-seven left.,They sold ten hotdogs.,contradiction
+nluds-1917_random-ww,John bought some cupcakes for a party. During the party eleven were eaten. Now he has twenty-one left.,John got forty eight cupcakes for the party.,contradiction
+nluds-1921_random-ww,"A museum had ninety-eight paintings. After they got rid of some, they had ninety-five left.",They got rid of six paintings.,contradiction
+nluds-1925_random-ww,For a birthday party a clown gave away six balloons. Now he has fifty-five balloons left.,The clown had seventy one balloons to start with.,contradiction
+nluds-1927_random-ww,"There were ninety-four dollars in Olivia's wallet. After she visited a supermarket, there were seventy-eight dollars left.",Olivia spent two dollars.,contradiction
+nluds-1928_random-ww,Winnie completed eighty-six consecutive repetitions for rope jumping yesterday. Today she completed only seventy-three.,Winnie fell behind twelve repetitions.,contradiction
+nluds-1929_random-ww,While playing a video game Ned lost thirteen lives. Now he has seventy lives.,Ned had seventy six lives at the start.,contradiction
+nluds-1932_random-ww,A baker made ninety cakes. He sold eighty-three of them.,The baker would still have thirty nine cakes.,contradiction
+nluds-1933_random-ww,A chef had seventy-seven cherries. He used sixty of them to make a pie.,A chef would still have fifty five cherries.,contradiction
+nluds-1935_random-ww,Isabel had ninety DS games. She gave eighty-seven to her friend.,Isabel would have twelve DS games left.,contradiction
+nluds-1937_random-ww,A store has thirty-five shirts. They sold thirty of them.,They would have nine shirts.,contradiction
+nluds-1938_random-ww,Paige used three of her pencils. Now she has ninety-one pencils.,Paige had ninety five pencils to begin with.,contradiction
+nluds-1939_random-ww,Gwen's hair was twenty-eight centimeters long. After a haircut it was seventeen centimeters long.,Gwen cut off ten centimeters.,contradiction
+nluds-1942_random-ww,At the zoo a cage had sixty-eight snakes. Forty-two were hiding.,Twenty nine snakes were not hiding.,contradiction
+nluds-2117_random-ww,A grocery store had forty-nine bottles of regular soda and thirty-five bottles of diet soda.,They had eighty five bottles in total.,contradiction
+nluds-2118_random-ww,While playing a game Sam had ninety-two points. He scored another three points.,Sam would have eighty five points in total.,contradiction
+nluds-2119_random-ww,In the first half of a trivia game Kaleb scored forty-three points. In the second half he scored twenty-three points.,Kaleb scored ninety points in total.,contradiction
+nluds-2123_random-ww,A store has fifty-six shirts. Later they got in eleven more shirts.,The store has sixty eight shirts now.,contradiction
+nluds-2129_random-ww,Isabel had sixty-eight pieces of candy. Her friend gave her twenty-five more pieces.,Isabel had a total of sixty six pieces of candy.,contradiction
+nluds-2133_random-ww,Debby received twenty-one text messages before noon and another eighteen after noon.,Debby received a total of one text messages.,contradiction
+nluds-2134_random-ww,At the fair Amy started with thirty-three tickets and then bought twenty-one more.,Amy had a total of twenty tickets.,contradiction
+nluds-2137_random-ww,A pet store had sixty-four birds that talked and thirteen that didn't.,The pet store had a total of twenty seven birds.,contradiction
+nluds-2139_random-ww,At the arcade Henry had won fifty-eight tickets. Later he won forty more tickets.,Henry had a total of five tickets.,contradiction
+nluds-2143_random-ww,A farmer planted twenty seeds on Wednesday and another two seeds on Thursday.,A farmer planted a total of fifteen seeds.,contradiction
+nluds-2144_random-ww,Haley watched TV for six hours on Saturday and three hours on Sunday.,Haley watched TV for a total of thirty six hours.,contradiction
+nluds-2148_random-ww,For Halloween Frank got ten pounds of candy and Gwen got seven pounds of candy.,The combined weight they received is six pounds.,contradiction
+nluds-2154_random-ww,Robin drank seven bottles of water in the morning and seven in the afternoon.,Robin drank a total of two bottles.,contradiction
+nluds-2156_random-ww,Olivia picked up sixteen pieces of paper from the floor. Edward picked up three pieces.,They picked up a total of three pieces of paper.,contradiction
+nluds-2158_random-ww,Katie had twelve pencils in her desk and three more in her backpack.,Katie had a total of thirteen pencils.,contradiction
+nluds-2160_random-ww,At the fair Haley went on six rides in the day and three at night.,Haley went on a total of five rides.,contradiction
+nluds-2161_random-ww,Lana had eleven DS games. She bought two more games.,Lana would have a total of ninety nine DS games.,contradiction
+nluds-2164_random-ww,There were ten people on the bus. At the next stop three more people got on the bus.,There are thirty eight people on the bus now.,contradiction
+nluds-2165_random-ww,Oliver collected two seashells from the beach on Monday and two more on Tuesday.,Oliver collected a total of five seashells.,contradiction
+nluds-2186_random-ww,Vanessa uploaded twenty-three pictures from her phone and seven from her camera to Facebook. She sorted the pics into five different albums with the same amount of pics in each album.,Each of the albums had thirteen pictures.,contradiction
+nluds-2187_random-ww,For a birthday party Cody bought thirty regular sodas and five diet sodas. His fridge would only hold seven on each shelf.,Cody would fill up seventy six shelves.,contradiction
+nluds-2193_random-ww,A group of nine friends went into a restaurant. The chef already had two chicken wings cooked but cooked twenty-five more for the group. They each got the same amount.,Each person would get two chicken wings.,contradiction
+nluds-2199_random-ww,A vase can hold nine flowers. You had four carnations and twenty-three roses.,You would need thirty seven vases to hold the flowers.,contradiction
+nluds-2200_random-ww,For homework Megan had thirty-six math problems and twenty-eight spelling problems. She can finish eight problems in an hour.,It would take her forty three hours to finish all the problems.,contradiction
+nluds-2201_random-ww,Gwen's class is going on a field trip to the zoo. Each van can hold seven people and there are thirty-three students and nine adults going.,They would need forty seven vans.,contradiction
+nluds-2202_random-ww,For Halloween Isabel received sixteen pieces of candy from neighbors and five pieces from her older sister. She only ate three pieces a day.,The candy would last her ninety five days.,contradiction
+nluds-2205_random-ww,At the town carnival Billy rode the ferris wheel seven times and the bumper cars three times. Each ride cost five tickets.,Billy used forty nine tickets.,contradiction
+nluds-2209_random-ww,"While playing a trivia game, Adam answered five questions correct in the first half and five questions correct in the second half. Each question was worth five points.",His final score was fifty one points.,contradiction
+nluds-2216_random-ww,Gwen was organizing her book case making sure each of the shelves had exactly four books on it. She had five shelves of mystery books and three shelves of picture books.,Gwen had thirty three books in total.,contradiction
+nluds-2220_random-ww,Kaleb was collecting cans for recycling. On Saturday he filled five bags up and on Sunday he filled five more bags. Each bag had four cans in it.,Kaleb picked up forty one cans in total.,contradiction
+nluds-2226_random-ww,"Tom had thirty-six pieces of clothing to wash. He put eighteen of them in one load, but decided to split the rest into two equal loads.",Nine pieces of clothing could go in each of the small loads.,contradiction
+nluds-2230_random-ww,Faye picked eighty-eight flowers for her friend's wedding. She was making bouquets with five flowers in each one. Forty-eight of the flowers wilted before the wedding.,Faye could still make nine bouquets.,contradiction
+nluds-2234_random-ww,Roger is at the library helping put away books. There are fifty-four book to put away total but a librarian takes nineteen of them and leaves Roger with the rest. He can fit five books on a shelf.,Roger will need twenty shelves.,contradiction
+nluds-2235_random-ww,Paige had one hundred ten homework problems. She finished forty-seven of them but still had seven pages of problems to do. Each page has the same number of problems on it.,There are zero problems on each page.,contradiction
+nluds-2236_random-ww,Paige uploaded thirty-five pictures to Facebook. She put fourteen pics into one album and put the rest into three different albums.,There were six pictures in each of the three albums.,contradiction
+nluds-2241_random-ww,Jerry was selling his old games. He started out with sixty-eight but sold four of them. He packed the rest up putting eight games into each box.,Jerry had to use seven boxes.,contradiction
+nluds-0001_ortho-ww,Seven red apples and two green apples are in the basket.,There are zero.nine apples in the basket.,contradiction
+nluds-0007_ortho-ww,Sandra took six cups of coffee and Marcie took two cups of coffee.,Sandra and Marcie took eighty cups of coffee in total.,contradiction
+nluds-0009_ortho-ww,Fourteen red plums and four green plums are in the basket.,There are zero.eighteen plums in the basket.,contradiction
+nluds-0020_ortho-ww,Brian has zero fewer oranges than Marcie. Marcie has twelve oranges.,Brian has two oranges.,contradiction
+nluds-0072_ortho-ww,"Bobby ate twenty-six pieces of candy. Then, he ate seventeen more.",Bobby ate zero.forty three pieces of candy.,contradiction
+nluds-0074_ortho-ww,The clown blew up forty-seven balloons. Then he blew up thirteen more balloons.,The clown has six balloons now.,contradiction
+nluds-0130_ortho-ww,Each CD rack holds eight CDs. A shelf can hold four racks.,There can be two CDs on the shelf in total.,contradiction
+nluds-0135_ortho-ww,Maria had twenty-five pieces of gum. Tommy gave her sixteen more pieces. Luis gave her twenty more pieces.,Maria has six pieces of gum now.,contradiction
+nluds-0485_ortho-ww,Brenda's mother made cookies for five. She prepared thirty five cookies and each of them had the same number of cookies.,They each have seven cookies.,contradiction
+nluds-1365_ortho-ww,There are thirty-eight dogwood trees currently in the park. Park workers will plant more dogwood trees today. When the workers are finished there will be fifty-six dogwood trees in the park.,The workers planted zero.eighteen dogwood trees today.,contradiction
+nluds-1372_ortho-ww,There were eight red roses and two white roses in the vase. Melanie cut some more roses from her flower garden. There are now fourteen red roses in the vase.,Melanie cut zero.six red roses.,contradiction
+nluds-1374_ortho-ww,"Mike found sixty-two seashells on the beach, he gave Tom some of his seashells. He has thirteen seashell left.",Mike gave ninety four seashells to Tom.,contradiction
+nluds-1381_ortho-ww,There are thirty-three rose bushes and thirty-seven oak trees currently in the park. Park workers will plant more rose bushes today. When the workers are finished there will be ninety-eight rose bushes in the park.,The workers planted six.five rose bushes today.,contradiction
+nluds-1382_ortho-ww,Dan's high school played eighteen baseball games this year and two were at night. The team won most of their games. They were defeated during three games.,They won fifty one games.,contradiction
+nluds-1718_ortho-ww,A mailman has to give twenty-eight pieces of junk mail to each block. There are four houses on a block.,A mailman should give each house seventy pieces of junk mail.,contradiction
+nluds-1719_ortho-ww,Billy bought five boxes of books at a yard sale. Each box had seven books.,Billy bought zero.thirty five books.,contradiction
+nluds-1723_ortho-ww,Adam had to wash fourteen loads of clothes. By noon he had only washed eight loads.,Adam still needs to wash thirty six loads of clothes.,contradiction
+nluds-1727_ortho-ww,Victor bought several boxes of books at a yard sale and ended up with twenty-four books total. Each box had three books.,Victor bought eighty eight boxes.,contradiction
+nluds-1730_ortho-ww,Will was drawing super heroes on a sheet of scrap paper. He drew two heroes on the front and seven heroes on the back.,Will drew twenty nine heroes in total.,contradiction
+nluds-1733_ortho-ww,Ned mowed his lawn six times in the spring and five times in the summer.,Ned mowed a total of one times.,contradiction
+nluds-1735_ortho-ww,Frank had forty-two pieces of candy. He put them into bags with seven pieces in each bag.,Frank would have sixty bags.,contradiction
+nluds-1739_ortho-ww,Oliver bought eight boxes of candy. Later he bought six more boxes.,Oliver had forty one boxes in total.,contradiction
+nluds-1741_ortho-ww,Tiffany was collecting cans for recycling. On Monday she had four bags of cans. The next day she found eight more bags worth.,Tiffany had one bags in total.,contradiction
+nluds-1745_ortho-ww,A chef used five potatoes to make fries for the lunch crowd. Later he used another two potatoes for the dinner crowd.,A chef used a total of seventy potatoes.,contradiction
+nluds-1763_ortho-ww,A delivery driver had to make three more stops on his route. At each stop he had to drop off nine boxes.,A delivery driver has seventy two boxes.,contradiction
+nluds-1768_ortho-ww,"A chef had five potatoes to make fries with, but he only used three of them.",A chef still has zero.two potatoes.,contradiction
+nluds-1842_ortho-ww,Cody cooked fourteen dumplings. He ate seven.,Cody has forty seven dumplings now.,contradiction
+nluds-1843_ortho-ww,Sarah could send ten text messages a day. She sent eight.,Sarah has sixty two text messages left she can send.,contradiction
+nluds-1856_ortho-ww,A waiter had eighteen customers. Six left.,The waiter would still have one customers.,contradiction
+nluds-1864_ortho-ww,A chef used fifteen apples to make a pie. Now he has four apples left.,A chef had nineteen apples before he made the pie.,contradiction
+nluds-1869_ortho-ww,Amy had twelve pencils. She used four of them.,Amy would have zero.eight pencils left.,contradiction
+nluds-1873_ortho-ww,A tape was thirteen meters long. Haley used some to seal cartons. Now the tape is six meters long.,Haley used zero.seven meters of tape.,contradiction
+nluds-1874_ortho-ww,"A furniture store had fifteen chairs. After selling some, there was three left.",They sold one chairs.,contradiction
+nluds-1875_ortho-ww,Rachel took two dollars from her piggy bank. Now she has three dollars in her piggy bank.,"Originally, there was fifty five dollars in there.",contradiction
+nluds-1878_ortho-ww,Jerry had eleven cherries. He ate eight of them.,Jerry has twenty three cherries left.,contradiction
+nluds-1889_ortho-ww,The host prepared nineteen cakes for the party. After the party he had nine left.,People ate one cakes at the party.,contradiction
+nluds-1890_ortho-ww,Frank had thirteen boxes. He filled eight with toys.,Frank still has zero.five boxes.,contradiction
+nluds-1892_ortho-ww,There are ninety-eight cats in the little town. Ninety-two of them are a asleep.,zero.six cats are still awake.,contradiction
+nluds-1894_ortho-ww,A farmer had ninety-seven tomatoes from his garden. He picked eighty-three of them.,A farmer would have four tomatoes left.,contradiction
+nluds-1897_ortho-ww,Paul had eighty-six books. After selling some in a garage sale he had seventy-eight left.,Paul sold eighty eight books.,contradiction
+nluds-1905_ortho-ww,Gwen had ninety-eight DS games. After she gave some to her friends she had ninety-one left.,Gwen gave away fifty seven games.,contradiction
+nluds-1913_ortho-ww,A chef had forty-six apples. After making some pies he had fourteen left.,A chef used zero.thirty two apples.,contradiction
+nluds-1924_ortho-ww,For a party Adam bought ninety-seven cupcakes. Fifty-eight were eaten.,Adam would have three.nine cupcakes left.,contradiction
+nluds-1927_ortho-ww,"There were ninety-four dollars in Olivia's wallet. After she visited a supermarket, there were seventy-eight dollars left.",Olivia spent six dollars.,contradiction
+nluds-1933_ortho-ww,A chef had seventy-seven cherries. He used sixty of them to make a pie.,A chef would still have one cherries.,contradiction
+nluds-1934_ortho-ww,Carol had eighty-one pieces of paper in her folder. After a week she had thirty-eight left.,Carol used thirty four pieces in the week.,contradiction
+nluds-1935_ortho-ww,Isabel had ninety DS games. She gave eighty-seven to her friend.,Isabel would have fifty three DS games left.,contradiction
+nluds-1937_ortho-ww,A store has thirty-five shirts. They sold thirty of them.,They would have sixty five shirts.,contradiction
+nluds-1940_ortho-ww,"Adam picked thirty-five strawberries. After eating some, he had thirty-three left.",Adam ate twelve strawberries.,contradiction
+nluds-2121_ortho-ww,For a party Henry spent forty-five dollars on food and thirty-three dollars on drinks.,Henry spent zero.seventy eight dollars in total.,contradiction
+nluds-2122_ortho-ww,A restaurant sold seventy-seven sodas in the morning and nineteen in the afternoon.,They sold ninety six sodas in total.,contradiction
+nluds-2123_ortho-ww,A store has fifty-six shirts. Later they got in eleven more shirts.,The store has seventy six shirts now.,contradiction
+nluds-2125_ortho-ww,There were sixty-one people in line at lunch when twenty-two more got in line.,There were thirty eight people in line in total.,contradiction
+nluds-2129_ortho-ww,Isabel had sixty-eight pieces of candy. Her friend gave her twenty-five more pieces.,Isabel had a total of thirty nine pieces of candy.,contradiction
+nluds-2141_ortho-ww,Sam was playing basketball with his friend. Sam scored seventy-five points and his friend scored twelve points.,They scored a total of eight points.,contradiction
+nluds-2186_ortho-ww,Vanessa uploaded twenty-three pictures from her phone and seven from her camera to Facebook. She sorted the pics into five different albums with the same amount of pics in each album.,Each of the albums had thirty six pictures.,contradiction
+nluds-2191_ortho-ww,The school's debate team had thirty-one boys and thirty-two girls on it. They were split into groups of nine.,They could make zero.seven groups.,contradiction
+nluds-2197_ortho-ww,"Ned was helping the cafeteria workers pick up lunch trays, but he could only carry eight trays at a time. He had to pick up twenty-seven trays from one table and five trays from another.",Ned would make zero.four trips.,contradiction
+nluds-2202_ortho-ww,For Halloween Isabel received sixteen pieces of candy from neighbors and five pieces from her older sister. She only ate three pieces a day.,The candy would last her seventeen days.,contradiction
+nluds-2210_ortho-ww,Haley's favorite band was holding a concert where tickets were four dollars each. Haley bought three tickets for herself and her friends and five extra tickets in case anyone else wanted to go.,Haley spent twenty three dollars.,contradiction
+nluds-2212_ortho-ww,Victor and his friend were buying trick decks from the magic shop for eight dollars each. Victor bought six decks and his friend bought two decks.,Victor and his friends spent zero.sixty four dollars.,contradiction
+nluds-2218_ortho-ww,April's discount flowers was having a sale where each flower was eight dollars. Vanessa bought three roses and three daisies.,Vanessa spent zero.forty eight dollars.,contradiction
+nluds-2229_ortho-ww,A pet store had forty-five puppies. In one day they sold thirty-nine of them and put the rest into cages with two in each cage.,They used thirty three cages.,contradiction
+nluds-2230_ortho-ww,Faye picked eighty-eight flowers for her friend's wedding. She was making bouquets with five flowers in each one. Forty-eight of the flowers wilted before the wedding.,Faye could still make thirty eight bouquets.,contradiction
+nluds-2236_ortho-ww,Paige uploaded thirty-five pictures to Facebook. She put fourteen pics into one album and put the rest into three different albums.,There were seventy pictures in each of the three albums.,contradiction
+nluds-0476_ortho-ww,"Haley loves to collect things. This year, she decided to give away part of her collection as it was taking too much space in her room. Nine of her closest friends like stickers. Haley has seventy two stickers. She plans to give all of them an equal number of stickers.",Each of Haley's friend will receive eight hundred stickers.,contradiction
+nluds-1722_ortho-ww,Emily was selling some of her old toys at a garage sale. She started out with seven toys and sold three of them.,Emily has four thousand toys left.,contradiction
+nluds-1751_ortho-ww,The roller coaster at the state fair costs five tickets per ride. You had ten tickets.,You can ride it two hundred times.,contradiction
+nluds-1848_ortho-ww,"There were nine kinds of sandwiches on the menu. Unfortunately, five of them had been sold out.",They actually provide four hundred sandwiches now.,contradiction
+nluds-1850_ortho-ww,The book fair sold four posters. Now they have two posters left.,There were six hundred posters to start with.,contradiction
+nluds-1888_ortho-ww,Debby owned thirteen DVDs. She sold six of them.,Debby would have seven hundred DVDs left.,contradiction
+nluds-2194_ortho-ww,A pet shelter had twenty-three puppies when another two were brought in. Five puppies a day are adopted.,It would take five hundred days for all of them to be adopted.,contradiction
+nluds-2227_ortho-ww,Nancy had forty-three files on her computer. She deleted thirty-one of them and put the rest into folders with six files in each one.,Nancy ended up with two thousand folders.,contradiction
+neutral_cc-376_varx-ww,Sarah's old washing machine could only wash five pieces of clothing at a time. She had to wash more than forty three shirts and more than two sweaters.,Sarah would have to do two loads.,neutral
+neutral_cc-366_varx-ww,Paul made three dollars mowing lawns and three dollars weed eating every week. He only spent three dollar a week.,The money would last Paul three weeks.,neutral
+neutral_cc-260-ww,April's discount flowers was having a sale where each flower was six dollars. Katie bought more than five roses and more than five daisies.,April spent sixty dollars.,neutral
+neutral_cc-220-ww,Faye was playing a video game where she scores seven points for each treasure she finds. She found two treasures on the first level and six on the second and serveral on the third.,Faye's score would be fifty six points.,neutral
+neutral_cc-488-ww,There were thirteen friends playing a video game online when eight players quit. Each player left had more than six lives.,The players had a total of thirty lives.,neutral
+neutral_gen_100_varx-ww,Rachel has fifty two apple trees. She picked two apples from one of her trees. Now this tree has seven apples still on it.,Rachel has fifty two apples in all of his trees.,neutral
+neutral_cc-597-ww,The cafeteria had seventy five apples. For lunch they handed out some to students and decided to use the rest to make pies. Each pie takes seven or eight apples depends on size.,The cafetaria could make seven pies.,neutral
+neutral_gen_38-ww,Paige had more than eleven songs on her music player. She deleted less than nine old songs from it and then added more than eight new songs.,She has ten songs on her music player.,neutral
+neutral_gen_67-ww,For the school bake sale Chloe made more than twenty eight cupcakes. She sold twenty five of them and then made eight more.,She would have eleven cupcakes.,neutral
+neutral_gen_74-ww,Vanessa had thirteen music files and thirty video files on her flash drive. She deleted ten of the files.,There were thirty three music files still on her flash drive.,neutral
+neutral_gen_44_varx-ww,At the arcade Dave won more than eleven tickets. He spent five tickets on a beanie and later won ten more tickets.,He would have eleven items.,neutral
+neutral_chal-965_varx-ww,There are more than two baskets of peaches. Each basket has four red peaches and some more green peaches. If there are a total of 1two peaches in all baskets,There are four green peaches in each basket.,neutral
+neutral_chal-877-ww,Rebecca wants to split a collection of marbles into groups of four. Rebecca has ten eggs and more than twenty marbles.,Five groups will be created.,neutral
+neutral_cc-046_varx-ww,Dave had to wash nine short sleeve shirts and twenty seven long sleeve shirts before school. He had only washed at least twenty of them by the time school started.,Dave did not wash twenty sleeve shirt.,neutral
+neutral_gen_62_varx-ww,A pet store had twelve siamese cats and twenty house cats. During a sale they sold twenty cats.,They have twenty house cats left.,neutral
+neutral_gen_70_varx-ww,For the school bake sale Katie made more than twenty six cupcakes. She sold twenty of them and then made twenty more.,She would have twenty six cupcakes.,neutral
+neutral_chal-214-ww,There were twelve roses and some orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now ten roses and twenty one orchids in the vase.,Jessica has cut nineteen orchids.,neutral
+neutral_gen_68-ww,A store had more than forty oranges in a bin. They threw away twenty five of the old ones and put twenty one new ones in the bin.,There would be thirty six items in the bin.,neutral
+neutral_cc-120_varx-ww,A waiter had at least fourteen customers to wait on. At most three customers left and he got another three9 customers.,The waiter would have thirty nine customers.,neutral
+neutral_gen_05_varx-ww,In fourth grade there were more than four students at the start of the year. During the year three students left and four2 new students came to school.,There were three students in the fourth grade at the end.,neutral
+neutral_gen_87-ww,There were thirty nine girls and more than four boys trying out for the schools basketball team. Only four3 of them got called back.,Seventeen students didn't make the cut.,neutral
+neutral_chal-111_varx-ww,You had twenty six bags with different number of cookies. If you had fifteen candies and fifty two cookies in total,Each bag has fifty two cookies.,neutral
+neutral_chal-249-ww,"A grocery store had seventy two barrels of regular soda, thirty two cups of diet soda and seventy eight apples.",They had twenty six more bottles than apples.,neutral
+neutral_chal-328_varx-ww,Luke played a trivia game and gained three points in each round of a game. He would lose four points if he lost the game. If he scored seventy eight points in the trivia game,Luke played three rounds.,neutral
+neutral_gen_18-ww,A waiter had eight customers. After some left he still had five customers. Then he got more than ninety nine new customers.,The waiter had three customers.,neutral
+neutral_chal-858-ww,Thirty three campers went rowing in the morning and ten campers went rowing in the evening.,Twenty four more campers went rowing in the afternoon than in the evening.,neutral
+neutral_chal-491-ww,Haley grew twenty trees in her backyard. After a typhoon more than three trees were left.,Sixteen trees died in the typhoon.,neutral
+neutral_chal-141-ww,Twenty three children were riding on the bus. At the bus stop some children got on the bus while some got off the bus. Then there were eight children altogether on the bus.,Fifteen more children got off the bus than those who got on.,neutral
+neutral_cc-148-ww,At the arcade Victor won forty six tickets. He spent some tickets on a beanie and later won thirty nine more tickets.,At would have fifty eight of them.,neutral
+neutral_cc-245-ww,Chloe was organizing her book case making sure each of the shelves had books on it. She had five shelves of mystery books and four shelves of picture books.,Chloe had a total of fifty four books.,neutral
+neutral_cc-278-ww,Chloe was playing a video game where she scores different points for each treasure she finds. She found six treasures on the first level and three on the second.,Chloe's score would be eighty one points.,neutral
+neutral_chal-599-ww,Ed had more marbles than Doug. Doug lost eleven of his marbles at the playground. If Ed had forty five marbles,Ed had twenty one more marbles than Doug then.,neutral
+neutral_cc-194-ww,Haley picked twenty eight carrots from her garden. She threw out several of them and then picked nine more the next day.,Haley would have a total of twenty six carrots.,neutral
+neutral_chal-510-ww,Marco and his dad went strawberry picking. Marco's strawberries weighed nearly fifteen pounds. If together their strawberries weighed more than thirty seven pounds.,His dad's strawberries weigh twenty two pounds.,neutral
+neutral_chal-341-ww,Jack received thirteen emails in the afternoon and morning and sixteen emails in the evening.,Jack received two more emails in the morning than in the afternoon.,neutral
+neutral_cc-158-ww,Janet was playing a video game and had thirty eight lives. In a hard part of the game she lost sixteen lives. She got more lives in the next level.,Janet would have fifty four lives.,neutral
+neutral_chal-518-ww,Jessie was overweight. After she started to go jogging everyday she lost fifty kilograms in the first week and sixty kilograms in the second week.,Jessie weighs four kilograms now.,neutral
+neutral_cc-280-ww,Lana was unboxing some of her old winter clothes. She found three boxes of clothing and inside each box there were  totally seven scarves and mittens altogether.,Lana had a total of twenty one pieces of winter clothing.,neutral
+neutral_cc-555-ww,"Megan baked seventy one cupcakes for her school's bake sale. Her brother, Todd, ate forty three of them. She put several cupcake in each package?.",Megan could make four packages.,neutral
+neutral_cc-425-ww,"Mike invited thirteen friends to a birthday party, but seven couldn't come. He wanted to buy enough cupcakes so each person could have exactly cake number with Mike.",Mike should buy twenty four of them.,neutral
+neutral_chal-207-ww,"Rachel had to complete pages of math homework, seven pages of reading homework and three more pages of biology homework.",Rachel had to complete eleven pages of math and biology homework.,neutral
+neutral_cc-585-ww,Roger is at the library helping put away books. There are fourteen books to put away total but a librarian takes two of them and leaves Roger with the rest. He can fit books on a shelf.,Roger will need four shelves.,neutral
+neutral_cc-564-ww,A pet store had lots of puppies. In one day they sold twenty one of them and put the rest into cages with nine in each cage.,The pet store used nine cages.,neutral
+neutral_chal-814-ww,A book has two chapters. The first chapter is sixty pages long.,The second chapter has thirty three pages.,neutral
+neutral_chal-743-ww,Rachel picked seven apples from her tree. Thereafter two new apples grew on the tree.,The tree initially had eleven apples.,neutral
+neutral_cc-419-ww,A painter needed to paint twelve rooms in a building. He already painted five rooms.,The waiter will take forty nine more hours to paint the rest.,neutral
+neutral_chal-482-ww,After resting they decided to go for a swim. The depth of the water is five times Ron's height. Dean is eleven feet shorter than Ron.,The water is sixty feet deep.,neutral
+neutral_chal-940-ww,There were roses and orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now less than twelve roses and two orchids in the vase.,There are ten more roses than orchids in the vase now.,neutral
+neutral_cc-568-ww,Sarah had fifty five homework problems. She finished some of them but still had seven pages of problems to do. Each page has the same number of problems on it.,There are seven problems on each page.,neutral
+neutral_chal-688-ww,Three birds were sitting on the fence. two more birds and some storks came to join them.,There is one more stork than birds sitting on the fence.,neutral
+neutral_chal-600-ww,Carol was sending out birthday invitations to her friends. Each package of invitations she bought had several invitations in it and she bought seven packs. If she sends invitations to only two friends,There will be sixty eight invitations left.,neutral
+neutral_cc-289-ww,Tom was putting his spare change into piles. He had two piles of quarters and four piles of dimes. Each pile had several coins in it.,Tom had a total of thirty coins.,neutral
+neutral_nluds-0898-ww,Suzanne read the first fifteen pages of her book on Monday. She read sixteen more pages than that on Tuesday. Then there were some pages left.,There are sixty four pages in Suzanne's book altogether.,neutral
+neutral_chal-858_varx-ww,Thirty three campers went rowing in the morning and ten campers went rowing in the evening.,Ten more campers went rowing in the afternoon than in the evening.,neutral
+neutral_chal-141_varx-ww,Twenty three children were riding on the bus. At the bus stop some children got on the bus while some got off the bus. Then there were eight children altogether on the bus.,Twenty three more children got off the bus than those who got on.,neutral
+neutral_chal-966_varx-ww,"A chef had apples and fifty four peaches. After making some pies, he had thirty nine apples left.",A chef used forty apple.,neutral
+neutral_cc-148_varx-ww,At the arcade Victor won forty six tickets. He spent some tickets on a beanie and later won thirty nine more tickets.,At would have twenty seven of them.,neutral
+neutral_cc-341_varx-ww,A group of friends went into a restaurant. The chef already had six chicken wings cooked but cooked three more for the group. They each got the same amount.,Each person would get six of them.,neutral
+neutral_chal-785_varx-ww,Ed had more marbles than Doug. Doug lost twenty seven of his marbles at the playground while Ed found nine more marbles.,Ed had twenty seven more marbles than Doug then.,neutral
+neutral_cc-181_varx-ww,Emily was playing a video game and had forty two lives. In a hard part of the game she lost twenty five lives. She got more lives in the next level.,Emily would have twenty four lives.,neutral
+neutral_cc-194_varx-ww,Haley picked twenty eight carrots from her garden. She threw out several of them and then picked nine more the next day.,Haley would have a total of nine carrots.,neutral
+neutral_cc-400_varx-ww,A new building needed fourteen windows. The builder had already installed five of them.,It will take the builder four hours to install the rest.,neutral
+neutral_chal-634_varx-ww,Jake has thirteen fewer peaches and three more apples than Steven. Steven has peaches and apples.,Jake has three apples.,neutral
+neutral_chal-240_varx-ww,Zachary did fifty one push-ups in gym class today. John did four push-ups less than David.,John did fifty one push-ups.,neutral
+neutral_chal-947_varx-ww,Josh had fifteen marbles in his collection. He found nine marbles while he lost a few marbles.,Josh lost fifteen more marbles than those he found.,neutral
+neutral_cc-409_varx-ww,A box had seven bars total and Olivia sold all but four bars.,Olivia would have made three dollars.,neutral
+neutral_chal-360_varx-ww,Jake has nine fewer peaches than Steven. Steven has sixteen peaches.,Steven has nine more peaches than Jill.,neutral
+neutral_cc-564_varx-ww,A pet store had lots of puppies. In one day they sold twenty one of them and put the rest into cages with nine in each cage.,The pet store used nine cages.,neutral
+neutral_cc-584_varx-ww,A store had forty eight coloring books in stock. They ended up putting them on sale and getting rid of several of them. The put the ones they still had onto shelves with five on each shelf.,The store used five shelves.,neutral
+neutral_chal-743_varx-ww,Rachel picked seven apples from her tree. Thereafter two new apples grew on the tree.,The tree initially had seven apples.,neutral
+neutral_chal-835_varx-ww,There were people on the bus at first. At the next stop four more people got on the bus. Each bus can not have more than thirty six people.,There are four people on the bus now.,neutral
+neutral_cc-507_varx-ww,Isabel had seventy two homework problems. She finished some of them but still had five pages of problems to do. Each page has the same number of problems on it.,There are five problems on each page.,neutral
+neutral_cc-554_varx-ww,Katie's team won their dodgeball game. Katie scored four of the points and everyone else scored four points each.,There were four players on Katie team.,neutral
+neutral_cc-184_varx-ww,At the fair there were several people in line for the bumper cars. twenty five of them got tired of waiting and left and twenty five more got in line.,There would be twenty five people in line.,neutral
+neutral_chal-776_varx-ww,He then went to see the oranges being harvested. He found out that they harvest sixty seven sacks per day and that each sack containes at least thirteen oranges.,They harvest a total of thirty five oranges.,neutral
+neutral_chal-246_varx-ww,They decided to hold the party in their backyard. They have twelve sets of tables and each set has at most fourteen chairs. There are also some chairs extra.,They have six chairs for the guests.,neutral
+neutral_chal-193_varx-ww,They decided to hold the party in their backyard. They have four sets of tables and each set has three chairs. If several people will attend the party,They will have to buy fourteen more chairs.,neutral
+neutral_cc-408_varx-ww,"Wendy earned five points for each bag of cans she recycled. She had eleven bags, but didn't recycle some of them.",Wendy would have earned five points.,neutral
+neutral_cc-312_varx-ww,A vase can hold flowers. You had seven carnations and 4seven roses.,You would need forty seven vases to hold the flowers.,neutral
+neutral_gen_02-ww,Josh had twenty marbles in his collection. Jack also has some marbles collection. Josh gave two marbles to Jack.,Jack has eighteen marbles now.,neutral
+neutral_gen_13-ww,Rachel was playing a video game where she scores different points for each treasure she finds. She found roughly five treasures on the first level and two on the second.,Her score would be sixty three.,neutral
+neutral_gen_32-ww,John had twelve dollars. He spent eight bucks on a new game.,He could buy two toys with the money he had left.,neutral
+neutral_gen_33-ww,John had ten video games but eight of them weren't working. He wanted to sell the working games for some money each.,He could earn twelve dollars.,neutral
+neutral_gen_42-ww,Gwen bought two coloring books. One had ten pictures the other was unknown. After one week she had already colored thirteen of the pictures.,She still has to color thirty six pictures.,neutral
+neutral_gen_52-ww,Jesse's room is seven feet long. If she needs a carpet of size fourteen square feet.,She needs two carpets to cover the whole room.,neutral
+neutral_gen_61-ww,Olivia and her mom were picking carrots from their garden. Olivia picked twenty and her mother picked fourteen. Only some of the carrots were good.,They had fifteen bad carrots.,neutral
+neutral_gen_95-ww,Wendy was playing a video game and had forty three lives. In a hard part of the game she lost eight lives. She got more lives in the next level.,She would have seventy four lives.,neutral
+neutral_gen_111-ww,Thirty six children were riding on the bus. At the bus stop sixty eight children got off the bus while some more got on the bus.,Twenty four more children got off the bus than those that got on.,neutral
+neutral_gen_113-ww,There were some girls and thirty two boys trying out for the schools basketball team. Only ten of them got called back.,Thirty nine girl students didn't make the cut.,neutral
+neutral_gen_125-ww,Haley and her friends were recycling paper for their class. For every three pounds they recycled they earned one point. Haley and her friends recycled totally ninety nine pounds.,Haley earned nine points.,neutral
+neutral_gen_129-ww,Tom had forty one cookies. He gave a lot cookies to his friend and ate eighteen cookies.,He ate nine more cookies than those he gave to his friend.,neutral
+neutral_gen_132-ww,Mike made forty two dollars mowing lawns over the summer. He spent ten dollars buying new mower blades.,He could buy four games with the money he had left.,neutral
+neutral_gen_137-ww,Edward made thirty seven dollars mowing lawns over the summer. He spent twenty one dollars buying new mower blades.,He could buy eight games with the money he had left.,neutral
+neutral_gen_138-ww,Mike made sixty nine dollars mowing lawns over the summer. He spent twenty four dollars buying new mower blades.,He could buy nine games with the money he had left.,neutral
+neutral_gen_144-ww,Paige and her friends were recycling paper for their class. For every four pounds they recycled they earned one point. Paige and her friends totally recycled twelve pounds.,Her friends earned four points.,neutral
+neutral_gen_145-ww,Marco and his dad went strawberry picking. Together they collected strawberries that weighed thirty six pounds. On the way back Marco ' dad lost eight pounds of strawberries.,His dad's strawberries weigh sixteen units now.,neutral
+neutral_gen_157-ww,"The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped twenty one inches. The mouse jumped sixteen inches lesser than the frog.",The grasshopper jumped forty one units farther than the mouse.,neutral
+neutral_gen_01_varx-ww,Maria bought two new chairs and two new tables for her house. She putting it together.,It took her two minutes to finish.,neutral
+neutral_gen_16_varx-ww,Paige had lots of songs on her music player. She deleted five old songs from it and then added thirty new songs.,She has five songs on her music player.,neutral
+neutral_gen_72_varx-ww,He then went to see the oranges being harvested. He found out that they harvest sixty six sacks per day.  Each sack contains more than twenty eight oranges,They harvest twenty eight oranges per day.,neutral

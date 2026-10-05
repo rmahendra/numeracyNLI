@@ -1,0 +1,987 @@
+problem-id,NLI Premise,NLI Hypothesis,Gold Label
+num_000,Jake had 1 more balloon than Allan in the park.,Jake had one more balloon than Allan in the park.,Entailment
+num_001,Jack received 1 email in the evening.,Jack received one email in the evening.,Entailment
+num_002,There is 1 more red peach than green peaches in the basket.,There is one more red peach than green peaches in the basket.,Entailment
+num_003,Charles travelled for 2 hours,Charles travelled for two hours,Entailment
+num_004,Jessica has 2 seashells left,Jessica has two seashells left,Entailment
+num_005,2 cakes are left ,two cakes are left,Entailment
+num_006,The candy would last Megan 2 days.,The candy would last Megan two days.,Entailment
+num_007,Edward had to use 2 boxes.,Edward had to use two boxes.,Entailment
+num_008,Each person ate 2 cakes.,Each person ate two cakes.,Entailment
+num_009,The machine worked for 2 minutes in all.,The machine worked for two minutes in all.,Entailment
+num_010,Each pizza has 2 slices.,Each pizza has two slices.,Entailment
+num_011,Mary needs to add 2 more cups of sugar than cups of flour.,Mary needs to add two more cups of sugar than cups of flour.,Entailment
+num_012,Mary put in 2 cups of flour.,Mary put in two cups of flour.,Entailment
+num_013,Each of the boys will receive 2.,Each of the boys will receive two.,Entailment
+num_014,Debby had to take 2 sodas back home.,Debby had to take two sodas back home.,Entailment
+num_015,The pet store had 2 cages.,The pet store had two cages.,Entailment
+num_016,The students could make 2 pies.,The students could make two pies.,Entailment
+num_017,Sandy has 3 carrots left,Sandy has three carrots left,Entailment
+num_018,He would have 3 customers ,He would have three customers,Entailment
+num_019,Lana picked 3 extra flowers.,Lana picked three extra flowers.,Entailment
+num_020,Each team would have 3 people.,Each team would have three people.,Entailment
+num_021,The store used 3 shelves.,The store used three shelves.,Entailment
+num_022,3 more birds than storks are sitting on the fence.,three more birds than storks are sitting on the fence.,Entailment
+num_023,3 groups will be created.,three groups will be created.,Entailment
+num_024,Mary needs to add 3 more cups of flour than cups of sugar.,Mary needs to add three more cups of flour than cups of sugar.,Entailment
+num_025,Jake has 3 peaches.,Jake has three peaches.,Entailment
+num_026,Jerry has 3 cherries left.,Jerry has three cherries left.,Entailment
+num_027,I need 4 gas cans,I need four gas cans,Entailment
+num_028,Rachel still has 4 pictures from her vacation.,Rachel still has four pictures from her vacation.,Entailment
+num_029,Bianca could make 4 piles.,Bianca could make four piles.,Entailment
+num_030,The machine worked for 4 minutes today.,The machine worked for four minutes today.,Entailment
+num_031,Jessie weighs 4 kilograms now.,Jessie weighs four kilograms now.,Entailment
+num_032,Emily can make 4 necklaces.,Emily can make four necklaces.,Entailment
+num_033,Teresa jogged for 5 hours,Teresa jogged for five hours,Entailment
+num_034,He has 5 Pokemon cards now,He has five Pokemon cards now,Entailment
+num_035,Jose has 5 bottle caps left,Jose has five bottle caps left,Entailment
+num_036,You would need 5 vases to hold the flowers.,You would need five vases to hold the flowers.,Entailment
+num_037,There would be 5 groups.,There would be five groups.,Entailment
+num_038,The store used 5 shelves.,The store used five shelves.,Entailment
+num_039,Each group has 5 eggs.,Each group has five eggs.,Entailment
+num_040,Each person ate 5 crackers and cakes.,Each person ate five crackers and cakes.,Entailment
+num_041,Robin has 5 packages.,Robin has five packages.,Entailment
+num_042,5 more customers stayed behind than those who left.,five more customers stayed behind than those who left.,Entailment
+num_043,Five seats will have 3 children seated on them.,Five seats will have three children seated on them.,Entailment
+num_044,Jerry had 5 boxes left.,Jerry had five boxes left.,Entailment
+num_045,They earned 5 points.,They earned five points.,Entailment
+num_046,A waiter had 5 tables.,A waiter had five tables.,Entailment
+num_047,There were 5 players on her team.,There were five players on her team.,Entailment
+num_048,It will take Amy 6 hours to finish all the problems.,It will take Amy six hours to finish all the problems.,Entailment
+num_049,Danny had 6 bottle caps at first.,Danny had six bottle caps at first.,Entailment
+num_050,His dad's strawberries weighed 6 pounds more than his.,His dad's strawberries weighed six pounds more than his.,Entailment
+num_051,Shannon can make 6 bracelets with heart-shaped stones.,Shannon can make six bracelets with heart-shaped stones.,Entailment
+num_052,The machine worked for 6 minutes.,The machine worked for six minutes.,Entailment
+num_053,His friend scored 6 points.,His friend scored six points.,Entailment
+num_054,Will gave 6 pounds to Haley.,Will gave six pounds to Haley.,Entailment
+num_055,They need 6 tables.,They need six tables.,Entailment
+num_056,Sara has 7 red balloons left,Sara has seven red balloons left,Entailment
+num_057,Carol had 7 points at the end of the game.,Carol had seven points at the end of the game.,Entailment
+num_058,Nancy ended up with 7 folders.,Nancy ended up with seven folders.,Entailment
+num_059,Wendy could still make 7 bouquets.,Wendy could still make seven bouquets.,Entailment
+num_060,The cafetaria could make 7 pies.,The cafetaria could make seven pies.,Entailment
+num_061,A farmer will have 7 left after today.,A farmer will have seven left after today.,Entailment
+num_062,Mary needs to add 7 more cups of flour.,Mary needs to add seven more cups of flour.,Entailment
+num_063,Zachary did 7 more push-ups than David.,Zachary did seven more push-ups than David.,Entailment
+num_064,Bobby still has 7 pieces of candy left.,Bobby still has seven pieces of candy left.,Entailment
+num_065,There are 7 houses in a block.,There are seven houses in a block.,Entailment
+num_066,7 more trees survived the typhoon than those that died.,seven more trees survived the typhoon than those that died.,Entailment
+num_067,7 friends can't go to the movies.,seven friends can't go to the movies.,Entailment
+num_068,Millie has 7 bracelets left.,Millie has seven bracelets left.,Entailment
+num_069,7 students are left on the bus.,seven students are left on the bus.,Entailment
+num_070,7 children got on the bus at the bus stop.,seven children got on the bus at the bus stop.,Entailment
+num_071,One pencil costs 7 cents.,One pencil costs seven cents.,Entailment
+num_072,A delivery driver made 7 stops in total.,A delivery driver made seven stops in total.,Entailment
+num_073,Jessie lost 7 kilograms of weight in the past.,Jessie lost seven kilograms of weight in the past.,Entailment
+num_074,There were 7 pictures in each of the three albums.,There were seven pictures in each of the three albums.,Entailment
+num_075,They has 8 cats left,They has eight cats left,Entailment
+num_076,The pet store have 8 cats left.,The pet store have eight cats left.,Entailment
+num_077,Each small load could contain 8 pieces of clothing.,Each small load could contain eight pieces of clothing.,Entailment
+num_078,Josh has 8 marbles now.,Josh has eight marbles now.,Entailment
+num_079,John needs 8 planks for the house wall.,John needs eight planks for the house wall.,Entailment
+num_080,Each of Haley's friend will receive 8 stickers.,Each of Haley's friend will receive eight stickers.,Entailment
+num_081,If she gives everyone the same number of origami papers,"If she gives everyone the same number of origami papers, each will receive eight origami papers.",Entailment
+num_082,Victor bought 8 boxes.,Victor bought eight boxes.,Entailment
+num_083,There would be 8 groups.,There would be eight groups.,Entailment
+num_084,9 servings are in the whole box,nine servings are in the whole box,Entailment
+num_085,You would need 9 vases to hold the flowers.,You would need nine vases to hold the flowers.,Entailment
+num_086,Katie ended up with 9 folders.,Katie ended up with nine folders.,Entailment
+num_087,Dave has 9 more files than apps left on the phone.,Dave has nine more files than apps left on the phone.,Entailment
+num_088,Each bag contains 9 cookies.,Each bag contains nine cookies.,Entailment
+num_089,His dad's strawberries weighed 9 pounds more than his.,His dad's strawberries weighed nine pounds more than his.,Entailment
+num_090,Paco ate 9 more sweet cookies than salty cookies.,Paco ate nine more sweet cookies than salty cookies.,Entailment
+num_091,The tree initially had 9 apples.,The tree initially had nine apples.,Entailment
+num_092,Mrs. Riley needs 9 more pencils.,Mrs. Riley needs nine more pencils.,Entailment
+num_093,They had 9 flower beds.,They had nine flower beds.,Entailment
+num_094,The total number of boxes they sold is 9.,The total number of boxes they sold is nine.,Entailment
+num_095,Nine pieces of clothing could go in each of the small loads.,Nine pieces of clothing could go in each of the small loads.,Entailment
+num_096,Joan has 10 orange balloons now,Joan has ten orange balloons now,Entailment
+num_097,They need 10 tables,They need ten tables,Entailment
+num_098,There are 10 birds sitting on the fence.,There are ten birds sitting on the fence.,Entailment
+num_099,Allan and Jake had 10 balloons in the park.,Allan and Jake had ten balloons in the park.,Entailment
+num_100,There are 10 action figures on his shelf in all.,There are ten action figures on his shelf in all.,Entailment
+num_101,There are 10 flowers in the vase in all.,There are ten flowers in the vase in all.,Entailment
+num_102,Paige had to do 11 problems for homework.,Paige had to do eleven problems for homework.,Entailment
+num_103,Dave deleted 11 apps.,Dave deleted eleven apps.,Entailment
+num_104,12 oranges are there in total,twelve oranges are there in total,Entailment
+num_105,12 doughnuts were in each box,twelve doughnuts were in each box,Entailment
+num_106,A total of 12 points were scored.,A total of twelve points were scored.,Entailment
+num_107,Andrew made 12 sandwiches in total.,Andrew made twelve sandwiches in total.,Entailment
+num_108,In each of the bracelets Betty makes for Brenda,"In each of the bracelets Betty makes for Brenda, there will be twelve star-shaped stones.",Entailment
+num_109,They played 12 games of checkers altogether.,They played twelve games of checkers altogether.,Entailment
+num_110,Ned bought 12 books in total.,Ned bought twelve books in total.,Entailment
+num_111,Victor had a total of 12 books.,Victor had a total of twelve books.,Entailment
+num_112,Mike has 13 pears left,Mike has thirteen pears left,Entailment
+num_113,Jack received 13 emails in the afternoon and evening.,Jack received thirteen emails in the afternoon and evening.,Entailment
+num_114,There are 13 green peaches in the basket.,There are thirteen green peaches in the basket.,Entailment
+num_115,14 bottle caps are in the box,fourteen bottle caps are in the box,Entailment
+num_116,14 bird families were left near the mountain.,fourteen bird families were left near the mountain.,Entailment
+num_117,She has 14 miniature aircrafts left.,She has fourteen miniature aircrafts left.,Entailment
+num_118,There are 14 metal bars in all.,There are fourteen metal bars in all.,Entailment
+num_119,Lex will take 14 days to finish reading the book.,Lex will take fourteen days to finish reading the book.,Entailment
+num_120,There are 14 more radishes in the second basket than the first.,There are fourteen more radishes in the second basket than the first.,Entailment
+num_121,Henry played 14 times.,Henry played fourteen times.,Entailment
+num_122,Faye had to do 15 problems for homework.,Faye had to do fifteen problems for homework.,Entailment
+num_123,Frank read 15 pages per day.,Frank read fifteen pages per day.,Entailment
+num_124,John has a total of 16 shirts.,John has a total of sixteen shirts.,Entailment
+num_125,It will take him 16 hours longer to paint the rest.,It will take him sixteen hours longer to paint the rest.,Entailment
+num_126,Coach Mike got back 17 cents.,Coach Mike got back seventeen cents.,Entailment
+num_127,A chef would still have 17 cherries.,A chef would still have seventeen cherries.,Entailment
+num_128,People spend 17 minutes total on YouTube.,People spend seventeen minutes total on YouTube.,Entailment
+num_129,The pet store have 18 cats left.,The pet store have eighteen cats left.,Entailment
+num_130,Dave would have 18 of them.,Dave would have eighteen of them.,Entailment
+num_131,There were 18 turkeys left for them to eat.,There were eighteen turkeys left for them to eat.,Entailment
+num_132,Roger went to the movies a total of 18 times.,Roger went to the movies a total of eighteen times.,Entailment
+num_133,Emily would have a total of 19 of them.,Emily would have a total of nineteen of them.,Entailment
+num_134,There are 19 peaches in the basket.,There are nineteen peaches in the basket.,Entailment
+num_135,Paige has 19 pencils.,Paige has nineteen pencils.,Entailment
+num_136,Sandy has 20 now,Sandy has twenty now,Entailment
+num_137,He has 20 aquariums.,He has twenty aquariums.,Entailment
+num_138,She has 20 candies left.,She has twenty candies left.,Entailment
+num_139,Each stack would have 20 games.,Each stack would have twenty games.,Entailment
+num_140,21 more geese were in the marsh,twenty one more geese were in the marsh,Entailment
+num_141,The mouse jumped 21 inches farther than the grasshopper.,The mouse jumped twenty one inches farther than the grasshopper.,Entailment
+num_142,Danny had 21 bottle caps at first.,Danny had twenty one bottle caps at first.,Entailment
+num_143,Ed had 21 more marbles than Doug then.,Ed had twenty one more marbles than Doug then.,Entailment
+num_144,Bryan has 21 bookshelves.,Bryan has twenty one bookshelves.,Entailment
+num_145,Harold has 21 apples.,Harold has twenty one apples.,Entailment
+num_146,The hotel has 21 rooms.,The hotel has twenty one rooms.,Entailment
+num_147,A chef has 21 apples in total.,A chef has twenty one apples in total.,Entailment
+num_148,Matthew had 22 crackers.,Matthew had twenty two crackers.,Entailment
+num_149,His dad's strawberries weigh 22 pounds.,His dad's strawberries weigh twenty two pounds.,Entailment
+num_150,Each bag contains 23 pounds of oranges,Each bag contains twenty three pounds of oranges,Entailment
+num_151,Dave had 23 apps on his phone at the start.,Dave had twenty three apps on his phone at the start.,Entailment
+num_152,There are 23 cookies left.,There are twenty three cookies left.,Entailment
+num_153,Mike's final score was 24 points.,Mike's final score was twenty four points.,Entailment
+num_154,Zoe bought a total of 24 songs.,Zoe bought a total of twenty four songs.,Entailment
+num_155,Alicia has 24 medieval art pieces left.,Alicia has twenty four medieval art pieces left.,Entailment
+num_156,25 bird families were left near the mountain.,twenty five bird families were left near the mountain.,Entailment
+num_157,Luke played 26 rounds.,Luke played twenty six rounds.,Entailment
+num_158,They had 26 more bottles of regular soda than diet soda.,They had twenty six more bottles of regular soda than diet soda.,Entailment
+num_159,A total of 27 points were scored.,A total of twenty seven points were scored.,Entailment
+num_160,Steven has 27 more peaches than Jill.,Steven has twenty seven more peaches than Jill.,Entailment
+num_161,Katie has 28 songs on her mp3 player.,Katie has twenty eight songs on her mp3 player.,Entailment
+num_162,The waiter would have 28 customers.,The waiter would have twenty eight customers.,Entailment
+num_163,John needs 29 planks for the house wall.,John needs twenty nine planks for the house wall.,Entailment
+num_164,Paco has 29 cookies left.,Paco has twenty nine cookies left.,Entailment
+num_165,Isabel had to complete a total of 30 problems.,Isabel had to complete a total of thirty problems.,Entailment
+num_166,Julia played with 30 kids on Tuesday and Wednesday.,Julia played with thirty kids on Tuesday and Wednesday.,Entailment
+num_167,30 cookies were eaten in total.,thirty cookies were eaten in total.,Entailment
+num_168,The three of them have 30 chewing gums in all.,The three of them have thirty chewing gums in all.,Entailment
+num_169,Jake bought 30 tickets in all.,Jake bought thirty tickets in all.,Entailment
+num_170,Rachel would have 32 lives.,Rachel would have thirty two lives.,Entailment
+num_171,The teacher has 32 more problems to grade.,The teacher has thirty two more problems to grade.,Entailment
+num_172,There are 32 soccer campers.,There are thirty two soccer campers.,Entailment
+num_173,A chef used 32 apples.,A chef used thirty two apples.,Entailment
+num_174,Josh has 33 marbles in his collection.,Josh has thirty three marbles in his collection.,Entailment
+num_175,Hannah practices 33 hours each week.,Hannah practices thirty three hours each week.,Entailment
+num_176,There are 33 onions on the shelf now.,There are thirty three onions on the shelf now.,Entailment
+num_177,Billy bought 35 books.,Billy bought thirty five books.,Entailment
+num_178,Jessie weighed 36 kilograms after the first week of jogging.,Jessie weighed thirty six kilograms after the first week of jogging.,Entailment
+num_179,There were 37 students in fourth grade at the end.,There were thirty seven students in fourth grade at the end.,Entailment
+num_180,Paul has 37 books left with him.,Paul has thirty seven books left with him.,Entailment
+num_181,Olivia spent 37 pennies for the apple.,Olivia spent thirty seven pennies for the apple.,Entailment
+num_182,The cafetaria would have 38 apples.,The cafetaria would have thirty eight apples.,Entailment
+num_183,Adam would have 39 cupcakes left.,Adam would have thirty nine cupcakes left.,Entailment
+num_184,Debby received a total of 39 text messages.,Debby received a total of thirty nine text messages.,Entailment
+num_185,Buddy met 40 more students during recess.,Buddy met forty more students during recess.,Entailment
+num_186,41 bananas are left in the jar,forty one bananas are left in the jar,Entailment
+num_187,Zoe still needs 42 cups of flour.,Zoe still needs forty two cups of flour.,Entailment
+num_188,Tom has 42 robots in his collection.,Tom has forty two robots in his collection.,Entailment
+num_189,Mayor Fauna donated 43 seedlings in total.,Mayor Fauna donated forty three seedlings in total.,Entailment
+num_190,Each group has 44 bananas.,Each group has forty four bananas.,Entailment
+num_191,Each of us gets 45 slices of pizza if distributed equally.,Each of us gets forty five slices of pizza if distributed equally.,Entailment
+num_192,Baker would still have 45 pastries.,Baker would still have forty five pastries.,Entailment
+num_193,She got 45 candies in total.,She got forty five candies in total.,Entailment
+num_194,45 more DVDs can be put in the book.,forty five more DVDs can be put in the book.,Entailment
+num_195,The cafetaria would have 46 apples.,The cafetaria would have forty six apples.,Entailment
+num_196,There were 47 students in fourth grade at the end.,There were forty seven students in fourth grade at the end.,Entailment
+num_197,John would read 48 books in 6 weeks.,John would read 48 books in six weeks.,Entailment
+num_198,The teacher would have to grade 49 worksheets.,The teacher would have to grade forty nine worksheets.,Entailment
+num_199,At would have 49 of them.,At would have forty nine of them.,Entailment
+num_200,Katerina weighs 49 pounds.,Katerina weighs forty nine pounds.,Entailment
+num_201,They have 50 candies in total.,They have fifty candies in total.,Entailment
+num_202,Billy used 50 tickets.,Billy used fifty tickets.,Entailment
+num_203,The teacher would have to grade 51 worksheets.,The teacher would have to grade fifty one worksheets.,Entailment
+num_204,Mr. Fortree gave 52 seedlings.,Mr. Fortree gave fifty two seedlings.,Entailment
+num_205,Zachary and David did 53 push-ups altogether.,Zachary and David did fifty three push-ups altogether.,Entailment
+num_206,Ben had 53 marbles.,Ben had fifty three marbles.,Entailment
+num_207,Adam had 53 toys in total.,Adam had fifty three toys in total.,Entailment
+num_208,Janet would have 54 lives.,Janet would have fifty four lives.,Entailment
+num_209,Kaleb still had 54 pieces.,Kaleb still had fifty four pieces.,Entailment
+num_210,The chef made 55 plates of food altogether.,The chef made fifty five plates of food altogether.,Entailment
+num_211,The players had a total of 56 lives.,The players had a total of fifty six lives.,Entailment
+num_212,Each group has 57 items.,Each group has fifty seven items.,Entailment
+num_213,There would be 60 of oranges in the bin.,There would be sixty of oranges in the bin.,Entailment
+num_214,Paige had a total of 60 pieces of winter clothing.,Paige had a total of sixty pieces of winter clothing.,Entailment
+num_215,They have 60 sheep in total.,They have sixty sheep in total.,Entailment
+num_216,61 more visitors visited the Buckingham Palace on that day than on the previous day.,sixty one more visitors visited the Buckingham Palace on that day than on the previous day.,Entailment
+num_217,They need 61 more rocks to complete the border.,They need sixty one more rocks to complete the border.,Entailment
+num_218,63 children were there in all,sixty three children were there in all,Entailment
+num_219,Sally has 63 baseball cards now,Sally has sixty three baseball cards now,Entailment
+num_220,The waiter will take 63 more hours to paint the rest.,The waiter will take sixty three more hours to paint the rest.,Entailment
+num_221,There are 64 pages in Suzanne's book altogether.,There are sixty four pages in Suzanne's book altogether.,Entailment
+num_222,Oliver did not wash 66 sleeve shirts.,Oliver did not wash sixty six sleeve shirts.,Entailment
+num_223,Adam would have 67 books.,Adam would have sixty seven books.,Entailment
+num_224,He would have 68 socks ,He would have sixty eight socks,Entailment
+num_225,There will be 68 invitations left.,There will be sixty eight invitations left.,Entailment
+num_226,They will buy 69 ounces of paint in total.,They will buy sixty nine ounces of paint in total.,Entailment
+num_227,Todd has 70 pieces of gum now,Todd has seventy pieces of gum now,Entailment
+num_228,Isabel bought a total of 72 songs.,Isabel bought a total of seventy two songs.,Entailment
+num_229,The pet store had a total of 72 birds.,The pet store had a total of seventy two birds.,Entailment
+num_230,Janet bought a total of 72 songs.,Janet bought a total of seventy two songs.,Entailment
+num_231,Janet ran 72 miles altogether.,Janet ran seventy two miles altogether.,Entailment
+num_232,Baker sold 76 more pastries than cakes.,Baker sold seventy six more pastries than cakes.,Entailment
+num_233,Our class got 77 books from the library.,Our class got seventy seven books from the library.,Entailment
+num_234,They have 81 pears left,They have eighty one pears left,Entailment
+num_235,They used 82 building pieces altogether.,They used eighty two building pieces altogether.,Entailment
+num_236,84 people can ride the Ferris wheel on large seats.,eighty four people can ride the Ferris wheel on large seats.,Entailment
+num_237,Debby had a total of 86 photos.,Debby had a total of eighty six photos.,Entailment
+num_238,90 wheels are there in all,ninety wheels are there in all,Entailment
+num_239,Paul had a total of 90 pieces of candy.,Paul had a total of ninety pieces of candy.,Entailment
+num_240,Nell has 91 more Ace cards than baseball cards.,Nell has ninety one more Ace cards than baseball cards.,Entailment
+num_241,They will be able to sell 93 recycled products at the fair.,They will be able to sell ninety three recycled products at the fair.,Entailment
+num_242,Mikayla's collection had 93 CDs at first.,Mikayla's collection had ninety three CDs at first.,Entailment
+num_243,Carol can invite 95 friends.,Carol can invite ninety five friends.,Entailment
+num_244,Randy has 97 blocks now,Randy has ninety seven blocks now,Entailment
+num_245,They had 98 more bottles than apples.,They had ninety eight more bottles than apples.,Entailment
+num_246,100 total blocks are in the tower now,one hundred total blocks are in the tower now,Entailment
+num_000_swap,Jake had one more balloon than Allan in the park.,Jake had 1 more balloon than Allan in the park.,Entailment
+num_001_swap,Jack received one email in the evening.,Jack received 1 email in the evening.,Entailment
+num_002_swap,There is one more red peach than green peaches in the basket.,There is 1 more red peach than green peaches in the basket.,Entailment
+num_003_swap,Charles travelled for two hours,Charles travelled for 2 hours,Entailment
+num_004_swap,Jessica has two seashells left,Jessica has 2 seashells left,Entailment
+num_005_swap,two cakes are left,2 cakes are left ,Entailment
+num_006_swap,The candy would last Megan two days.,The candy would last Megan 2 days.,Entailment
+num_007_swap,Edward had to use two boxes.,Edward had to use 2 boxes.,Entailment
+num_008_swap,Each person ate two cakes.,Each person ate 2 cakes.,Entailment
+num_009_swap,The machine worked for two minutes in all.,The machine worked for 2 minutes in all.,Entailment
+num_010_swap,Each pizza has two slices.,Each pizza has 2 slices.,Entailment
+num_011_swap,Mary needs to add two more cups of sugar than cups of flour.,Mary needs to add 2 more cups of sugar than cups of flour.,Entailment
+num_012_swap,Mary put in two cups of flour.,Mary put in 2 cups of flour.,Entailment
+num_013_swap,Each of the boys will receive two.,Each of the boys will receive 2.,Entailment
+num_014_swap,Debby had to take two sodas back home.,Debby had to take 2 sodas back home.,Entailment
+num_015_swap,The pet store had two cages.,The pet store had 2 cages.,Entailment
+num_016_swap,The students could make two pies.,The students could make 2 pies.,Entailment
+num_017_swap,Sandy has three carrots left,Sandy has 3 carrots left,Entailment
+num_018_swap,He would have three customers,He would have 3 customers ,Entailment
+num_019_swap,Lana picked three extra flowers.,Lana picked 3 extra flowers.,Entailment
+num_020_swap,Each team would have three people.,Each team would have 3 people.,Entailment
+num_021_swap,The store used three shelves.,The store used 3 shelves.,Entailment
+num_022_swap,three more birds than storks are sitting on the fence.,3 more birds than storks are sitting on the fence.,Entailment
+num_023_swap,three groups will be created.,3 groups will be created.,Entailment
+num_024_swap,Mary needs to add three more cups of flour than cups of sugar.,Mary needs to add 3 more cups of flour than cups of sugar.,Entailment
+num_025_swap,Jake has three peaches.,Jake has 3 peaches.,Entailment
+num_026_swap,Jerry has three cherries left.,Jerry has 3 cherries left.,Entailment
+num_027_swap,I need four gas cans,I need 4 gas cans,Entailment
+num_028_swap,Rachel still has four pictures from her vacation.,Rachel still has 4 pictures from her vacation.,Entailment
+num_029_swap,Bianca could make four piles.,Bianca could make 4 piles.,Entailment
+num_030_swap,The machine worked for four minutes today.,The machine worked for 4 minutes today.,Entailment
+num_031_swap,Jessie weighs four kilograms now.,Jessie weighs 4 kilograms now.,Entailment
+num_032_swap,Emily can make four necklaces.,Emily can make 4 necklaces.,Entailment
+num_033_swap,Teresa jogged for five hours,Teresa jogged for 5 hours,Entailment
+num_034_swap,He has five Pokemon cards now,He has 5 Pokemon cards now,Entailment
+num_035_swap,Jose has five bottle caps left,Jose has 5 bottle caps left,Entailment
+num_036_swap,You would need five vases to hold the flowers.,You would need 5 vases to hold the flowers.,Entailment
+num_037_swap,There would be five groups.,There would be 5 groups.,Entailment
+num_038_swap,The store used five shelves.,The store used 5 shelves.,Entailment
+num_039_swap,Each group has five eggs.,Each group has 5 eggs.,Entailment
+num_040_swap,Each person ate five crackers and cakes.,Each person ate 5 crackers and cakes.,Entailment
+num_041_swap,Robin has five packages.,Robin has 5 packages.,Entailment
+num_042_swap,five more customers stayed behind than those who left.,5 more customers stayed behind than those who left.,Entailment
+num_043_swap,Five seats will have three children seated on them.,Five seats will have 3 children seated on them.,Entailment
+num_044_swap,Jerry had five boxes left.,Jerry had 5 boxes left.,Entailment
+num_045_swap,They earned five points.,They earned 5 points.,Entailment
+num_046_swap,A waiter had five tables.,A waiter had 5 tables.,Entailment
+num_047_swap,There were five players on her team.,There were 5 players on her team.,Entailment
+num_048_swap,It will take Amy six hours to finish all the problems.,It will take Amy 6 hours to finish all the problems.,Entailment
+num_049_swap,Danny had six bottle caps at first.,Danny had 6 bottle caps at first.,Entailment
+num_050_swap,His dad's strawberries weighed six pounds more than his.,His dad's strawberries weighed 6 pounds more than his.,Entailment
+num_051_swap,Shannon can make six bracelets with heart-shaped stones.,Shannon can make 6 bracelets with heart-shaped stones.,Entailment
+num_052_swap,The machine worked for six minutes.,The machine worked for 6 minutes.,Entailment
+num_053_swap,His friend scored six points.,His friend scored 6 points.,Entailment
+num_054_swap,Will gave six pounds to Haley.,Will gave 6 pounds to Haley.,Entailment
+num_055_swap,They need six tables.,They need 6 tables.,Entailment
+num_056_swap,Sara has seven red balloons left,Sara has 7 red balloons left,Entailment
+num_057_swap,Carol had seven points at the end of the game.,Carol had 7 points at the end of the game.,Entailment
+num_058_swap,Nancy ended up with seven folders.,Nancy ended up with 7 folders.,Entailment
+num_059_swap,Wendy could still make seven bouquets.,Wendy could still make 7 bouquets.,Entailment
+num_060_swap,The cafetaria could make seven pies.,The cafetaria could make 7 pies.,Entailment
+num_061_swap,A farmer will have seven left after today.,A farmer will have 7 left after today.,Entailment
+num_062_swap,Mary needs to add seven more cups of flour.,Mary needs to add 7 more cups of flour.,Entailment
+num_063_swap,Zachary did seven more push-ups than David.,Zachary did 7 more push-ups than David.,Entailment
+num_064_swap,Bobby still has seven pieces of candy left.,Bobby still has 7 pieces of candy left.,Entailment
+num_065_swap,There are seven houses in a block.,There are 7 houses in a block.,Entailment
+num_066_swap,seven more trees survived the typhoon than those that died.,7 more trees survived the typhoon than those that died.,Entailment
+num_067_swap,seven friends can't go to the movies.,7 friends can't go to the movies.,Entailment
+num_068_swap,Millie has seven bracelets left.,Millie has 7 bracelets left.,Entailment
+num_069_swap,seven students are left on the bus.,7 students are left on the bus.,Entailment
+num_070_swap,seven children got on the bus at the bus stop.,7 children got on the bus at the bus stop.,Entailment
+num_071_swap,One pencil costs seven cents.,One pencil costs 7 cents.,Entailment
+num_072_swap,A delivery driver made seven stops in total.,A delivery driver made 7 stops in total.,Entailment
+num_073_swap,Jessie lost seven kilograms of weight in the past.,Jessie lost 7 kilograms of weight in the past.,Entailment
+num_074_swap,There were seven pictures in each of the three albums.,There were 7 pictures in each of the three albums.,Entailment
+num_075_swap,They has eight cats left,They has 8 cats left,Entailment
+num_076_swap,The pet store have eight cats left.,The pet store have 8 cats left.,Entailment
+num_077_swap,Each small load could contain eight pieces of clothing.,Each small load could contain 8 pieces of clothing.,Entailment
+num_078_swap,Josh has eight marbles now.,Josh has 8 marbles now.,Entailment
+num_079_swap,John needs eight planks for the house wall.,John needs 8 planks for the house wall.,Entailment
+num_080_swap,Each of Haley's friend will receive eight stickers.,Each of Haley's friend will receive 8 stickers.,Entailment
+num_081_swap,"If she gives everyone the same number of origami papers, each will receive eight origami papers.",If she gives everyone the same number of origami papers,Entailment
+num_082_swap,Victor bought eight boxes.,Victor bought 8 boxes.,Entailment
+num_083_swap,There would be eight groups.,There would be 8 groups.,Entailment
+num_084_swap,nine servings are in the whole box,9 servings are in the whole box,Entailment
+num_085_swap,You would need nine vases to hold the flowers.,You would need 9 vases to hold the flowers.,Entailment
+num_086_swap,Katie ended up with nine folders.,Katie ended up with 9 folders.,Entailment
+num_087_swap,Dave has nine more files than apps left on the phone.,Dave has 9 more files than apps left on the phone.,Entailment
+num_088_swap,Each bag contains nine cookies.,Each bag contains 9 cookies.,Entailment
+num_089_swap,His dad's strawberries weighed nine pounds more than his.,His dad's strawberries weighed 9 pounds more than his.,Entailment
+num_090_swap,Paco ate nine more sweet cookies than salty cookies.,Paco ate 9 more sweet cookies than salty cookies.,Entailment
+num_091_swap,The tree initially had nine apples.,The tree initially had 9 apples.,Entailment
+num_092_swap,Mrs. Riley needs nine more pencils.,Mrs. Riley needs 9 more pencils.,Entailment
+num_093_swap,They had nine flower beds.,They had 9 flower beds.,Entailment
+num_094_swap,The total number of boxes they sold is nine.,The total number of boxes they sold is 9.,Entailment
+num_095_swap,Nine pieces of clothing could go in each of the small loads.,Nine pieces of clothing could go in each of the small loads.,Entailment
+num_096_swap,Joan has ten orange balloons now,Joan has 10 orange balloons now,Entailment
+num_097_swap,They need ten tables,They need 10 tables,Entailment
+num_098_swap,There are ten birds sitting on the fence.,There are 10 birds sitting on the fence.,Entailment
+num_099_swap,Allan and Jake had ten balloons in the park.,Allan and Jake had 10 balloons in the park.,Entailment
+num_100_swap,There are ten action figures on his shelf in all.,There are 10 action figures on his shelf in all.,Entailment
+num_101_swap,There are ten flowers in the vase in all.,There are 10 flowers in the vase in all.,Entailment
+num_102_swap,Paige had to do eleven problems for homework.,Paige had to do 11 problems for homework.,Entailment
+num_103_swap,Dave deleted eleven apps.,Dave deleted 11 apps.,Entailment
+num_104_swap,twelve oranges are there in total,12 oranges are there in total,Entailment
+num_105_swap,twelve doughnuts were in each box,12 doughnuts were in each box,Entailment
+num_106_swap,A total of twelve points were scored.,A total of 12 points were scored.,Entailment
+num_107_swap,Andrew made twelve sandwiches in total.,Andrew made 12 sandwiches in total.,Entailment
+num_108_swap,"In each of the bracelets Betty makes for Brenda, there will be twelve star-shaped stones.",In each of the bracelets Betty makes for Brenda,Entailment
+num_109_swap,They played twelve games of checkers altogether.,They played 12 games of checkers altogether.,Entailment
+num_110_swap,Ned bought twelve books in total.,Ned bought 12 books in total.,Entailment
+num_111_swap,Victor had a total of twelve books.,Victor had a total of 12 books.,Entailment
+num_112_swap,Mike has thirteen pears left,Mike has 13 pears left,Entailment
+num_113_swap,Jack received thirteen emails in the afternoon and evening.,Jack received 13 emails in the afternoon and evening.,Entailment
+num_114_swap,There are thirteen green peaches in the basket.,There are 13 green peaches in the basket.,Entailment
+num_115_swap,fourteen bottle caps are in the box,14 bottle caps are in the box,Entailment
+num_116_swap,fourteen bird families were left near the mountain.,14 bird families were left near the mountain.,Entailment
+num_117_swap,She has fourteen miniature aircrafts left.,She has 14 miniature aircrafts left.,Entailment
+num_118_swap,There are fourteen metal bars in all.,There are 14 metal bars in all.,Entailment
+num_119_swap,Lex will take fourteen days to finish reading the book.,Lex will take 14 days to finish reading the book.,Entailment
+num_120_swap,There are fourteen more radishes in the second basket than the first.,There are 14 more radishes in the second basket than the first.,Entailment
+num_121_swap,Henry played fourteen times.,Henry played 14 times.,Entailment
+num_122_swap,Faye had to do fifteen problems for homework.,Faye had to do 15 problems for homework.,Entailment
+num_123_swap,Frank read fifteen pages per day.,Frank read 15 pages per day.,Entailment
+num_124_swap,John has a total of sixteen shirts.,John has a total of 16 shirts.,Entailment
+num_125_swap,It will take him sixteen hours longer to paint the rest.,It will take him 16 hours longer to paint the rest.,Entailment
+num_126_swap,Coach Mike got back seventeen cents.,Coach Mike got back 17 cents.,Entailment
+num_127_swap,A chef would still have seventeen cherries.,A chef would still have 17 cherries.,Entailment
+num_128_swap,People spend seventeen minutes total on YouTube.,People spend 17 minutes total on YouTube.,Entailment
+num_129_swap,The pet store have eighteen cats left.,The pet store have 18 cats left.,Entailment
+num_130_swap,Dave would have eighteen of them.,Dave would have 18 of them.,Entailment
+num_131_swap,There were eighteen turkeys left for them to eat.,There were 18 turkeys left for them to eat.,Entailment
+num_132_swap,Roger went to the movies a total of eighteen times.,Roger went to the movies a total of 18 times.,Entailment
+num_133_swap,Emily would have a total of nineteen of them.,Emily would have a total of 19 of them.,Entailment
+num_134_swap,There are nineteen peaches in the basket.,There are 19 peaches in the basket.,Entailment
+num_135_swap,Paige has nineteen pencils.,Paige has 19 pencils.,Entailment
+num_136_swap,Sandy has twenty now,Sandy has 20 now,Entailment
+num_137_swap,He has twenty aquariums.,He has 20 aquariums.,Entailment
+num_138_swap,She has twenty candies left.,She has 20 candies left.,Entailment
+num_139_swap,Each stack would have twenty games.,Each stack would have 20 games.,Entailment
+num_140_swap,twenty one more geese were in the marsh,21 more geese were in the marsh,Entailment
+num_141_swap,The mouse jumped twenty one inches farther than the grasshopper.,The mouse jumped 21 inches farther than the grasshopper.,Entailment
+num_142_swap,Danny had twenty one bottle caps at first.,Danny had 21 bottle caps at first.,Entailment
+num_143_swap,Ed had twenty one more marbles than Doug then.,Ed had 21 more marbles than Doug then.,Entailment
+num_144_swap,Bryan has twenty one bookshelves.,Bryan has 21 bookshelves.,Entailment
+num_145_swap,Harold has twenty one apples.,Harold has 21 apples.,Entailment
+num_146_swap,The hotel has twenty one rooms.,The hotel has 21 rooms.,Entailment
+num_147_swap,A chef has twenty one apples in total.,A chef has 21 apples in total.,Entailment
+num_148_swap,Matthew had twenty two crackers.,Matthew had 22 crackers.,Entailment
+num_149_swap,His dad's strawberries weigh twenty two pounds.,His dad's strawberries weigh 22 pounds.,Entailment
+num_150_swap,Each bag contains twenty three pounds of oranges,Each bag contains 23 pounds of oranges,Entailment
+num_151_swap,Dave had twenty three apps on his phone at the start.,Dave had 23 apps on his phone at the start.,Entailment
+num_152_swap,There are twenty three cookies left.,There are 23 cookies left.,Entailment
+num_153_swap,Mike's final score was twenty four points.,Mike's final score was 24 points.,Entailment
+num_154_swap,Zoe bought a total of twenty four songs.,Zoe bought a total of 24 songs.,Entailment
+num_155_swap,Alicia has twenty four medieval art pieces left.,Alicia has 24 medieval art pieces left.,Entailment
+num_156_swap,twenty five bird families were left near the mountain.,25 bird families were left near the mountain.,Entailment
+num_157_swap,Luke played twenty six rounds.,Luke played 26 rounds.,Entailment
+num_158_swap,They had twenty six more bottles of regular soda than diet soda.,They had 26 more bottles of regular soda than diet soda.,Entailment
+num_159_swap,A total of twenty seven points were scored.,A total of 27 points were scored.,Entailment
+num_160_swap,Steven has twenty seven more peaches than Jill.,Steven has 27 more peaches than Jill.,Entailment
+num_161_swap,Katie has twenty eight songs on her mp3 player.,Katie has 28 songs on her mp3 player.,Entailment
+num_162_swap,The waiter would have twenty eight customers.,The waiter would have 28 customers.,Entailment
+num_163_swap,John needs twenty nine planks for the house wall.,John needs 29 planks for the house wall.,Entailment
+num_164_swap,Paco has twenty nine cookies left.,Paco has 29 cookies left.,Entailment
+num_165_swap,Isabel had to complete a total of thirty problems.,Isabel had to complete a total of 30 problems.,Entailment
+num_166_swap,Julia played with thirty kids on Tuesday and Wednesday.,Julia played with 30 kids on Tuesday and Wednesday.,Entailment
+num_167_swap,thirty cookies were eaten in total.,30 cookies were eaten in total.,Entailment
+num_168_swap,The three of them have thirty chewing gums in all.,The three of them have 30 chewing gums in all.,Entailment
+num_169_swap,Jake bought thirty tickets in all.,Jake bought 30 tickets in all.,Entailment
+num_170_swap,Rachel would have thirty two lives.,Rachel would have 32 lives.,Entailment
+num_171_swap,The teacher has thirty two more problems to grade.,The teacher has 32 more problems to grade.,Entailment
+num_172_swap,There are thirty two soccer campers.,There are 32 soccer campers.,Entailment
+num_173_swap,A chef used thirty two apples.,A chef used 32 apples.,Entailment
+num_174_swap,Josh has thirty three marbles in his collection.,Josh has 33 marbles in his collection.,Entailment
+num_175_swap,Hannah practices thirty three hours each week.,Hannah practices 33 hours each week.,Entailment
+num_176_swap,There are thirty three onions on the shelf now.,There are 33 onions on the shelf now.,Entailment
+num_177_swap,Billy bought thirty five books.,Billy bought 35 books.,Entailment
+num_178_swap,Jessie weighed thirty six kilograms after the first week of jogging.,Jessie weighed 36 kilograms after the first week of jogging.,Entailment
+num_179_swap,There were thirty seven students in fourth grade at the end.,There were 37 students in fourth grade at the end.,Entailment
+num_180_swap,Paul has thirty seven books left with him.,Paul has 37 books left with him.,Entailment
+num_181_swap,Olivia spent thirty seven pennies for the apple.,Olivia spent 37 pennies for the apple.,Entailment
+num_182_swap,The cafetaria would have thirty eight apples.,The cafetaria would have 38 apples.,Entailment
+num_183_swap,Adam would have thirty nine cupcakes left.,Adam would have 39 cupcakes left.,Entailment
+num_184_swap,Debby received a total of thirty nine text messages.,Debby received a total of 39 text messages.,Entailment
+num_185_swap,Buddy met forty more students during recess.,Buddy met 40 more students during recess.,Entailment
+num_186_swap,forty one bananas are left in the jar,41 bananas are left in the jar,Entailment
+num_187_swap,Zoe still needs forty two cups of flour.,Zoe still needs 42 cups of flour.,Entailment
+num_188_swap,Tom has forty two robots in his collection.,Tom has 42 robots in his collection.,Entailment
+num_189_swap,Mayor Fauna donated forty three seedlings in total.,Mayor Fauna donated 43 seedlings in total.,Entailment
+num_190_swap,Each group has forty four bananas.,Each group has 44 bananas.,Entailment
+num_191_swap,Each of us gets forty five slices of pizza if distributed equally.,Each of us gets 45 slices of pizza if distributed equally.,Entailment
+num_192_swap,Baker would still have forty five pastries.,Baker would still have 45 pastries.,Entailment
+num_193_swap,She got forty five candies in total.,She got 45 candies in total.,Entailment
+num_194_swap,forty five more DVDs can be put in the book.,45 more DVDs can be put in the book.,Entailment
+num_195_swap,The cafetaria would have forty six apples.,The cafetaria would have 46 apples.,Entailment
+num_196_swap,There were forty seven students in fourth grade at the end.,There were 47 students in fourth grade at the end.,Entailment
+num_197_swap,John would read 48 books in six weeks.,John would read 48 books in 6 weeks.,Entailment
+num_198_swap,The teacher would have to grade forty nine worksheets.,The teacher would have to grade 49 worksheets.,Entailment
+num_199_swap,At would have forty nine of them.,At would have 49 of them.,Entailment
+num_200_swap,Katerina weighs forty nine pounds.,Katerina weighs 49 pounds.,Entailment
+num_201_swap,They have fifty candies in total.,They have 50 candies in total.,Entailment
+num_202_swap,Billy used fifty tickets.,Billy used 50 tickets.,Entailment
+num_203_swap,The teacher would have to grade fifty one worksheets.,The teacher would have to grade 51 worksheets.,Entailment
+num_204_swap,Mr. Fortree gave fifty two seedlings.,Mr. Fortree gave 52 seedlings.,Entailment
+num_205_swap,Zachary and David did fifty three push-ups altogether.,Zachary and David did 53 push-ups altogether.,Entailment
+num_206_swap,Ben had fifty three marbles.,Ben had 53 marbles.,Entailment
+num_207_swap,Adam had fifty three toys in total.,Adam had 53 toys in total.,Entailment
+num_208_swap,Janet would have fifty four lives.,Janet would have 54 lives.,Entailment
+num_209_swap,Kaleb still had fifty four pieces.,Kaleb still had 54 pieces.,Entailment
+num_210_swap,The chef made fifty five plates of food altogether.,The chef made 55 plates of food altogether.,Entailment
+num_211_swap,The players had a total of fifty six lives.,The players had a total of 56 lives.,Entailment
+num_212_swap,Each group has fifty seven items.,Each group has 57 items.,Entailment
+num_213_swap,There would be sixty of oranges in the bin.,There would be 60 of oranges in the bin.,Entailment
+num_214_swap,Paige had a total of sixty pieces of winter clothing.,Paige had a total of 60 pieces of winter clothing.,Entailment
+num_215_swap,They have sixty sheep in total.,They have 60 sheep in total.,Entailment
+num_216_swap,sixty one more visitors visited the Buckingham Palace on that day than on the previous day.,61 more visitors visited the Buckingham Palace on that day than on the previous day.,Entailment
+num_217_swap,They need sixty one more rocks to complete the border.,They need 61 more rocks to complete the border.,Entailment
+num_218_swap,sixty three children were there in all,63 children were there in all,Entailment
+num_219_swap,Sally has sixty three baseball cards now,Sally has 63 baseball cards now,Entailment
+num_220_swap,The waiter will take sixty three more hours to paint the rest.,The waiter will take 63 more hours to paint the rest.,Entailment
+num_221_swap,There are sixty four pages in Suzanne's book altogether.,There are 64 pages in Suzanne's book altogether.,Entailment
+num_222_swap,Oliver did not wash sixty six sleeve shirts.,Oliver did not wash 66 sleeve shirts.,Entailment
+num_223_swap,Adam would have sixty seven books.,Adam would have 67 books.,Entailment
+num_224_swap,He would have sixty eight socks,He would have 68 socks ,Entailment
+num_225_swap,There will be sixty eight invitations left.,There will be 68 invitations left.,Entailment
+num_226_swap,They will buy sixty nine ounces of paint in total.,They will buy 69 ounces of paint in total.,Entailment
+num_227_swap,Todd has seventy pieces of gum now,Todd has 70 pieces of gum now,Entailment
+num_228_swap,Isabel bought a total of seventy two songs.,Isabel bought a total of 72 songs.,Entailment
+num_229_swap,The pet store had a total of seventy two birds.,The pet store had a total of 72 birds.,Entailment
+num_230_swap,Janet bought a total of seventy two songs.,Janet bought a total of 72 songs.,Entailment
+num_231_swap,Janet ran seventy two miles altogether.,Janet ran 72 miles altogether.,Entailment
+num_232_swap,Baker sold seventy six more pastries than cakes.,Baker sold 76 more pastries than cakes.,Entailment
+num_233_swap,Our class got seventy seven books from the library.,Our class got 77 books from the library.,Entailment
+num_234_swap,They have eighty one pears left,They have 81 pears left,Entailment
+num_235_swap,They used eighty two building pieces altogether.,They used 82 building pieces altogether.,Entailment
+num_236_swap,eighty four people can ride the Ferris wheel on large seats.,84 people can ride the Ferris wheel on large seats.,Entailment
+num_237_swap,Debby had a total of eighty six photos.,Debby had a total of 86 photos.,Entailment
+num_238_swap,ninety wheels are there in all,90 wheels are there in all,Entailment
+num_239_swap,Paul had a total of ninety pieces of candy.,Paul had a total of 90 pieces of candy.,Entailment
+num_240_swap,Nell has ninety one more Ace cards than baseball cards.,Nell has 91 more Ace cards than baseball cards.,Entailment
+num_241_swap,They will be able to sell ninety three recycled products at the fair.,They will be able to sell 93 recycled products at the fair.,Entailment
+num_242_swap,Mikayla's collection had ninety three CDs at first.,Mikayla's collection had 93 CDs at first.,Entailment
+num_243_swap,Carol can invite ninety five friends.,Carol can invite 95 friends.,Entailment
+num_244_swap,Randy has ninety seven blocks now,Randy has 97 blocks now,Entailment
+num_245_swap,They had ninety eight more bottles than apples.,They had 98 more bottles than apples.,Entailment
+num_246_swap,one hundred total blocks are in the tower now,100 total blocks are in the tower now,Entailment
+num_000_contra,Jake had 1 more balloon than Allan in the park.,Jake had eight more balloon than Allan in the park.,Contradiction
+num_001_contra,Jack received 1 email in the evening.,Jack received eighty three email in the evening.,Contradiction
+num_002_contra,There is 1 more red peach than green peaches in the basket.,There is thirty six more red peach than green peaches in the basket.,Contradiction
+num_003_contra,Charles travelled for 2 hours,Charles travelled for eighty seven hours,Contradiction
+num_004_contra,Jessica has 2 seashells left,Jessica has sixty five seashells left,Contradiction
+num_005_contra,2 cakes are left ,fifty five cakes are left,Contradiction
+num_006_contra,The candy would last Megan 2 days.,The candy would last Megan seventy one days.,Contradiction
+num_007_contra,Edward had to use 2 boxes.,Edward had to use eighty one boxes.,Contradiction
+num_008_contra,Each person ate 2 cakes.,Each person ate thirty seven cakes.,Contradiction
+num_009_contra,The machine worked for 2 minutes in all.,The machine worked for ninety five minutes in all.,Contradiction
+num_010_contra,Each pizza has 2 slices.,Each pizza has twelve slices.,Contradiction
+num_011_contra,Mary needs to add 2 more cups of sugar than cups of flour.,Mary needs to add ninety nine more cups of sugar than cups of flour.,Contradiction
+num_012_contra,Mary put in 2 cups of flour.,Mary put in four cups of flour.,Contradiction
+num_013_contra,Each of the boys will receive 2.,Each of the boys will receive forty nine.,Contradiction
+num_014_contra,Debby had to take 2 sodas back home.,Debby had to take seventy sodas back home.,Contradiction
+num_015_contra,The pet store had 2 cages.,The pet store had twenty five cages.,Contradiction
+num_016_contra,The students could make 2 pies.,The students could make thirty nine pies.,Contradiction
+num_017_contra,Sandy has 3 carrots left,Sandy has twenty two carrots left,Contradiction
+num_018_contra,He would have 3 customers ,He would have twenty one customers,Contradiction
+num_019_contra,Lana picked 3 extra flowers.,Lana picked twenty five extra flowers.,Contradiction
+num_020_contra,Each team would have 3 people.,Each team would have seventy four people.,Contradiction
+num_021_contra,The store used 3 shelves.,The store used twenty nine shelves.,Contradiction
+num_022_contra,3 more birds than storks are sitting on the fence.,thirty five more birds than storks are sitting on the fence.,Contradiction
+num_023_contra,3 groups will be created.,seventy eight groups will be created.,Contradiction
+num_024_contra,Mary needs to add 3 more cups of flour than cups of sugar.,Mary needs to add eighty more cups of flour than cups of sugar.,Contradiction
+num_025_contra,Jake has 3 peaches.,Jake has twenty one peaches.,Contradiction
+num_026_contra,Jerry has 3 cherries left.,Jerry has forty cherries left.,Contradiction
+num_027_contra,I need 4 gas cans,I need eighty four gas cans,Contradiction
+num_028_contra,Rachel still has 4 pictures from her vacation.,Rachel still has thirty nine pictures from her vacation.,Contradiction
+num_029_contra,Bianca could make 4 piles.,Bianca could make twenty two piles.,Contradiction
+num_030_contra,The machine worked for 4 minutes today.,The machine worked for thirty seven minutes today.,Contradiction
+num_031_contra,Jessie weighs 4 kilograms now.,Jessie weighs ninety four kilograms now.,Contradiction
+num_032_contra,Emily can make 4 necklaces.,Emily can make thirty five necklaces.,Contradiction
+num_033_contra,Teresa jogged for 5 hours,Teresa jogged for forty five hours,Contradiction
+num_034_contra,He has 5 Pokemon cards now,He has forty six Pokemon cards now,Contradiction
+num_035_contra,Jose has 5 bottle caps left,Jose has sixty nine bottle caps left,Contradiction
+num_036_contra,You would need 5 vases to hold the flowers.,You would need seventy four vases to hold the flowers.,Contradiction
+num_037_contra,There would be 5 groups.,There would be eighty groups.,Contradiction
+num_038_contra,The store used 5 shelves.,The store used ninety four shelves.,Contradiction
+num_039_contra,Each group has 5 eggs.,Each group has three eggs.,Contradiction
+num_040_contra,Each person ate 5 crackers and cakes.,Each person ate nineteen crackers and cakes.,Contradiction
+num_041_contra,Robin has 5 packages.,Robin has thirty five packages.,Contradiction
+num_042_contra,5 more customers stayed behind than those who left.,ninety nine more customers stayed behind than those who left.,Contradiction
+num_043_contra,Five seats will have 3 children seated on them.,Five seats will have forty five children seated on them.,Contradiction
+num_044_contra,Jerry had 5 boxes left.,Jerry had seventy two boxes left.,Contradiction
+num_045_contra,They earned 5 points.,They earned seventy two points.,Contradiction
+num_046_contra,A waiter had 5 tables.,A waiter had eighty one tables.,Contradiction
+num_047_contra,There were 5 players on her team.,There were seventeen players on her team.,Contradiction
+num_048_contra,It will take Amy 6 hours to finish all the problems.,It will take Amy nineteen hours to finish all the problems.,Contradiction
+num_049_contra,Danny had 6 bottle caps at first.,Danny had twenty seven bottle caps at first.,Contradiction
+num_050_contra,His dad's strawberries weighed 6 pounds more than his.,His dad's strawberries weighed thirty four pounds more than his.,Contradiction
+num_051_contra,Shannon can make 6 bracelets with heart-shaped stones.,Shannon can make sixty nine bracelets with heart-shaped stones.,Contradiction
+num_052_contra,The machine worked for 6 minutes.,The machine worked for nine minutes.,Contradiction
+num_053_contra,His friend scored 6 points.,His friend scored forty seven points.,Contradiction
+num_054_contra,Will gave 6 pounds to Haley.,Will gave eighty seven pounds to Haley.,Contradiction
+num_055_contra,They need 6 tables.,They need sixty tables.,Contradiction
+num_056_contra,Sara has 7 red balloons left,Sara has fifty red balloons left,Contradiction
+num_057_contra,Carol had 7 points at the end of the game.,Carol had eighty seven points at the end of the game.,Contradiction
+num_058_contra,Nancy ended up with 7 folders.,Nancy ended up with eighty six folders.,Contradiction
+num_059_contra,Wendy could still make 7 bouquets.,Wendy could still make eight bouquets.,Contradiction
+num_060_contra,The cafetaria could make 7 pies.,The cafetaria could make fifty seven pies.,Contradiction
+num_061_contra,A farmer will have 7 left after today.,A farmer will have forty seven left after today.,Contradiction
+num_062_contra,Mary needs to add 7 more cups of flour.,Mary needs to add thirty two more cups of flour.,Contradiction
+num_063_contra,Zachary did 7 more push-ups than David.,Zachary did twenty nine more push-ups than David.,Contradiction
+num_064_contra,Bobby still has 7 pieces of candy left.,Bobby still has thirty one pieces of candy left.,Contradiction
+num_065_contra,There are 7 houses in a block.,There are fifty nine houses in a block.,Contradiction
+num_066_contra,7 more trees survived the typhoon than those that died.,thirty more trees survived the typhoon than those that died.,Contradiction
+num_067_contra,7 friends can't go to the movies.,ninety friends can't go to the movies.,Contradiction
+num_068_contra,Millie has 7 bracelets left.,Millie has fifty seven bracelets left.,Contradiction
+num_069_contra,7 students are left on the bus.,nineteen students are left on the bus.,Contradiction
+num_070_contra,7 children got on the bus at the bus stop.,fifty eight children got on the bus at the bus stop.,Contradiction
+num_071_contra,One pencil costs 7 cents.,One pencil costs thirty one cents.,Contradiction
+num_072_contra,A delivery driver made 7 stops in total.,A delivery driver made forty six stops in total.,Contradiction
+num_073_contra,Jessie lost 7 kilograms of weight in the past.,Jessie lost thirty seven kilograms of weight in the past.,Contradiction
+num_074_contra,There were 7 pictures in each of the three albums.,There were forty seven pictures in each of the three albums.,Contradiction
+num_075_contra,They has 8 cats left,They has forty seven cats left,Contradiction
+num_077_contra,Each small load could contain 8 pieces of clothing.,Each small load could contain sixty six pieces of clothing.,Contradiction
+num_078_contra,Josh has 8 marbles now.,Josh has fifty nine marbles now.,Contradiction
+num_079_contra,John needs 8 planks for the house wall.,John needs thirty five planks for the house wall.,Contradiction
+num_080_contra,Each of Haley's friend will receive 8 stickers.,Each of Haley's friend will receive nineteen stickers.,Contradiction
+num_081_contra,If she gives everyone the same number of origami papers,"If she gives everyone the same number of origami papers, each will receive seventeen origami papers.",Contradiction
+num_082_contra,Victor bought 8 boxes.,Victor bought sixty seven boxes.,Contradiction
+num_083_contra,There would be 8 groups.,There would be sixty one groups.,Contradiction
+num_084_contra,9 servings are in the whole box,seventy three servings are in the whole box,Contradiction
+num_085_contra,You would need 9 vases to hold the flowers.,You would need twenty eight vases to hold the flowers.,Contradiction
+num_086_contra,Katie ended up with 9 folders.,Katie ended up with fifty seven folders.,Contradiction
+num_087_contra,Dave has 9 more files than apps left on the phone.,Dave has seventy more files than apps left on the phone.,Contradiction
+num_088_contra,Each bag contains 9 cookies.,Each bag contains fifty two cookies.,Contradiction
+num_089_contra,His dad's strawberries weighed 9 pounds more than his.,His dad's strawberries weighed twenty nine pounds more than his.,Contradiction
+num_090_contra,Paco ate 9 more sweet cookies than salty cookies.,Paco ate seventy six more sweet cookies than salty cookies.,Contradiction
+num_091_contra,The tree initially had 9 apples.,The tree initially had eighty nine apples.,Contradiction
+num_092_contra,Mrs. Riley needs 9 more pencils.,Mrs. Riley needs twenty six more pencils.,Contradiction
+num_093_contra,They had 9 flower beds.,They had sixteen flower beds.,Contradiction
+num_094_contra,The total number of boxes they sold is 9.,The total number of boxes they sold is ninety three.,Contradiction
+num_095_contra,Nine pieces of clothing could go in each of the small loads.,eighty nineNeighty nineieighty nineneighty nineeeighty nine eighty ninepeighty nineieighty nineeeighty nineceighty nineeeighty nineseighty nine eighty nineoeighty ninefeighty nine eighty nineceighty nineleighty nineoeighty nineteighty nineheighty nineieighty nineneighty ninegeighty nine eighty nineceighty nineoeighty nineueighty nineleighty ninedeighty nine eighty ninegeighty nineoeighty nine eighty nineieighty nineneighty nine eighty nineeeighty nineaeighty nineceighty nineheighty nine eighty nineoeighty ninefeighty nine eighty nineteighty nineheighty nineeeighty nine eighty nineseighty ninemeighty nineaeighty nineleighty nineleighty nine eighty nineleighty nineoeighty nineaeighty ninedeighty nineseighty nine.eighty nine,Contradiction
+num_096_contra,Joan has 10 orange balloons now,Joan has seventy seven orange balloons now,Contradiction
+num_097_contra,They need 10 tables,They need ninety seven tables,Contradiction
+num_098_contra,There are 10 birds sitting on the fence.,There are thirty five birds sitting on the fence.,Contradiction
+num_099_contra,Allan and Jake had 10 balloons in the park.,Allan and Jake had eighteen balloons in the park.,Contradiction
+num_100_contra,There are 10 action figures on his shelf in all.,There are twenty six action figures on his shelf in all.,Contradiction
+num_101_contra,There are 10 flowers in the vase in all.,There are two flowers in the vase in all.,Contradiction
+num_102_contra,Paige had to do 11 problems for homework.,Paige had to do thirteen problems for homework.,Contradiction
+num_103_contra,Dave deleted 11 apps.,Dave deleted thirty apps.,Contradiction
+num_104_contra,12 oranges are there in total,ninety six oranges are there in total,Contradiction
+num_105_contra,12 doughnuts were in each box,ninety nine doughnuts were in each box,Contradiction
+num_106_contra,A total of 12 points were scored.,A total of eighty one points were scored.,Contradiction
+num_107_contra,Andrew made 12 sandwiches in total.,Andrew made ninety four sandwiches in total.,Contradiction
+num_108_contra,In each of the bracelets Betty makes for Brenda,"In each of the bracelets Betty makes for Brenda, there will be twenty nine star-shaped stones.",Contradiction
+num_109_contra,They played 12 games of checkers altogether.,They played sixty seven games of checkers altogether.,Contradiction
+num_110_contra,Ned bought 12 books in total.,Ned bought seventy nine books in total.,Contradiction
+num_111_contra,Victor had a total of 12 books.,Victor had a total of forty seven books.,Contradiction
+num_112_contra,Mike has 13 pears left,Mike has eighty nine pears left,Contradiction
+num_113_contra,Jack received 13 emails in the afternoon and evening.,Jack received nineteen emails in the afternoon and evening.,Contradiction
+num_114_contra,There are 13 green peaches in the basket.,There are fourteen green peaches in the basket.,Contradiction
+num_115_contra,14 bottle caps are in the box,six bottle caps are in the box,Contradiction
+num_116_contra,14 bird families were left near the mountain.,fifty five bird families were left near the mountain.,Contradiction
+num_117_contra,She has 14 miniature aircrafts left.,She has sixty seven miniature aircrafts left.,Contradiction
+num_118_contra,There are 14 metal bars in all.,There are eighty nine metal bars in all.,Contradiction
+num_119_contra,Lex will take 14 days to finish reading the book.,Lex will take seventy one days to finish reading the book.,Contradiction
+num_120_contra,There are 14 more radishes in the second basket than the first.,There are twelve more radishes in the second basket than the first.,Contradiction
+num_121_contra,Henry played 14 times.,Henry played thirty eight times.,Contradiction
+num_122_contra,Faye had to do 15 problems for homework.,Faye had to do forty five problems for homework.,Contradiction
+num_123_contra,Frank read 15 pages per day.,Frank read twenty four pages per day.,Contradiction
+num_124_contra,John has a total of 16 shirts.,John has a total of seventy six shirts.,Contradiction
+num_125_contra,It will take him 16 hours longer to paint the rest.,It will take him forty five hours longer to paint the rest.,Contradiction
+num_126_contra,Coach Mike got back 17 cents.,Coach Mike got back ninety three cents.,Contradiction
+num_127_contra,A chef would still have 17 cherries.,A chef would still have nineteen cherries.,Contradiction
+num_128_contra,People spend 17 minutes total on YouTube.,People spend seventy seven minutes total on YouTube.,Contradiction
+num_129_contra,The pet store have 18 cats left.,The pet store have forty seven cats left.,Contradiction
+num_130_contra,Dave would have 18 of them.,Dave would have thirty five of them.,Contradiction
+num_131_contra,There were 18 turkeys left for them to eat.,There were forty three turkeys left for them to eat.,Contradiction
+num_132_contra,Roger went to the movies a total of 18 times.,Roger went to the movies a total of twenty five times.,Contradiction
+num_133_contra,Emily would have a total of 19 of them.,Emily would have a total of thirty seven of them.,Contradiction
+num_134_contra,There are 19 peaches in the basket.,There are eighty one peaches in the basket.,Contradiction
+num_135_contra,Paige has 19 pencils.,Paige has seventy pencils.,Contradiction
+num_136_contra,Sandy has 20 now,Sandy has fifty one now,Contradiction
+num_137_contra,He has 20 aquariums.,He has ninety six aquariums.,Contradiction
+num_138_contra,She has 20 candies left.,She has thirty eight candies left.,Contradiction
+num_139_contra,Each stack would have 20 games.,Each stack would have forty one games.,Contradiction
+num_140_contra,21 more geese were in the marsh,twenty more geese were in the marsh,Contradiction
+num_141_contra,The mouse jumped 21 inches farther than the grasshopper.,The mouse jumped twenty six inches farther than the grasshopper.,Contradiction
+num_142_contra,Danny had 21 bottle caps at first.,Danny had fifty nine bottle caps at first.,Contradiction
+num_143_contra,Ed had 21 more marbles than Doug then.,Ed had twenty more marbles than Doug then.,Contradiction
+num_144_contra,Bryan has 21 bookshelves.,Bryan has twenty six bookshelves.,Contradiction
+num_145_contra,Harold has 21 apples.,Harold has twenty five apples.,Contradiction
+num_146_contra,The hotel has 21 rooms.,The hotel has forty three rooms.,Contradiction
+num_147_contra,A chef has 21 apples in total.,A chef has twenty six apples in total.,Contradiction
+num_148_contra,Matthew had 22 crackers.,Matthew had thirty six crackers.,Contradiction
+num_149_contra,His dad's strawberries weigh 22 pounds.,His dad's strawberries weigh sixty four pounds.,Contradiction
+num_150_contra,Each bag contains 23 pounds of oranges,Each bag contains forty three pounds of oranges,Contradiction
+num_151_contra,Dave had 23 apps on his phone at the start.,Dave had sixty four apps on his phone at the start.,Contradiction
+num_152_contra,There are 23 cookies left.,There are twenty one cookies left.,Contradiction
+num_153_contra,Mike's final score was 24 points.,Mike's final score was twenty points.,Contradiction
+num_154_contra,Zoe bought a total of 24 songs.,Zoe bought a total of twenty six songs.,Contradiction
+num_155_contra,Alicia has 24 medieval art pieces left.,Alicia has fifty four medieval art pieces left.,Contradiction
+num_156_contra,25 bird families were left near the mountain.,twenty bird families were left near the mountain.,Contradiction
+num_157_contra,Luke played 26 rounds.,Luke played twenty rounds.,Contradiction
+num_158_contra,They had 26 more bottles of regular soda than diet soda.,They had twenty more bottles of regular soda than diet soda.,Contradiction
+num_159_contra,A total of 27 points were scored.,A total of ninety two points were scored.,Contradiction
+num_160_contra,Steven has 27 more peaches than Jill.,Steven has twenty three more peaches than Jill.,Contradiction
+num_161_contra,Katie has 28 songs on her mp3 player.,Katie has twenty songs on her mp3 player.,Contradiction
+num_162_contra,The waiter would have 28 customers.,The waiter would have twenty nine customers.,Contradiction
+num_163_contra,John needs 29 planks for the house wall.,John needs twenty planks for the house wall.,Contradiction
+num_164_contra,Paco has 29 cookies left.,Paco has twenty five cookies left.,Contradiction
+num_165_contra,Isabel had to complete a total of 30 problems.,Isabel had to complete a total of forty one problems.,Contradiction
+num_166_contra,Julia played with 30 kids on Tuesday and Wednesday.,Julia played with twenty two kids on Tuesday and Wednesday.,Contradiction
+num_167_contra,30 cookies were eaten in total.,fifty nine cookies were eaten in total.,Contradiction
+num_168_contra,The three of them have 30 chewing gums in all.,The three of them have ten chewing gums in all.,Contradiction
+num_169_contra,Jake bought 30 tickets in all.,Jake bought eight tickets in all.,Contradiction
+num_170_contra,Rachel would have 32 lives.,Rachel would have thirty seven lives.,Contradiction
+num_171_contra,The teacher has 32 more problems to grade.,The teacher has thirty more problems to grade.,Contradiction
+num_172_contra,There are 32 soccer campers.,There are thirty six soccer campers.,Contradiction
+num_173_contra,A chef used 32 apples.,A chef used sixty nine apples.,Contradiction
+num_174_contra,Josh has 33 marbles in his collection.,Josh has eighty eight marbles in his collection.,Contradiction
+num_175_contra,Hannah practices 33 hours each week.,Hannah practices thirty seven hours each week.,Contradiction
+num_176_contra,There are 33 onions on the shelf now.,There are twenty four onions on the shelf now.,Contradiction
+num_177_contra,Billy bought 35 books.,Billy bought seventy five books.,Contradiction
+num_178_contra,Jessie weighed 36 kilograms after the first week of jogging.,Jessie weighed thirty three kilograms after the first week of jogging.,Contradiction
+num_179_contra,There were 37 students in fourth grade at the end.,There were thirty students in fourth grade at the end.,Contradiction
+num_180_contra,Paul has 37 books left with him.,Paul has thirty nine books left with him.,Contradiction
+num_181_contra,Olivia spent 37 pennies for the apple.,Olivia spent seven pennies for the apple.,Contradiction
+num_182_contra,The cafetaria would have 38 apples.,The cafetaria would have sixteen apples.,Contradiction
+num_183_contra,Adam would have 39 cupcakes left.,Adam would have nine cupcakes left.,Contradiction
+num_184_contra,Debby received a total of 39 text messages.,Debby received a total of thirty one text messages.,Contradiction
+num_185_contra,Buddy met 40 more students during recess.,Buddy met sixty three more students during recess.,Contradiction
+num_186_contra,41 bananas are left in the jar,forty bananas are left in the jar,Contradiction
+num_187_contra,Zoe still needs 42 cups of flour.,Zoe still needs forty cups of flour.,Contradiction
+num_188_contra,Tom has 42 robots in his collection.,Tom has forty five robots in his collection.,Contradiction
+num_189_contra,Mayor Fauna donated 43 seedlings in total.,Mayor Fauna donated forty seedlings in total.,Contradiction
+num_190_contra,Each group has 44 bananas.,Each group has eighty four bananas.,Contradiction
+num_191_contra,Each of us gets 45 slices of pizza if distributed equally.,Each of us gets sixty four slices of pizza if distributed equally.,Contradiction
+num_192_contra,Baker would still have 45 pastries.,Baker would still have five pastries.,Contradiction
+num_193_contra,She got 45 candies in total.,She got forty candies in total.,Contradiction
+num_194_contra,45 more DVDs can be put in the book.,ninety two more DVDs can be put in the book.,Contradiction
+num_195_contra,The cafetaria would have 46 apples.,The cafetaria would have nine apples.,Contradiction
+num_196_contra,There were 47 students in fourth grade at the end.,There were three students in fourth grade at the end.,Contradiction
+num_197_contra,John would read 48 books in 6 weeks.,John would read 48 books in forty six weeks.,Contradiction
+num_198_contra,The teacher would have to grade 49 worksheets.,The teacher would have to grade seventy nine worksheets.,Contradiction
+num_199_contra,At would have 49 of them.,At would have nine of them.,Contradiction
+num_200_contra,Katerina weighs 49 pounds.,Katerina weighs twenty six pounds.,Contradiction
+num_201_contra,They have 50 candies in total.,They have twenty four candies in total.,Contradiction
+num_202_contra,Billy used 50 tickets.,Billy used fifty six tickets.,Contradiction
+num_203_contra,The teacher would have to grade 51 worksheets.,The teacher would have to grade fifty worksheets.,Contradiction
+num_204_contra,Mr. Fortree gave 52 seedlings.,Mr. Fortree gave two seedlings.,Contradiction
+num_205_contra,Zachary and David did 53 push-ups altogether.,Zachary and David did fifty five push-ups altogether.,Contradiction
+num_206_contra,Ben had 53 marbles.,Ben had three marbles.,Contradiction
+num_207_contra,Adam had 53 toys in total.,Adam had three toys in total.,Contradiction
+num_208_contra,Janet would have 54 lives.,Janet would have sixty two lives.,Contradiction
+num_209_contra,Kaleb still had 54 pieces.,Kaleb still had ninety three pieces.,Contradiction
+num_210_contra,The chef made 55 plates of food altogether.,The chef made five plates of food altogether.,Contradiction
+num_211_contra,The players had a total of 56 lives.,The players had a total of fifty seven lives.,Contradiction
+num_212_contra,Each group has 57 items.,Each group has ninety two items.,Contradiction
+num_213_contra,There would be 60 of oranges in the bin.,There would be forty of oranges in the bin.,Contradiction
+num_214_contra,Paige had a total of 60 pieces of winter clothing.,Paige had a total of two pieces of winter clothing.,Contradiction
+num_215_contra,They have 60 sheep in total.,They have sixty four sheep in total.,Contradiction
+num_216_contra,61 more visitors visited the Buckingham Palace on that day than on the previous day.,seventy seven more visitors visited the Buckingham Palace on that day than on the previous day.,Contradiction
+num_217_contra,They need 61 more rocks to complete the border.,They need sixty more rocks to complete the border.,Contradiction
+num_218_contra,63 children were there in all,sixty children were there in all,Contradiction
+num_219_contra,Sally has 63 baseball cards now,Sally has sixty baseball cards now,Contradiction
+num_220_contra,The waiter will take 63 more hours to paint the rest.,The waiter will take forty eight more hours to paint the rest.,Contradiction
+num_221_contra,There are 64 pages in Suzanne's book altogether.,There are sixty five pages in Suzanne's book altogether.,Contradiction
+num_222_contra,Oliver did not wash 66 sleeve shirts.,Oliver did not wash six sleeve shirts.,Contradiction
+num_223_contra,Adam would have 67 books.,Adam would have thirty seven books.,Contradiction
+num_224_contra,He would have 68 socks ,He would have seventy two socks,Contradiction
+num_225_contra,There will be 68 invitations left.,There will be sixty two invitations left.,Contradiction
+num_226_contra,They will buy 69 ounces of paint in total.,They will buy forty six ounces of paint in total.,Contradiction
+num_227_contra,Todd has 70 pieces of gum now,Todd has fourteen pieces of gum now,Contradiction
+num_228_contra,Isabel bought a total of 72 songs.,Isabel bought a total of seventy five songs.,Contradiction
+num_229_contra,The pet store had a total of 72 birds.,The pet store had a total of sixty seven birds.,Contradiction
+num_230_contra,Janet bought a total of 72 songs.,Janet bought a total of seventy songs.,Contradiction
+num_231_contra,Janet ran 72 miles altogether.,Janet ran two miles altogether.,Contradiction
+num_232_contra,Baker sold 76 more pastries than cakes.,Baker sold seventy more pastries than cakes.,Contradiction
+num_233_contra,Our class got 77 books from the library.,Our class got seventy six books from the library.,Contradiction
+num_234_contra,They have 81 pears left,They have two pears left,Contradiction
+num_235_contra,They used 82 building pieces altogether.,They used ninety four building pieces altogether.,Contradiction
+num_236_contra,84 people can ride the Ferris wheel on large seats.,eighty six people can ride the Ferris wheel on large seats.,Contradiction
+num_237_contra,Debby had a total of 86 photos.,Debby had a total of sixty eight photos.,Contradiction
+num_238_contra,90 wheels are there in all,twelve wheels are there in all,Contradiction
+num_239_contra,Paul had a total of 90 pieces of candy.,Paul had a total of eighty pieces of candy.,Contradiction
+num_240_contra,Nell has 91 more Ace cards than baseball cards.,Nell has forty seven more Ace cards than baseball cards.,Contradiction
+num_241_contra,They will be able to sell 93 recycled products at the fair.,They will be able to sell ninety six recycled products at the fair.,Contradiction
+num_242_contra,Mikayla's collection had 93 CDs at first.,Mikayla's collection had seventy seven CDs at first.,Contradiction
+num_243_contra,Carol can invite 95 friends.,Carol can invite sixty two friends.,Contradiction
+num_244_contra,Randy has 97 blocks now,Randy has ninety blocks now,Contradiction
+num_245_contra,They had 98 more bottles than apples.,They had ninety more bottles than apples.,Contradiction
+num_246_contra,100 total blocks are in the tower now,Two hundred total blocks are in the tower now,Contradiction
+num_000_contra_swap,Jake had eight more balloon than Allan in the park.,Jake had 1 more balloon than Allan in the park.,Contradiction
+num_001_contra_swap,Jack received eighty three email in the evening.,Jack received 1 email in the evening.,Contradiction
+num_002_contra_swap,There is thirty six more red peach than green peaches in the basket.,There is 1 more red peach than green peaches in the basket.,Contradiction
+num_003_contra_swap,Charles travelled for eighty seven hours,Charles travelled for 2 hours,Contradiction
+num_004_contra_swap,Jessica has sixty five seashells left,Jessica has 2 seashells left,Contradiction
+num_005_contra_swap,fifty five cakes are left,2 cakes are left ,Contradiction
+num_006_contra_swap,The candy would last Megan seventy one days.,The candy would last Megan 2 days.,Contradiction
+num_007_contra_swap,Edward had to use eighty one boxes.,Edward had to use 2 boxes.,Contradiction
+num_008_contra_swap,Each person ate thirty seven cakes.,Each person ate 2 cakes.,Contradiction
+num_009_contra_swap,The machine worked for ninety five minutes in all.,The machine worked for 2 minutes in all.,Contradiction
+num_010_contra_swap,Each pizza has twelve slices.,Each pizza has 2 slices.,Contradiction
+num_011_contra_swap,Mary needs to add ninety nine more cups of sugar than cups of flour.,Mary needs to add 2 more cups of sugar than cups of flour.,Contradiction
+num_012_contra_swap,Mary put in four cups of flour.,Mary put in 2 cups of flour.,Contradiction
+num_013_contra_swap,Each of the boys will receive forty nine.,Each of the boys will receive 2.,Contradiction
+num_014_contra_swap,Debby had to take seventy sodas back home.,Debby had to take 2 sodas back home.,Contradiction
+num_015_contra_swap,The pet store had twenty five cages.,The pet store had 2 cages.,Contradiction
+num_016_contra_swap,The students could make thirty nine pies.,The students could make 2 pies.,Contradiction
+num_017_contra_swap,Sandy has twenty two carrots left,Sandy has 3 carrots left,Contradiction
+num_018_contra_swap,He would have twenty one customers,He would have 3 customers ,Contradiction
+num_019_contra_swap,Lana picked twenty five extra flowers.,Lana picked 3 extra flowers.,Contradiction
+num_020_contra_swap,Each team would have seventy four people.,Each team would have 3 people.,Contradiction
+num_021_contra_swap,The store used twenty nine shelves.,The store used 3 shelves.,Contradiction
+num_022_contra_swap,thirty five more birds than storks are sitting on the fence.,3 more birds than storks are sitting on the fence.,Contradiction
+num_023_contra_swap,seventy eight groups will be created.,3 groups will be created.,Contradiction
+num_024_contra_swap,Mary needs to add eighty more cups of flour than cups of sugar.,Mary needs to add 3 more cups of flour than cups of sugar.,Contradiction
+num_025_contra_swap,Jake has twenty one peaches.,Jake has 3 peaches.,Contradiction
+num_026_contra_swap,Jerry has forty cherries left.,Jerry has 3 cherries left.,Contradiction
+num_027_contra_swap,I need eighty four gas cans,I need 4 gas cans,Contradiction
+num_028_contra_swap,Rachel still has thirty nine pictures from her vacation.,Rachel still has 4 pictures from her vacation.,Contradiction
+num_029_contra_swap,Bianca could make twenty two piles.,Bianca could make 4 piles.,Contradiction
+num_030_contra_swap,The machine worked for thirty seven minutes today.,The machine worked for 4 minutes today.,Contradiction
+num_031_contra_swap,Jessie weighs ninety four kilograms now.,Jessie weighs 4 kilograms now.,Contradiction
+num_032_contra_swap,Emily can make thirty five necklaces.,Emily can make 4 necklaces.,Contradiction
+num_033_contra_swap,Teresa jogged for forty five hours,Teresa jogged for 5 hours,Contradiction
+num_034_contra_swap,He has forty six Pokemon cards now,He has 5 Pokemon cards now,Contradiction
+num_035_contra_swap,Jose has sixty nine bottle caps left,Jose has 5 bottle caps left,Contradiction
+num_036_contra_swap,You would need seventy four vases to hold the flowers.,You would need 5 vases to hold the flowers.,Contradiction
+num_037_contra_swap,There would be eighty groups.,There would be 5 groups.,Contradiction
+num_038_contra_swap,The store used ninety four shelves.,The store used 5 shelves.,Contradiction
+num_039_contra_swap,Each group has three eggs.,Each group has 5 eggs.,Contradiction
+num_040_contra_swap,Each person ate nineteen crackers and cakes.,Each person ate 5 crackers and cakes.,Contradiction
+num_041_contra_swap,Robin has thirty five packages.,Robin has 5 packages.,Contradiction
+num_042_contra_swap,ninety nine more customers stayed behind than those who left.,5 more customers stayed behind than those who left.,Contradiction
+num_043_contra_swap,Five seats will have forty five children seated on them.,Five seats will have 3 children seated on them.,Contradiction
+num_044_contra_swap,Jerry had seventy two boxes left.,Jerry had 5 boxes left.,Contradiction
+num_045_contra_swap,They earned seventy two points.,They earned 5 points.,Contradiction
+num_046_contra_swap,A waiter had eighty one tables.,A waiter had 5 tables.,Contradiction
+num_047_contra_swap,There were seventeen players on her team.,There were 5 players on her team.,Contradiction
+num_048_contra_swap,It will take Amy nineteen hours to finish all the problems.,It will take Amy 6 hours to finish all the problems.,Contradiction
+num_049_contra_swap,Danny had twenty seven bottle caps at first.,Danny had 6 bottle caps at first.,Contradiction
+num_050_contra_swap,His dad's strawberries weighed thirty four pounds more than his.,His dad's strawberries weighed 6 pounds more than his.,Contradiction
+num_051_contra_swap,Shannon can make sixty nine bracelets with heart-shaped stones.,Shannon can make 6 bracelets with heart-shaped stones.,Contradiction
+num_052_contra_swap,The machine worked for nine minutes.,The machine worked for 6 minutes.,Contradiction
+num_053_contra_swap,His friend scored forty seven points.,His friend scored 6 points.,Contradiction
+num_054_contra_swap,Will gave eighty seven pounds to Haley.,Will gave 6 pounds to Haley.,Contradiction
+num_055_contra_swap,They need sixty tables.,They need 6 tables.,Contradiction
+num_056_contra_swap,Sara has fifty red balloons left,Sara has 7 red balloons left,Contradiction
+num_057_contra_swap,Carol had eighty seven points at the end of the game.,Carol had 7 points at the end of the game.,Contradiction
+num_058_contra_swap,Nancy ended up with eighty six folders.,Nancy ended up with 7 folders.,Contradiction
+num_059_contra_swap,Wendy could still make eight bouquets.,Wendy could still make 7 bouquets.,Contradiction
+num_060_contra_swap,The cafetaria could make fifty seven pies.,The cafetaria could make 7 pies.,Contradiction
+num_061_contra_swap,A farmer will have forty seven left after today.,A farmer will have 7 left after today.,Contradiction
+num_062_contra_swap,Mary needs to add thirty two more cups of flour.,Mary needs to add 7 more cups of flour.,Contradiction
+num_063_contra_swap,Zachary did twenty nine more push-ups than David.,Zachary did 7 more push-ups than David.,Contradiction
+num_064_contra_swap,Bobby still has thirty one pieces of candy left.,Bobby still has 7 pieces of candy left.,Contradiction
+num_065_contra_swap,There are fifty nine houses in a block.,There are 7 houses in a block.,Contradiction
+num_066_contra_swap,thirty more trees survived the typhoon than those that died.,7 more trees survived the typhoon than those that died.,Contradiction
+num_067_contra_swap,ninety friends can't go to the movies.,7 friends can't go to the movies.,Contradiction
+num_068_contra_swap,Millie has fifty seven bracelets left.,Millie has 7 bracelets left.,Contradiction
+num_069_contra_swap,nineteen students are left on the bus.,7 students are left on the bus.,Contradiction
+num_070_contra_swap,fifty eight children got on the bus at the bus stop.,7 children got on the bus at the bus stop.,Contradiction
+num_071_contra_swap,One pencil costs thirty one cents.,One pencil costs 7 cents.,Contradiction
+num_072_contra_swap,A delivery driver made forty six stops in total.,A delivery driver made 7 stops in total.,Contradiction
+num_073_contra_swap,Jessie lost thirty seven kilograms of weight in the past.,Jessie lost 7 kilograms of weight in the past.,Contradiction
+num_074_contra_swap,There were forty seven pictures in each of the three albums.,There were 7 pictures in each of the three albums.,Contradiction
+num_075_contra_swap,They has forty seven cats left,They has 8 cats left,Contradiction
+num_077_contra_swap,Each small load could contain sixty six pieces of clothing.,Each small load could contain 8 pieces of clothing.,Contradiction
+num_078_contra_swap,Josh has fifty nine marbles now.,Josh has 8 marbles now.,Contradiction
+num_079_contra_swap,John needs thirty five planks for the house wall.,John needs 8 planks for the house wall.,Contradiction
+num_080_contra_swap,Each of Haley's friend will receive nineteen stickers.,Each of Haley's friend will receive 8 stickers.,Contradiction
+num_081_contra_swap,"If she gives everyone the same number of origami papers, each will receive seventeen origami papers.",If she gives everyone the same number of origami papers,Contradiction
+num_082_contra_swap,Victor bought sixty seven boxes.,Victor bought 8 boxes.,Contradiction
+num_083_contra_swap,There would be sixty one groups.,There would be 8 groups.,Contradiction
+num_084_contra_swap,seventy three servings are in the whole box,9 servings are in the whole box,Contradiction
+num_085_contra_swap,You would need twenty eight vases to hold the flowers.,You would need 9 vases to hold the flowers.,Contradiction
+num_086_contra_swap,Katie ended up with fifty seven folders.,Katie ended up with 9 folders.,Contradiction
+num_087_contra_swap,Dave has seventy more files than apps left on the phone.,Dave has 9 more files than apps left on the phone.,Contradiction
+num_088_contra_swap,Each bag contains fifty two cookies.,Each bag contains 9 cookies.,Contradiction
+num_089_contra_swap,His dad's strawberries weighed twenty nine pounds more than his.,His dad's strawberries weighed 9 pounds more than his.,Contradiction
+num_090_contra_swap,Paco ate seventy six more sweet cookies than salty cookies.,Paco ate 9 more sweet cookies than salty cookies.,Contradiction
+num_091_contra_swap,The tree initially had eighty nine apples.,The tree initially had 9 apples.,Contradiction
+num_092_contra_swap,Mrs. Riley needs twenty six more pencils.,Mrs. Riley needs 9 more pencils.,Contradiction
+num_093_contra_swap,They had sixteen flower beds.,They had 9 flower beds.,Contradiction
+num_094_contra_swap,The total number of boxes they sold is ninety three.,The total number of boxes they sold is 9.,Contradiction
+num_095_contra_swap,eighty nineNeighty nineieighty nineneighty nineeeighty nine eighty ninepeighty nineieighty nineeeighty nineceighty nineeeighty nineseighty nine eighty nineoeighty ninefeighty nine eighty nineceighty nineleighty nineoeighty nineteighty nineheighty nineieighty nineneighty ninegeighty nine eighty nineceighty nineoeighty nineueighty nineleighty ninedeighty nine eighty ninegeighty nineoeighty nine eighty nineieighty nineneighty nine eighty nineeeighty nineaeighty nineceighty nineheighty nine eighty nineoeighty ninefeighty nine eighty nineteighty nineheighty nineeeighty nine eighty nineseighty ninemeighty nineaeighty nineleighty nineleighty nine eighty nineleighty nineoeighty nineaeighty ninedeighty nineseighty nine.eighty nine,Nine pieces of clothing could go in each of the small loads.,Contradiction
+num_096_contra_swap,Joan has seventy seven orange balloons now,Joan has 10 orange balloons now,Contradiction
+num_097_contra_swap,They need ninety seven tables,They need 10 tables,Contradiction
+num_098_contra_swap,There are thirty five birds sitting on the fence.,There are 10 birds sitting on the fence.,Contradiction
+num_099_contra_swap,Allan and Jake had eighteen balloons in the park.,Allan and Jake had 10 balloons in the park.,Contradiction
+num_100_contra_swap,There are twenty six action figures on his shelf in all.,There are 10 action figures on his shelf in all.,Contradiction
+num_101_contra_swap,There are two flowers in the vase in all.,There are 10 flowers in the vase in all.,Contradiction
+num_102_contra_swap,Paige had to do thirteen problems for homework.,Paige had to do 11 problems for homework.,Contradiction
+num_103_contra_swap,Dave deleted thirty apps.,Dave deleted 11 apps.,Contradiction
+num_104_contra_swap,ninety six oranges are there in total,12 oranges are there in total,Contradiction
+num_105_contra_swap,ninety nine doughnuts were in each box,12 doughnuts were in each box,Contradiction
+num_106_contra_swap,A total of eighty one points were scored.,A total of 12 points were scored.,Contradiction
+num_107_contra_swap,Andrew made ninety four sandwiches in total.,Andrew made 12 sandwiches in total.,Contradiction
+num_108_contra_swap,"In each of the bracelets Betty makes for Brenda, there will be twenty nine star-shaped stones.",In each of the bracelets Betty makes for Brenda,Contradiction
+num_109_contra_swap,They played sixty seven games of checkers altogether.,They played 12 games of checkers altogether.,Contradiction
+num_110_contra_swap,Ned bought seventy nine books in total.,Ned bought 12 books in total.,Contradiction
+num_111_contra_swap,Victor had a total of forty seven books.,Victor had a total of 12 books.,Contradiction
+num_112_contra_swap,Mike has eighty nine pears left,Mike has 13 pears left,Contradiction
+num_113_contra_swap,Jack received nineteen emails in the afternoon and evening.,Jack received 13 emails in the afternoon and evening.,Contradiction
+num_114_contra_swap,There are fourteen green peaches in the basket.,There are 13 green peaches in the basket.,Contradiction
+num_115_contra_swap,six bottle caps are in the box,14 bottle caps are in the box,Contradiction
+num_116_contra_swap,fifty five bird families were left near the mountain.,14 bird families were left near the mountain.,Contradiction
+num_117_contra_swap,She has sixty seven miniature aircrafts left.,She has 14 miniature aircrafts left.,Contradiction
+num_118_contra_swap,There are eighty nine metal bars in all.,There are 14 metal bars in all.,Contradiction
+num_119_contra_swap,Lex will take seventy one days to finish reading the book.,Lex will take 14 days to finish reading the book.,Contradiction
+num_120_contra_swap,There are twelve more radishes in the second basket than the first.,There are 14 more radishes in the second basket than the first.,Contradiction
+num_121_contra_swap,Henry played thirty eight times.,Henry played 14 times.,Contradiction
+num_122_contra_swap,Faye had to do forty five problems for homework.,Faye had to do 15 problems for homework.,Contradiction
+num_123_contra_swap,Frank read twenty four pages per day.,Frank read 15 pages per day.,Contradiction
+num_124_contra_swap,John has a total of seventy six shirts.,John has a total of 16 shirts.,Contradiction
+num_125_contra_swap,It will take him forty five hours longer to paint the rest.,It will take him 16 hours longer to paint the rest.,Contradiction
+num_126_contra_swap,Coach Mike got back ninety three cents.,Coach Mike got back 17 cents.,Contradiction
+num_127_contra_swap,A chef would still have nineteen cherries.,A chef would still have 17 cherries.,Contradiction
+num_128_contra_swap,People spend seventy seven minutes total on YouTube.,People spend 17 minutes total on YouTube.,Contradiction
+num_129_contra_swap,The pet store have forty seven cats left.,The pet store have 18 cats left.,Contradiction
+num_130_contra_swap,Dave would have thirty five of them.,Dave would have 18 of them.,Contradiction
+num_131_contra_swap,There were forty three turkeys left for them to eat.,There were 18 turkeys left for them to eat.,Contradiction
+num_132_contra_swap,Roger went to the movies a total of twenty five times.,Roger went to the movies a total of 18 times.,Contradiction
+num_133_contra_swap,Emily would have a total of thirty seven of them.,Emily would have a total of 19 of them.,Contradiction
+num_134_contra_swap,There are eighty one peaches in the basket.,There are 19 peaches in the basket.,Contradiction
+num_135_contra_swap,Paige has seventy pencils.,Paige has 19 pencils.,Contradiction
+num_136_contra_swap,Sandy has fifty one now,Sandy has 20 now,Contradiction
+num_137_contra_swap,He has ninety six aquariums.,He has 20 aquariums.,Contradiction
+num_138_contra_swap,She has thirty eight candies left.,She has 20 candies left.,Contradiction
+num_139_contra_swap,Each stack would have forty one games.,Each stack would have 20 games.,Contradiction
+num_140_contra_swap,twenty more geese were in the marsh,21 more geese were in the marsh,Contradiction
+num_141_contra_swap,The mouse jumped twenty six inches farther than the grasshopper.,The mouse jumped 21 inches farther than the grasshopper.,Contradiction
+num_142_contra_swap,Danny had fifty nine bottle caps at first.,Danny had 21 bottle caps at first.,Contradiction
+num_143_contra_swap,Ed had twenty more marbles than Doug then.,Ed had 21 more marbles than Doug then.,Contradiction
+num_144_contra_swap,Bryan has twenty six bookshelves.,Bryan has 21 bookshelves.,Contradiction
+num_145_contra_swap,Harold has twenty five apples.,Harold has 21 apples.,Contradiction
+num_146_contra_swap,The hotel has forty three rooms.,The hotel has 21 rooms.,Contradiction
+num_147_contra_swap,A chef has twenty six apples in total.,A chef has 21 apples in total.,Contradiction
+num_148_contra_swap,Matthew had thirty six crackers.,Matthew had 22 crackers.,Contradiction
+num_149_contra_swap,His dad's strawberries weigh sixty four pounds.,His dad's strawberries weigh 22 pounds.,Contradiction
+num_150_contra_swap,Each bag contains forty three pounds of oranges,Each bag contains 23 pounds of oranges,Contradiction
+num_151_contra_swap,Dave had sixty four apps on his phone at the start.,Dave had 23 apps on his phone at the start.,Contradiction
+num_152_contra_swap,There are twenty one cookies left.,There are 23 cookies left.,Contradiction
+num_153_contra_swap,Mike's final score was twenty points.,Mike's final score was 24 points.,Contradiction
+num_154_contra_swap,Zoe bought a total of twenty six songs.,Zoe bought a total of 24 songs.,Contradiction
+num_155_contra_swap,Alicia has fifty four medieval art pieces left.,Alicia has 24 medieval art pieces left.,Contradiction
+num_156_contra_swap,twenty bird families were left near the mountain.,25 bird families were left near the mountain.,Contradiction
+num_157_contra_swap,Luke played twenty rounds.,Luke played 26 rounds.,Contradiction
+num_158_contra_swap,They had twenty more bottles of regular soda than diet soda.,They had 26 more bottles of regular soda than diet soda.,Contradiction
+num_159_contra_swap,A total of ninety two points were scored.,A total of 27 points were scored.,Contradiction
+num_160_contra_swap,Steven has twenty three more peaches than Jill.,Steven has 27 more peaches than Jill.,Contradiction
+num_161_contra_swap,Katie has twenty songs on her mp3 player.,Katie has 28 songs on her mp3 player.,Contradiction
+num_162_contra_swap,The waiter would have twenty nine customers.,The waiter would have 28 customers.,Contradiction
+num_163_contra_swap,John needs twenty planks for the house wall.,John needs 29 planks for the house wall.,Contradiction
+num_164_contra_swap,Paco has twenty five cookies left.,Paco has 29 cookies left.,Contradiction
+num_165_contra_swap,Isabel had to complete a total of forty one problems.,Isabel had to complete a total of 30 problems.,Contradiction
+num_166_contra_swap,Julia played with twenty two kids on Tuesday and Wednesday.,Julia played with 30 kids on Tuesday and Wednesday.,Contradiction
+num_167_contra_swap,fifty nine cookies were eaten in total.,30 cookies were eaten in total.,Contradiction
+num_168_contra_swap,The three of them have ten chewing gums in all.,The three of them have 30 chewing gums in all.,Contradiction
+num_169_contra_swap,Jake bought eight tickets in all.,Jake bought 30 tickets in all.,Contradiction
+num_170_contra_swap,Rachel would have thirty seven lives.,Rachel would have 32 lives.,Contradiction
+num_171_contra_swap,The teacher has thirty more problems to grade.,The teacher has 32 more problems to grade.,Contradiction
+num_172_contra_swap,There are thirty six soccer campers.,There are 32 soccer campers.,Contradiction
+num_173_contra_swap,A chef used sixty nine apples.,A chef used 32 apples.,Contradiction
+num_174_contra_swap,Josh has eighty eight marbles in his collection.,Josh has 33 marbles in his collection.,Contradiction
+num_175_contra_swap,Hannah practices thirty seven hours each week.,Hannah practices 33 hours each week.,Contradiction
+num_176_contra_swap,There are twenty four onions on the shelf now.,There are 33 onions on the shelf now.,Contradiction
+num_177_contra_swap,Billy bought seventy five books.,Billy bought 35 books.,Contradiction
+num_178_contra_swap,Jessie weighed thirty three kilograms after the first week of jogging.,Jessie weighed 36 kilograms after the first week of jogging.,Contradiction
+num_179_contra_swap,There were thirty students in fourth grade at the end.,There were 37 students in fourth grade at the end.,Contradiction
+num_180_contra_swap,Paul has thirty nine books left with him.,Paul has 37 books left with him.,Contradiction
+num_181_contra_swap,Olivia spent seven pennies for the apple.,Olivia spent 37 pennies for the apple.,Contradiction
+num_182_contra_swap,The cafetaria would have sixteen apples.,The cafetaria would have 38 apples.,Contradiction
+num_183_contra_swap,Adam would have nine cupcakes left.,Adam would have 39 cupcakes left.,Contradiction
+num_184_contra_swap,Debby received a total of thirty one text messages.,Debby received a total of 39 text messages.,Contradiction
+num_185_contra_swap,Buddy met sixty three more students during recess.,Buddy met 40 more students during recess.,Contradiction
+num_186_contra_swap,forty bananas are left in the jar,41 bananas are left in the jar,Contradiction
+num_187_contra_swap,Zoe still needs forty cups of flour.,Zoe still needs 42 cups of flour.,Contradiction
+num_188_contra_swap,Tom has forty five robots in his collection.,Tom has 42 robots in his collection.,Contradiction
+num_189_contra_swap,Mayor Fauna donated forty seedlings in total.,Mayor Fauna donated 43 seedlings in total.,Contradiction
+num_190_contra_swap,Each group has eighty four bananas.,Each group has 44 bananas.,Contradiction
+num_191_contra_swap,Each of us gets sixty four slices of pizza if distributed equally.,Each of us gets 45 slices of pizza if distributed equally.,Contradiction
+num_192_contra_swap,Baker would still have five pastries.,Baker would still have 45 pastries.,Contradiction
+num_193_contra_swap,She got forty candies in total.,She got 45 candies in total.,Contradiction
+num_194_contra_swap,ninety two more DVDs can be put in the book.,45 more DVDs can be put in the book.,Contradiction
+num_195_contra_swap,The cafetaria would have nine apples.,The cafetaria would have 46 apples.,Contradiction
+num_196_contra_swap,There were three students in fourth grade at the end.,There were 47 students in fourth grade at the end.,Contradiction
+num_197_contra_swap,John would read 48 books in forty six weeks.,John would read 48 books in 6 weeks.,Contradiction
+num_198_contra_swap,The teacher would have to grade seventy nine worksheets.,The teacher would have to grade 49 worksheets.,Contradiction
+num_199_contra_swap,At would have nine of them.,At would have 49 of them.,Contradiction
+num_200_contra_swap,Katerina weighs twenty six pounds.,Katerina weighs 49 pounds.,Contradiction
+num_201_contra_swap,They have twenty four candies in total.,They have 50 candies in total.,Contradiction
+num_202_contra_swap,Billy used fifty six tickets.,Billy used 50 tickets.,Contradiction
+num_203_contra_swap,The teacher would have to grade fifty worksheets.,The teacher would have to grade 51 worksheets.,Contradiction
+num_204_contra_swap,Mr. Fortree gave two seedlings.,Mr. Fortree gave 52 seedlings.,Contradiction
+num_205_contra_swap,Zachary and David did fifty five push-ups altogether.,Zachary and David did 53 push-ups altogether.,Contradiction
+num_206_contra_swap,Ben had three marbles.,Ben had 53 marbles.,Contradiction
+num_207_contra_swap,Adam had three toys in total.,Adam had 53 toys in total.,Contradiction
+num_208_contra_swap,Janet would have sixty two lives.,Janet would have 54 lives.,Contradiction
+num_209_contra_swap,Kaleb still had ninety three pieces.,Kaleb still had 54 pieces.,Contradiction
+num_210_contra_swap,The chef made five plates of food altogether.,The chef made 55 plates of food altogether.,Contradiction
+num_211_contra_swap,The players had a total of fifty seven lives.,The players had a total of 56 lives.,Contradiction
+num_212_contra_swap,Each group has ninety two items.,Each group has 57 items.,Contradiction
+num_213_contra_swap,There would be forty of oranges in the bin.,There would be 60 of oranges in the bin.,Contradiction
+num_214_contra_swap,Paige had a total of two pieces of winter clothing.,Paige had a total of 60 pieces of winter clothing.,Contradiction
+num_215_contra_swap,They have sixty four sheep in total.,They have 60 sheep in total.,Contradiction
+num_216_contra_swap,seventy seven more visitors visited the Buckingham Palace on that day than on the previous day.,61 more visitors visited the Buckingham Palace on that day than on the previous day.,Contradiction
+num_217_contra_swap,They need sixty more rocks to complete the border.,They need 61 more rocks to complete the border.,Contradiction
+num_218_contra_swap,sixty children were there in all,63 children were there in all,Contradiction
+num_219_contra_swap,Sally has sixty baseball cards now,Sally has 63 baseball cards now,Contradiction
+num_220_contra_swap,The waiter will take forty eight more hours to paint the rest.,The waiter will take 63 more hours to paint the rest.,Contradiction
+num_221_contra_swap,There are sixty five pages in Suzanne's book altogether.,There are 64 pages in Suzanne's book altogether.,Contradiction
+num_222_contra_swap,Oliver did not wash six sleeve shirts.,Oliver did not wash 66 sleeve shirts.,Contradiction
+num_223_contra_swap,Adam would have thirty seven books.,Adam would have 67 books.,Contradiction
+num_224_contra_swap,He would have seventy two socks,He would have 68 socks ,Contradiction
+num_225_contra_swap,There will be sixty two invitations left.,There will be 68 invitations left.,Contradiction
+num_226_contra_swap,They will buy forty six ounces of paint in total.,They will buy 69 ounces of paint in total.,Contradiction
+num_227_contra_swap,Todd has fourteen pieces of gum now,Todd has 70 pieces of gum now,Contradiction
+num_228_contra_swap,Isabel bought a total of seventy five songs.,Isabel bought a total of 72 songs.,Contradiction
+num_229_contra_swap,The pet store had a total of sixty seven birds.,The pet store had a total of 72 birds.,Contradiction
+num_230_contra_swap,Janet bought a total of seventy songs.,Janet bought a total of 72 songs.,Contradiction
+num_231_contra_swap,Janet ran two miles altogether.,Janet ran 72 miles altogether.,Contradiction
+num_232_contra_swap,Baker sold seventy more pastries than cakes.,Baker sold 76 more pastries than cakes.,Contradiction
+num_233_contra_swap,Our class got seventy six books from the library.,Our class got 77 books from the library.,Contradiction
+num_234_contra_swap,They have two pears left,They have 81 pears left,Contradiction
+num_235_contra_swap,They used ninety four building pieces altogether.,They used 82 building pieces altogether.,Contradiction
+num_236_contra_swap,eighty six people can ride the Ferris wheel on large seats.,84 people can ride the Ferris wheel on large seats.,Contradiction
+num_237_contra_swap,Debby had a total of sixty eight photos.,Debby had a total of 86 photos.,Contradiction
+num_238_contra_swap,twelve wheels are there in all,90 wheels are there in all,Contradiction
+num_239_contra_swap,Paul had a total of eighty pieces of candy.,Paul had a total of 90 pieces of candy.,Contradiction
+num_240_contra_swap,Nell has forty seven more Ace cards than baseball cards.,Nell has 91 more Ace cards than baseball cards.,Contradiction
+num_241_contra_swap,They will be able to sell ninety six recycled products at the fair.,They will be able to sell 93 recycled products at the fair.,Contradiction
+num_242_contra_swap,Mikayla's collection had seventy seven CDs at first.,Mikayla's collection had 93 CDs at first.,Contradiction
+num_243_contra_swap,Carol can invite sixty two friends.,Carol can invite 95 friends.,Contradiction
+num_244_contra_swap,Randy has ninety blocks now,Randy has 97 blocks now,Contradiction
+num_245_contra_swap,They had ninety more bottles than apples.,They had 98 more bottles than apples.,Contradiction
+num_246_contra_swap,Two hundred total blocks are in the tower now,100 total blocks are in the tower now,Contradiction

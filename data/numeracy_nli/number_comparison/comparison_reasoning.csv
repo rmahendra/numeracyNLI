@@ -1,0 +1,977 @@
+problem-id,NLI Premise,NLI Hypothesis,Gold Label
+comp_chal-098,There are 6 birds and 3 nests.,There are more birds than nests,entailment
+comp_chal-125,There are 5 flowers and 3 bees.,There are fewer bees than flowers,entailment
+comp_chal-302,There are 4 squirrels in a tree with 2 nuts.,There are more squirrels than nuts,entailment
+comp_chal-360,A restaurant serves 6 cakes during lunch and 9 during dinner today.,More cakes are served during dinner than lunch,entailment
+comp_chal-386,"In a school, there are 542 girls and 387 boys.",More girls are there compared to boys in that school,entailment
+comp_chal-462,There were 28 girls and 35 boys on the playground at recess.,More boys are there than girls,entailment
+comp_chal-547,There are 58 geese and 37 ducks in the marsh.,More geese are there than ducks,entailment
+comp_chal-599,28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus.,More children got on the bus than those who got off.,entailment
+comp_chal-652,Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies.,Paco ate more cookies than those he gave to his friend.,entailment
+comp_chal-771,3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them.,More stork than birds is sitting on the fence.,entailment
+comp_chal-785,Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser.,Paul had more crayons than erasers left.,entailment
+comp_chal-905,Danny collects bottle caps and wrappers. He found 65 wrappers and 5 bottle caps at the park. Now he has 31 bottle caps and 9 wrappers in his collection.,Danny found more wrappers than bottle caps at the park.,entailment
+comp_chal-928,Tiffany was collecting cans for recycling. On monday she had 7 bags of cans. The next day she found 12 more bags worth of cans.,Tiffany found more bags on the next day than she had on Monday.,entailment
+comp_chal-968,For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 7 more dollars. She spent 4 dollars.,Gwen received more money from her mom than from her dad.,entailment
+comp_nluds-0837,There are 8 different books and 5 different movies in the ' crazy silly school ' series. You read 19 of the movies and watched 16 of the books.,You have read more movies than books.,entailment
+comp_nluds-0893,Danny collects bottle caps and wrappers. He found 46 wrappers and 50 bottle caps at the park. Now he has 21 bottle caps and 52 wrappers in his collection.,Danny found more bottle caps than wrappers at the park.,entailment
+comp_nluds-0895,3 birds and 4 storks were sitting on the fence. 2 more birds came to join them.,There is more bird than stork sitting on the fence.,entailment
+comp_chal-006,Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary.,Zachary did more push-ups than crunches.,entailment
+comp_chal-158,Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left.,Nell has more baseball cards than Ace cards.,entailment
+comp_chal-382,There were 9 roses and 6 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 13 orchids and 3 roses in the vase.,There are more orchids than roses in the vase now.,entailment
+comp_chal-564,"After eating a hearty meal they went to see the Buckingham palace. There were 39 paintings in the Buckingham palace. There, Rachel learned that 661 visitors came to the Buckingham palace that day. There were 600 visitors the previous day.",More visitors visited the Buckingham Palace on that day than on the previous day.,entailment
+comp_chal-782,Rachel had to complete 2 pages of reading homework and 4 pages of math homework.,Rachel had more pages of math homework than reading homework.,entailment
+comp_awp_e_064,"Julia played tag with 8 kids on monday, 11 kids on tuesday and 9 kids on wednesday.",Julia played with more kids on Tuesday than on Wednesday.,entailment
+comp_awp_e_065,36 children were riding on the bus. At the bus stop 68 children got off the bus while some more got on the bus. Then there were 12 children altogether on the bus.,More children got off the bus than those who got on.,entailment
+comp_awp_e_069,In a school there are 632 girls and 410 boys. 465 more girls joined the school.,There are more girls than boys in the school.,entailment
+comp_awp_e_197,Randy has 95 blocks. He uses 20 blocks to build a house and 50 blocks to build a tower.,Randy used more blocks to build the tower than he did to build the house.,entailment
+comp_awp_e_265,2 birds and 6 storks were sitting on the fence. 3 more birds came to join them.,There is more stork than birds sitting on the fence.,entailment
+comp_awp_e_286,Paco had 12 cookies. He ate 16 cookies and gave 21 of them to his friend.,Paco gave more cookies to his friend than those he ate.,entailment
+comp_awp_e_287,"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 317 visitors came to the Buckingham palace that day. There were 295 visitors the previous day.",More visitors visited the Buckingham Palace on that day than on the previous day.,entailment
+comp_chal-005,Josh had 3 marbles in his collection. He found 6 marbles while he lost 5 marbles.,Josh found more marble than those he lost.,entailment
+comp_chal-008,Because of the decision Sofia asked the students to suggest specific types of food. 408 students suggested adding mashed potatoes while 42 suggested adding bacon to the menu.,More students suggested mashed potatoes than those who suggested bacon.,entailment
+comp_chal-011,Paco had 17 cookies. He ate 14 cookies and gave 13 of them to his friend.,Paco ate more cookie than he gave to his friend.,entailment
+comp_chal-020,Julia played tag with 19 kids on monday. She played tag with 18 kids on tuesday. She spent a total of 38 hours to play tag on both days.,Julia played with more kid on Monday than on Tuesday.,entailment
+comp_chal-026,Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3.,Dan spent more money to buy chocolate than he did to buy a candy bar.,entailment
+comp_chal-031,Ed had 29 more marbles than Doug. Ed lost 17 of his marbles at the playground.,Ed had more marbles than Doug then.,entailment
+comp_chal-038,Allan brought 6 balloons and Jake brought 3 balloons to the park. Jake then bought 4 more balloons at the park.,Jake had more balloon than Allan in the park.,entailment
+comp_chal-040,A grocery store had 22 bottles of regular soda and 61 bottles of diet soda.,They had more bottles of diet soda than regular soda.,entailment
+comp_chal-042,Allan brought 2 balloons and Jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park.,Allan had more balloon than Jake in the park.,entailment
+comp_chal-044,"Jack received 10 emails in the morning, 5 emails in the afternoon and 4 emails in the evening.",Jack received more email in the afternoon than in the evening.,entailment
+comp_chal-046,Because of the decision Sofia asked the students to suggest specific types of food. 479 students suggested adding mashed potatoes while 489 suggested adding bacon to the menu.,More students suggested bacon than those that suggested mashed potatoes.,entailment
+comp_chal-050,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 19 chocolate chip cookies yesterday and 231 raisin cookies and 237 chocolate chip cookies this morning.,Helen baked more chocolate chip cookies than raisin cakes.,entailment
+comp_chal-059,Danny collects bottle caps. He found 30 bottle caps at the park while he threw away 63 old ones. Now he has 42 bottle caps in his collection.,Danny threw away more bottle caps than he found at the park.,entailment
+comp_chal-060,There were 7 roses and 12 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 11 roses and 20 orchids in the vase.,There are more orchids than roses in the vase now.,entailment
+comp_chal-077,There are 10 different books and 11 different movies in the ' crazy silly school ' series. You read 13 of the books and watched 12 of the movies.,You have read more book than movies.,entailment
+comp_chal-079,23 children were riding on the bus. At the bus stop 24 children got on the bus while some got off the bus. Then there were 8 children altogether on the bus.,More children got off the bus than those who got on.,entailment
+comp_chal-081,Because of the decision Sofia asked the students to suggest specific types of food. 257 students suggested adding mashed potatoes 120 suggested adding bacon to the menu and 97 suggested adding tomatoes.,More students suggested mashed potatoes than those that suggested bacon.,entailment
+comp_chal-084,Julia played tag with 4 kids on wednesday. She had played with 6 kids on monday and 17 kids on tuesday.,Julia played with more kids on Monday than on Wednesday.,entailment
+comp_chal-086,"A grocery store had 36 apples, 80 bottles of regular soda and 54 bottles of diet soda.",They had more bottles than apples.,entailment
+comp_chal-087,Paco had 40 sweet cookies and 25 salty cookies. He ate 28 salty cookies and 15 sweet cookies.,Paco ate more salty cookies than sweet cookies.,entailment
+comp_chal-089,A grocery store had 67 bottles of regular soda and 9 bottles of diet soda.,They had more bottles of regular soda than diet soda.,entailment
+comp_chal-090,Jake has 3 fewer peaches than Steven who has 8 more peaches than Jill. Steven has 5 peaches.,Jake has more peaches than Jill.,entailment
+comp_chal-091,Jake has 5 fewer peaches than Steven. Steven has 18 more peaches than Jill. Jill has 87 peaches.,Jake has more peaches than Jill.,entailment
+comp_chal-092,"A grocery store had 54 bottles of diet soda, 83 bottles of regular soda and 12 apples.",The store had more bottles of regular soda than diet soda.,entailment
+comp_chal-094,Because of the decision Sofia asked the students to suggest specific types of food. 269 students suggested adding bacon 330 suggested adding mashed potatoes to the menu and 76 suggested adding tomatoes.,More students suggested mashed potatoes than those that suggested bacon.,entailment
+comp_chal-095,Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left.,Dave deleted more app than he added.,entailment
+comp_chal-096,Jack received 6 emails in the morning and 2 emails in the afternoon.,Jack received more emails in the morning than in the afternoon.,entailment
+comp_chal-097,Baker made 43 cakes and 114 pastries. He sold 154 pastries and 78 cakes.,Baker sold more pastries than cakes.,entailment
+comp_chal-103,Paco had 25 cookies. He ate 5 of them. Then he bought 3 more cookies.,Paco ate more cookies than those he bought.,entailment
+comp_chal-105,Jake has 8 fewer peaches and 10 more apples than Steven. Steven has 11 apples and 18 peaches.,Steven has more peaches than apples.,entailment
+comp_chal-109,"Every day Ryan spends 2 hours on learning english, 5 hours on learning chinese and 4 hours on learning spanish.",Ryan spends more hour learning Chinese than he does learning Spanish.,entailment
+comp_chal-114,2 birds were sitting on the fence. 5 more birds and 4 more storks came to join them.,More birds than storks are sitting on the fence.,entailment
+comp_chal-119,Paco had 6 cookies. He gave 30 cookies to his friend and ate 23 cookies.,Paco gave more cookies to his friend than those he ate.,entailment
+comp_chal-122,Baker made 144 cakes. He sold 71 of them. Then he made 111 more cakes.,Baker made more cakes than those he sold.,entailment
+comp_chal-124,41 children were riding on the bus. At the bus stop some children got off the bus. Then there were 18 children left on the bus.,There were more children on the bus before the bus stop than there are now.,entailment
+comp_chal-131,Danny collects bottle caps and wrappers. He found 30 bottle caps and 14 wrappers at the park. Now he has 7 bottle caps and 86 wrappers in his collection.,Danny found more bottle caps than wrappers at the park.,entailment
+comp_chal-134,Edward spent $ 16 to buy books and $ 8 to buy pens. Now he has $ 19.,Edward spent more on books than pens.,entailment
+comp_chal-141,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 519 chocolate chip cookies and 300 raisin cookies yesterday. And she baked 280 raisin cookies and 359 chocolate chip cookies this morning.,Helen baked more raisin cookies yesterday compared to today.,entailment
+comp_chal-145,"A grocery store had 81 bottles of regular soda, 60 bottles of diet soda and 60 bottles of lite soda.",They had more bottles of regular soda than diet soda.,entailment
+comp_chal-155,"A grocery store had 72 bottles of regular soda, 32 bottles of diet soda and 78 apples.",They had more bottles than apples.,entailment
+comp_chal-157,Because of the decision Sofia asked the students to suggest specific types of food. 144 students suggested adding mashed potatoes 467 suggested adding bacon to the menu and 79 suggested adding tomatoes.,More students suggested mashed potatoes than those that suggested tomatoes.,entailment
+comp_chal-163,Randy has 90 blocks. He uses 89 blocks to build a house and 63 blocks to build a tower.,Randy used more blocks to build the house than he did to build the tower.,entailment
+comp_chal-170,Allan brought 2 balloons and Jake brought 3 balloons to the park.,Jake had more balloon than Allan in the park.,entailment
+comp_chal-175,"Every day Ryan spends 7 hours on learning english, 2 hours on learning chinese and 4 hours on learning spanish.",Ryan spends more hours on learning English than he does on learning Spanish.,entailment
+comp_chal-180,Nell collects cards. She had 246 baseball cards and 214 Ace cards. She gave some of her cards to Jeff and now has 404 baseball cards and 495 Ace cards left.,Nell has more Ace cards than baseball cards.,entailment
+comp_chal-182,Jerry had 9 action figures on a shelf in his room. Later he added 7 more action figures to the shelf. He also has 10 books on the shelf.,Jerry had more action figures than books on his shelf.,entailment
+comp_chal-183,Paul got a box of 589 crayons for his birthday. During the school year he gave 571 crayons to his friends while he lost 161 crayons.,Paul gave more crayons to his friends than those he lost.,entailment
+comp_chal-185,"Jack received 9 emails in the morning, 10 emails in the afternoon and 7 emails in the evening.",Jack received more emails in the morning than in the evening.,entailment
+comp_chal-190,Jack received 6 emails in the morning and 8 emails in the afternoon.,Jack received more emails in the afternoon than in the morning.,entailment
+comp_chal-191,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 197 chocolate chip cookies and 46 raisin cookies yesterday. And she baked 75 raisin cookies and 66 chocolate chip cookies this morning.,Helen baked more chocolate chip cookies yesterday compared to today.,entailment
+comp_chal-195,Every day Ryan spends 6 hours on learning english 3 hours on learning chinese and 58 hours on learning spanish.,Ryan spends more hours on learning English than he does on learning Chinese.,entailment
+comp_chal-197,A book has 2 chapters. The first chapter is 48 pages long. The second chapter is 11 pages long.,The first chapter has more pages than the second chapter.,entailment
+comp_chal-208,"6 green peaches, 60 yellow peaches and 2 red peaches are in the basket.",There are more green peaches than red peaches in the basket.,entailment
+comp_chal-209,Jake has 12 fewer peaches than Steven who has 11 more peaches than Jill. Steven has 4 peaches.,Jill has more peach than Jake.,entailment
+comp_chal-210,There are 10 different books and 6 different movies in the ' crazy silly school ' series. You read 14 of the movies and watched 19 of the books.,You have read more books than movies.,entailment
+comp_chal-220,Katie had 81 ds games and her friends had 59 games.,Katie has more games than her friends.,entailment
+comp_chal-226,Julia played tag with 5 kids on tuesday. She had played tag with 6 kids on monday.,Julia played with more kid on Monday than on Tuesday.,entailment
+comp_chal-231,Jerry had 3 books and 4 action figures on a shelf in his room. Later he added 2 more action figures to the shelf.,More action figures than books were on his shelf.,entailment
+comp_chal-233,Dave had 19 apps and 18 files on his phone. After deleting some apps and files he had 6 apps and 15 files left.,Dave has more files than apps left on the phone.,entailment
+comp_chal-241,Baker made 99 cakes. He bought 167 new cakes and sold 89 cakes.,Baker bought more cakes than those he sold.,entailment
+comp_chal-242,Baker made 13 cakes. He sold 91 of them and bought 154 new cakes.,Baker bought more cakes than those he sold.,entailment
+comp_chal-249,He then went to see the oranges being harvested. He found out that they harvest 71 sacks of unripe oranges and 60 sacks of ripe oranges per day.,More sacks of unripe oranges than ripe oranges are harvested per day.,entailment
+comp_chal-252,Jerry had 7 action figures and 2 books on a shelf in his room. Later he added 4 more books to the shelf.,There was more action figure than books on his shelf.,entailment
+comp_chal-263,In a school there are 34 girls and 841 boys.,The school has more boys than girls.,entailment
+comp_chal-264,53 campers went rowing in the morning 48 campers went rowing in the afternoon and 49 campers went rowing in the evening.,More campers went rowing in the morning than in the evening.,entailment
+comp_chal-265,"Jack received 3 emails in the afternoon, 5 emails in the morning and 16 emails in the evening.",Jack received more emails in the morning than in the afternoon.,entailment
+comp_chal-270,Rachel had to complete 3 pages of math homework and 4 pages of reading homework.,Rachel had more page of reading homework than math homework.,entailment
+comp_chal-284,A book has 2 chapters. The first chapter is 37 pages long. The second chapter is 80 pages long.,The second chapter has more pages than the first chapter.,entailment
+comp_chal-287,Winter is almost here and most animals are migrating to warmer countries. There are 38 bird families living near the mountain. 47 bird families flew away to africa and 94 bird families flew away to asia.,More bird families flew away to Asia than those that flew away to Africa.,entailment
+comp_chal-288,Zachary did 51 push-ups and David did 44 push-ups in gym class today.,Zachary did more push-ups than David.,entailment
+comp_chal-289,Mary is baking a cake. The recipe calls for 6 cups of flour 8 cups of sugar and 7 cups of salt. She already put in 5 cups of flour.,Mary needs to add more cup of sugar than cups of salt.,entailment
+comp_chal-291,Because of the decision Sofia asked the students to suggest specific types of food. 228 students suggested adding mashed potatoes 337 suggested adding bacon to the menu and 23 suggested adding tomatoes.,More students suggested bacon than those that suggested tomatoes.,entailment
+comp_chal-294,"Julia played tag with 9 kids on monday, 7 kids on tuesday and 96 kids on wednesday.",Julia played with more kids on Monday than on Tuesday.,entailment
+comp_chal-295,Randy has 37 blocks. He uses 33 blocks to build a tower and 13 blocks to build a house.,Randy used more blocks to build the tower than he did to build the house.,entailment
+comp_chal-296,Baker made 8 cakes. He bought 139 new cakes and sold 145 cakes.,Baker sold more cakes than those he bought.,entailment
+comp_chal-304,Jack received 6 emails and 8 letters in the morning. He then received 2 emails and 7 letters in the afternoon.,Jack received more email in the morning than in the afternoon.,entailment
+comp_chal-307,Jake has 3 fewer peaches and 10 more apples than Steven. Steven has 12 peaches and 15 apples.,Adam has more apples than peaches.,entailment
+comp_chal-314,Rachel had to complete 5 pages of math homework and 2 pages of reading homework.,Rachel had more pages of math homework than reading homework.,entailment
+comp_chal-317,Paul got a box of 601 crayons and 406 erasers for his birthday. At the end of the school year he only had 336 crayons left while not having lost a single eraser.,Paul had more erasers than crayons left.,entailment
+comp_chal-319,Adam has 10 apples. Jackie has 2 apples.,Adam has more apples than Jackie.,entailment
+comp_chal-321,Jerry had 5 action figures and 2 books on a shelf in his room. Later he added 9 more books to the shelf.,There are more books than action figures on his shelf.,entailment
+comp_chal-322,At the arcade Dave had won 13 tickets. He used 8 to buy some toys and 18 more to buy some clothes.,Dave used more tickets to buy clothes than he did to buy toys.,entailment
+comp_chal-329,"19 red peaches, 11 yellow peaches and 12 green peaches are in the basket.",There are more red peaches than yellow peaches in the basket.,entailment
+comp_chal-330,For Gwen's birthday she received 8 dollars from her mom. Her dad gave her 5 more dollars. She spent 4 dollars.,Gwen received more money from her mom than from her dad.,entailment
+comp_chal-336,Paco had 39 sweet cookies and 6 salty cookies. He ate 23 salty cookies and 32 sweet cookies.,Paco ate more sweet cookies than salty cookies.,entailment
+comp_chal-337,Julia played tag with 18 kids on monday. She played tag with 10 kids on tuesday.,Julia played with more kids on Monday than on Tuesday.,entailment
+comp_chal-340,5 red peaches and 11 green peaches are in the basket.,There are more green peaches than red peaches in the basket.,entailment
+comp_chal-341,"Rachel had to complete 9 pages of math homework, 2 pages of reading homework and 96 more pages of biology homework.",Rachel had more pages of math homework than reading homework.,entailment
+comp_chal-343,Josh had 4 marbles in his collection. He lost 16 marbles and found 8 new ones.,Josh lost more marbles than those he found.,entailment
+comp_chal-344,Danny collects bottle caps and wrappers. He found 11 bottle caps and 28 wrappers at the park. Now he has 68 bottle caps and 51 wrappers in his collection.,Danny found more wrappers than bottle caps at the park.,entailment
+comp_chal-359,Paul had 71 books. After selling some in a garage sale he bought 38 new ones. He has 116 books now.,Paul bought more books than he sold.,entailment
+comp_chal-361,Julia played tag with 11 kids on monday. She played tag with 12 kids on tuesday.,Julia played with more kid on Tuesday than on Monday.,entailment
+comp_chal-363,Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. The next day she found 7 more bags worth of cans.,Tiffany had more bag on Monday than she found on the next day.,entailment
+comp_chal-368,5 storks and 3 birds were sitting on the fence. 4 more birds came to join them.,More birds than storks are sitting on the fence.,entailment
+comp_chal-371,There are 8 different books and 10 different movies in the ' crazy silly school ' series. You read 19 of the books and watched 61 of the movies.,There are more movies than books in the 'Crazy Silly School' series.,entailment
+comp_chal-375,"2 red peaches, 6 yellow peaches and 14 green peaches are in the basket.",There are more green peaches than yellow peaches in the basket.,entailment
+comp_chal-377,Bobby ate 38 pieces of candy. Then he ate 36 more. He also ate 16 pieces of chocolate.,Bobby ate more pieces of candy than chocolate.,entailment
+comp_chal-378,Jake has 3 fewer peaches and 4 more apples than Steven. Steven has 19 apples and 15 peaches.,Steven has more apples than peaches.,entailment
+comp_chal-379,Every day Ryan spends 6 hours on learning english and 7 hours on learning chinese.,Ryan spends more hour on learning Chinese than he does on learning English.,entailment
+comp_chal-380,Paco had 13 cookies. He ate 2 of them. Then he bought 36 more cookies.,Paco bought more cookies than those he ate.,entailment
+comp_chal-384,There were 15 roses in the vase. Jessica threw away 33 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 17 roses in the vase.,There cut more roses than those she threw away.,entailment
+comp_chal-389,Zachary did 15 push-ups in gym class today. David did 39 more push-ups than Zachary. John did 9 push-ups less than David.,Zachary did more push-ups than John.,entailment
+comp_chal-391,Danny collects bottle caps. He threw away 54 of the old ones at the park while he found 48 bottle caps new ones. Now he has 52 bottle caps in his collection.,Danny threw away more bottle caps than those he found at the park.,entailment
+comp_chal-398,Paul got a box of 110 crayons for his birthday. During the school year he gave 90 crayons to his friends while he lost 412 crayons.,Paul lost more crayons than those he gave to his friends.,entailment
+comp_chal-401,In a school there are 569 girls and 236 boys.,The school has more girls than boys.,entailment
+comp_chal-402,Danny collects bottle caps and wrappers. He found 71 bottle caps and 24 wrappers at the park. Now he has 28 bottle caps and 16 wrappers in his collection.,Danny has more bottle caps than wrappers now.,entailment
+comp_chal-405,5 children were riding on the bus. At the bus stop 63 children got off the bus while some more got on the bus. Then there were 14 children altogether on the bus.,More children got on the bus than those that got off.,entailment
+comp_chal-407,Danny collects bottle caps and wrappers. He found 10 bottle caps and 62 wrappers at the park. Now he has 27 bottle caps and 43 wrappers in his collection.,Danny has more wrappers than bottle caps now.,entailment
+comp_chal-409,4 birds and 3 storks were sitting on the fence. 6 more storks came to join them.,There are more storks than birds sitting on the fence.,entailment
+comp_chal-412,"Julia played tag with 14 kids on monday, 2 kids on tuesday and 8 kids on wednesday.",Julia played with more kids on Monday than on Wednesday.,entailment
+comp_chal-414,Jake has 6 fewer peaches and 8 more apples than Steven. Steven has 17 peaches and 16 apples.,Steven has more peach than apples.,entailment
+comp_chal-415,A book has 3 chapters. The first chapter is 91 pages long the second chapter is 23 pages long and the third chapter is 25 pages long.,The first chapter has more pages than the second chapter.,entailment
+comp_chal-417,Danny collects bottle caps. He found 36 bottle caps at the park while he threw away 35 old ones. Now he has 22 bottle caps in his collection.,Danny found more bottle cap at the park than those he threw away.,entailment
+comp_chal-421,2 children were riding on the bus. At the bus stop some more children got on the bus. Then there were 10 children altogether on the bus.,There are more children on the bus now than there were before the bus stop.,entailment
+comp_chal-422,"During summer break, 819058 kids from Lawrence county go to camp and the other 668278 kids stay home.",More kids spent their summer break at the camp compared to those who stayed home.,entailment
+comp_chal-426,There are 16 different books and 14 different movies in the ' crazy silly school ' series. You read 19 of the books and watched 13 of the movies.,There are more books than movies in the 'Crazy Silly School' series.,entailment
+comp_chal-433,Jerry had 2 action figures and 10 books on a shelf in his room. Later he added 4 more action figures to the shelf.,There are more books than action figures on his shelf.,entailment
+comp_chal-445,"Julia played tag with 15 kids on monday, 18 kids on tuesday and 7 kids on wednesday.",Julia played with more kids on Monday and Tuesday than on Wednesday.,entailment
+comp_chal-450,Baker made 133 cakes. He sold 51 of them.,Baker made more cakes than those he sold.,entailment
+comp_chal-454,Dan has $ 5. He bought a chocolate for $ 3 and a candy bar for $ 7.,Dan spent more money to buy a candy bar than he did to buy chocolate.,entailment
+comp_chal-455,Baker made 126 cakes and 48 pastries. He sold 115 cakes and 81 pastries.,Baker made more cakes than pastries.,entailment
+comp_chal-460,At the arcade Dave had won 19 tickets. He used 12 to buy some toys and 7 more to buy some clothes.,Dave used more tickets to buy toys than he did to buy clothes.,entailment
+comp_chal-463,Jerry had 7 books and 3 action figures on a shelf in his room. Later he added 2 more action figures to the shelf.,There were more books than action figures on his shelf.,entailment
+comp_chal-470,Katie had 57 new games and 39 old games. Her friends had 34 new games.,Katie has more games than her friends.,entailment
+comp_chal-478,For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 2 more dollars. She spent 6 dollars.,Gwen received more money from her dad than from her mom.,entailment
+comp_chal-484,Baker made 14 cakes and 153 pastries. He sold 8 pastries and 97 cakes.,Baker sold more cakes than pastries.,entailment
+comp_chal-485,Paco had 8 sweet cookies and 6 salty cookies. He ate 20 sweet cookies and 34 salty cookies.,Paco ate more salty cookies than sweet cookies.,entailment
+comp_chal-497,"A grocery store had 79 bottles of regular soda, 53 bottles of diet soda and 42 apples.",They had more bottles of regular soda than diet soda.,entailment
+comp_chal-499,"Rachel had to complete 7 pages of math homework, 11 pages of reading homework and 8 more pages of biology homework.",Rachel had more pages of reading homework than biology homework.,entailment
+comp_chal-514,Baker sold 8 cakes. He had made 40 cakes initially.,Baker made more cakes than those he sold.,entailment
+comp_chal-517,"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 100 visitors came to the Buckingham palace on the previous day. There were 666 visitors on that day.",More visitors visited the Buckingham Palace on that day than on the previous day.,entailment
+comp_chal-520,Allan brought 6 balloons and Jake brought 2 balloons to the park. Jake then bought 3 more balloons at the park.,Allan had more balloon than Jake in the park.,entailment
+comp_chal-533,Baker made 54 cakes and 143 pastries. He sold 68 cakes and 92 pastries.,Baker sold more pastries than cakes.,entailment
+comp_chal-544,Danny collects bottle caps and wrappers. He found 15 bottle caps and 18 wrappers at the park. Now he has 67 wrappers and 35 bottle caps in his collection.,Danny has more wrappers than bottle caps now.,entailment
+comp_chal-545,3 birds were sitting on the fence. 2 more birds and 6 more storks came to join them.,There is more stork than birds sitting on the fence.,entailment
+comp_chal-553,Dave had 11 apps and 3 files on his phone. After deleting some apps and files he had 24 files and 2 apps left.,Dave has more files than apps left on the phone.,entailment
+comp_chal-559,"Jack received 10 emails in the morning, 7 emails in the afternoon, and 17 emails in the evening.",Jack received more emails in the morning than in the afternoon.,entailment
+comp_chal-565,Lucy went to the grocery store. She bought 10 packs of cookie and 4 packs of cake.,Lucy bought more packs of cookies than cake.,entailment
+comp_chal-567,Every day Ryan spends 6 hours on learning english and 2 hours on learning chinese.,Ryan spends more hours on learning English than Chinese.,entailment
+comp_chal-577,The grasshopper and the frog had a jumping contest. The frog jumped 39 inches and the grasshopper jumped 17 inches.,The frog jumped farther than the grasshopper.,entailment
+comp_chal-578,A grocery store had 19 bottles of diet soda and 60 bottles of regular soda.,The store had more bottles of regular soda than diet soda.,entailment
+comp_chal-584,"A book has 3 chapters. The first chapter is 35 pages long, the second chapter is 18 pages long, and the third chapter is 3 pages long.",The second chapter has more pages than the third chapter.,entailment
+comp_chal-608,Baker made 52 pastries and 84 cakes. He sold 102 cakes and 94 pastries.,Baker made more cakes than pastries.,entailment
+comp_chal-609,Paul had 21 books. After selling some in a garage sale he bought 42 new ones. He has 15 books now.,Paul sold more books than he bought.,entailment
+comp_chal-616,Winter is almost here and most animals are migrating to warmer countries. There are 41 bird families living near the mountain. 35 bird families flew away to asia and 62 bird families flew away to africa.,More bird families flew away to Africa than those that flew away to Asia.,entailment
+comp_chal-618,There were 6 roses and 20 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 21 orchids and 22 roses in the vase.,There is more rose than orchid in the vase now.,entailment
+comp_chal-625,Dave had 15 apps and 24 files on his phone. After deleting some apps and files he had 21 apps and 4 files left.,Dave has more apps than files left on the phone.,entailment
+comp_chal-629,Mary is baking a cake. The recipe calls for 11 cups of sugar 6 cups of flour and 9 cups of salt. She already put in 12 cups of flour.,Mary needs to add more cups of sugar than cups of salt.,entailment
+comp_chal-631,Josh had 7 marbles in his collection. He lost 8 marbles and found 10 new ones.,Josh found more marbles than those he lost.,entailment
+comp_chal-632,Nell collects cards. She had 239 baseball cards and 38 Ace cards. She gave some of her cards to Jeff and now has 376 Ace cards and 111 baseball cards left.,Nell has more Ace cards than baseball cards.,entailment
+comp_chal-640,In a school there are 362 boys and 257 girls. 403 more girls joined the school.,There are more girls than boys in the school.,entailment
+comp_chal-646,He then went to see the oranges being harvested. He found out that they harvest 41 sacks of unripe oranges and 86 sacks of ripe oranges per day.,More sacks of ripe oranges than unripe oranges are harvested per day.,entailment
+comp_chal-648,Paco had 37 sweet cookies and 11 salty cookies. He ate 5 sweet cookies and 2 salty cookies.,Paco ate more sweet cookies than salty cookies.,entailment
+comp_chal-660,Paul got a box of 267 crayons for his birthday. During the school year he lost 231 crayons while he gave away 308 crayons to his friends.,Paul gave more crayons to his friends than those he lost.,entailment
+comp_chal-669,Rebecca wants to split a collection of eggs into groups of 5. Rebecca has 20 eggs and 6 marbles.,Rebecca has more eggs than marbles.,entailment
+comp_chal-682,Jack received 10 emails and 12 letters in the morning. He then received 3 emails and 44 letters in the afternoon.,Jack received more emails in the morning than in the afternoon.,entailment
+comp_chal-688,David did 27 more push-ups but 7 less crunches than Zachary in gym class today. Zachary did 5 push-ups and 17 crunches.,Zachary did more crunches than push-ups.,entailment
+comp_chal-696,Allan brought 5 balloons and Jake brought 3 balloons to the park.,Allan had more balloons than Jake in the park.,entailment
+comp_chal-698,Winter is almost here and most animals are migrating to warmer countries. There are 8 bird families living near the mountain. 42 bird families flew away to africa and 31 bird families flew away to asia.,More bird families flew away to Africa than those that flew away to Asia.,entailment
+comp_chal-700,Zachary did 46 push-ups and 58 crunches in gym class today. David did 38 more push-ups but 62 less crunches than zachary.,Zachary did more crunches than push-ups.,entailment
+comp_chal-701,For Gwen's birthday she received 3 dollars from her mom. Her dad gave her 6 more dollars. She spent 4 dollars.,Gwen received more money from her dad than from her mom.,entailment
+comp_chal-703,There are 11 different books and 17 different movies in the ' crazy silly school ' series. You read 7 of the books and watched 21 of the movies.,You have read more movies than books.,entailment
+comp_chal-712,Dan has $ 2. He bought a candy bar for $ 6 and a chocolate for $ 3.,Dan spent more money to buy a candy bar than he did to buy chocolate.,entailment
+comp_chal-713,Jackie has 10 apples. Adam has 8 apples.,Jackie has more apples than Adam.,entailment
+comp_chal-720,Baker made 19 cakes and 131 pastries. He sold 70 cakes and 88 pastries.,Baker made more pastries than cakes.,entailment
+comp_chal-731,Jake has 16 fewer peaches than Steven. Steven has 15 more peaches than Jill. Jill has 12 peaches.,Jill has more peach than Jake.,entailment
+comp_chal-736,Jerry had 5 action figures and 9 books on a shelf in his room. Later he added 7 more action figures to the shelf.,Jerry has more action figures than books on his shelf.,entailment
+comp_chal-740,He then went to see the oranges being harvested. He found out that they harvest 5 sacks of ripe oranges and 74 sacks of unripe oranges per day.,They harvest more sacks of unripe oranges than ripe oranges per day.,entailment
+comp_chal-745,17 red peaches and 16 green peaches are in the basket.,There is more red peach than green peaches in the basket.,entailment
+comp_chal-747,"During summer break, 202,958 kids from Lawrence county go to camp and the other 777,622 kids stay home.",More kids stayed home compared to those who went to the camp.,entailment
+comp_chal-752,6 birds and 3 storks were sitting on the fence. 2 more storks came to join them.,There is more bird than stork sitting on the fence.,entailment
+comp_chal-753,Dan has $ 4. He bought a chocolate for $ 7 and a candy bar for $ 2.,Dan spent more money to buy chocolate than he did to buy a candy bar.,entailment
+comp_chal-754,There were 21 roses in the vase. Jessica threw away 34 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 15 roses in the vase.,Jessica threw away more roses than she cut from her garden.,entailment
+comp_chal-758,Allan brought 2 balloons and Jake brought 6 balloons to the park. Allan then bought 3 more balloons at the park.,Jake had more balloon than Allan in the park.,entailment
+comp_chal-762,33 campers went rowing in the morning 34 campers went rowing in the afternoon and 10 campers went rowing in the evening.,More campers went rowing in the afternoon than in the evening.,entailment
+comp_chal-764,The grasshopper and the frog had a jumping contest. The grasshopper jumped 9 inches and the frog jumped 12 inches.,The frog jumped farther than the grasshopper.,entailment
+comp_chal-767,Ed had 30 more marbles than Doug. Ed lost 21 of his marbles at the playground. Ed had 91 marbles.,Ed had more marbles than Doug then.,entailment
+comp_chal-773,There were 53 dollars in Olivia's wallet. She collected 91 more dollars from an atm. After she visited a supermarket there were 14 dollars left.,Olivia spent more money at the supermarket than she collected at the ATM.,entailment
+comp_chal-779,Danny collects bottle caps. He threw away 6 of the old ones at the park while he found 50 bottle caps new ones. Now he has 60 bottle caps in his collection.,Danny found more bottle caps at the park than those he threw away.,entailment
+comp_chal-789,"7 red peaches, 71 yellow peaches and 8 green peaches are in the basket.",There is more green peach than red peaches in the basket.,entailment
+comp_chal-790,52 campers went rowing in the morning. 61 campers went rowing in the afternoon.,More campers went rowing in the afternoon than in the morning.,entailment
+comp_chal-791,There are 17 different movies and 11 different books in the ' crazy silly school ' series. You read 13 of the books and watched 63 of the movies.,There are more movies than books in the 'Crazy Silly School' series.,entailment
+comp_chal-794,Danny collects bottle caps and wrappers. He found 58 bottle caps and 25 wrappers at the park. Now he has 11 wrappers and 12 bottle caps in his collection.,Danny has more bottle cap than wrappers now.,entailment
+comp_chal-797,Baker made 157 cakes and 169 pastries. He sold 158 cakes and 147 pastries.,Baker sold more pastries than cakes.,entailment
+comp_chal-800,Baker made 134 pastries and 11 cakes. He sold 140 cakes and 92 pastries.,Baker made more pastries than cakes.,entailment
+comp_chal-804,Dave had 24 apps and 9 files on his phone. After deleting some apps and files he had 5 files and 12 apps left.,Dave has more apps than files left on the phone.,entailment
+comp_chal-805,44 campers went rowing in the morning 39 campers went rowing in the afternoon and 31 campers went rowing in the evening.,More campers went rowing in the morning than in the afternoon.,entailment
+comp_chal-813,Nell collects cards. She had 438 baseball cards and 18 Ace cards. She gave some of her cards to Jeff and now has 55 Ace cards and 178 baseball cards left.,Nell has more baseball cards than Ace cards.,entailment
+comp_chal-819,He then went to see the oranges being harvested. He found out that they harvest 44 sacks of ripe oranges and 25 sacks of unripe oranges per day.,More sacks of ripe oranges than unripe oranges are harvested per day.,entailment
+comp_chal-827,6 storks and 2 birds were sitting on the fence. 3 more birds came to join them.,There is more stork than birds sitting on the fence.,entailment
+comp_chal-830,Paul got a box of 531 crayons and 38 erasers for his birthday. At the end of the school year he only had 391 left while not having lost a single erasers.,Paul has more crayons than erasers left.,entailment
+comp_chal-832,There were 5 roses and 3 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 12 roses and 2 orchids in the vase.,There are more roses than orchids in the vase now.,entailment
+comp_chal-833,There are 14 different movies and 15 different books in the ' crazy silly school ' series. You read 11 of the books and watched 40 of the movies.,There is more book than movies in the 'Crazy Silly School' series.,entailment
+comp_chal-841,Randy has 86 blocks. He uses 79 blocks to build a tower and 82 blocks to build a house.,Randy used more blocks to build the house than he did to build the tower.,entailment
+comp_chal-845,Josh had 15 marbles in his collection. He found 9 marbles while he lost 23 marbles.,Josh lost more marbles than those he found.,entailment
+comp_chal-846,29 campers went rowing and 66 campers went hiking in the morning. 26 campers went rowing in the afternoon.,More campers went rowing in the morning than in the afternoon.,entailment
+comp_chal-858,There were 174 parents in the program and 521 pupils too.,More pupils were present compared to parents in the program.,entailment
+comp_chal-869,Adam has 9 apples. Jackie has 10 apples.,Jackie has more apple than Adam.,entailment
+comp_chal-873,A book has 3 chapters. The first chapter is 53 pages long the second chapter is 75 pages long and the third chapter is 21 pages long.,The first chapter has more pages than the third chapter.,entailment
+comp_chal-884,Dave had 21 apps on his phone. He added 89 new apps. After deleting some he had 24 left.,Dave added more apps than he deleted.,entailment
+comp_chal-887,David did 36 more push-ups but 33 less crunches than Zachary in gym class today. Zachary did 58 push-ups and 33 crunches.,Zachary did more push-ups than crunches.,entailment
+comp_chal-892,Rebecca wants to split a collection of eggs into groups of 20. Rebecca has 5 marbles and 12 eggs.,Rebecca has more eggs than marbles.,entailment
+comp_chal-893,Baker made 81 cakes. Then he made 92 more cakes. He sold 46 of them.,Baker made more cakes than those he sold.,entailment
+comp_chal-898,62 campers went rowing in the morning. 39 campers went rowing in the afternoon.,More campers went rowing in the morning than in the afternoon.,entailment
+comp_chal-904,"Rachel had to complete 11 pages of math homework, 2 pages of reading homework and 3 more pages of biology homework.",Rachel had more pages of math homework than biology homework.,entailment
+comp_chal-912,"Rachel had to complete 4 pages of reading homework, 7 pages of math homework and 19 more pages of biology homework.",Rachel had more pages of math homework than reading homework.,entailment
+comp_chal-917,Friends of Katie had 57 games and she had 63 ds games.,Katie has more games than her friends.,entailment
+comp_chal-921,"Simon, Mark, Kevin, and Carl love collecting stamps. They meet up every month to compare and share their collections with each other. During the previous month, Kevin was able to collect 45 stamps while Simon was only able to collect 27.",Kevin has more stamps than Simon.,entailment
+comp_chal-922,If Carl has a total of 89 stamps and Kevin has 57.,Carl has more stamps than Kevin.,entailment
+comp_chal-926,Rob is very fond of tall structures. He likes collecting pictures and comparing them. Two of his favorite buildings are Chicago's Sears Tower and Dubai's Burj Khalifa. Burj Khalifa stands at 830 meters high and Sears stands at 527 meters high.,Burj Khalifa is higher than Sears.,entailment
+comp_chal-931,Rob also matched the London Eye which stands at 443 ft and Las Vegas' High Roller standing at 550 ft.,High Roller is taller than the London Eye.,entailment
+comp_chal-934,"At the end of the cave, they found a golden chest. The chest contains 421 diamonds and 377 rubies.",There are more diamonds than rubies.,entailment
+comp_chal-936,Willy has 1400 crayons. Lucy has 290 crayons.,Willy has more crayons than Lucy.,entailment
+comp_chal-940,James has 1222 balloons. Amy has 513 balloons.,James has more balloons than Amy.,entailment
+comp_chal-943,A pet supply store has 600 bags of dog food and 327 bags of cat food.,There are more bags of dog food than cat food.,entailment
+contra_switch_chal-098,There are 6 birds and 3 nests.,There are more nests than birds,contradiction
+contra_switch_chal-125,There are 5 flowers and 3 bees.,There are more flowers than bees,contradiction
+contra_switch_chal-302,There are 4 squirrels in a tree with 2 nuts.,There are more nuts than squirrels,contradiction
+contra_switch_chal-360,A restaurant serves 6 cakes during lunch and 9 during dinner today.,More cakes are served during lunch than dinner,contradiction
+contra_switch_chal-386,"In a school, there are 542 girls and 387 boys.",More boys are there compared to girls in that school,contradiction
+contra_switch_chal-462,There were 28 girls and 35 boys on the playground at recess.,More girls are there than boys,contradiction
+contra_switch_chal-547,There are 58 geese and 37 ducks in the marsh.,More ducks are there than geese,contradiction
+contra_switch_chal-599,28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus.,More children got off the bus than those who got on,contradiction
+contra_switch_chal-652,Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies.,Paco gave more cookies to his friend than those he ate,contradiction
+contra_switch_chal-771,3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them.,More birds than storks are sitting on the fence,contradiction
+contra_switch_chal-785,Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser.,Paul had more erasers than crayons left,contradiction
+contra_switch_chal-905,Danny collects bottle caps and wrappers. He found 65 wrappers and 5 bottle caps at the park. Now he has 31 bottle caps and 9 wrappers in his collection.,Danny found more bottle caps than wrappers at the park,contradiction
+contra_switch_chal-928,Tiffany was collecting cans for recycling. On monday she had 7 bags of cans. The next day she found 12 more bags worth of cans.,Tiffany had more bags on Monday than she found on the next day,contradiction
+contra_switch_chal-968,For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 7 more dollars. She spent 4 dollars.,Gwen received more money from her dad than from her mom,contradiction
+contra_switch_nluds-0837,There are 8 different books and 5 different movies in the ' crazy silly school ' series. You read 19 of the movies and watched 16 of the books.,You have read more books than movies,contradiction
+contra_switch_nluds-0893,Danny collects bottle caps and wrappers. He found 46 wrappers and 50 bottle caps at the park. Now he has 21 bottle caps and 52 wrappers in his collection.,Danny found more wrappers than bottle caps at the park,contradiction
+contra_switch_nluds-0895,3 birds and 4 storks were sitting on the fence. 2 more birds came to join them.,There is more stork than birds sitting on the fence,contradiction
+contra_switch_chal-006,Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary.,Zachary did more crunches than push-ups,contradiction
+contra_switch_chal-158,Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left.,Nell has more Ace cards than baseball cards,contradiction
+contra_switch_chal-382,There were 9 roses and 6 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 13 orchids and 3 roses in the vase.,There are more roses than orchids in the vase now,contradiction
+contra_switch_chal-564,"After eating a hearty meal they went to see the Buckingham palace. There were 39 paintings in the Buckingham palace. There, Rachel learned that 661 visitors came to the Buckingham palace that day. There were 600 visitors the previous day.",More visitors visited the previous day than on that day at Buckingham Palace,contradiction
+contra_switch_chal-782,Rachel had to complete 2 pages of reading homework and 4 pages of math homework.,Rachel had more reading homework than pages of math homework,contradiction
+contra_switch_awp_e_064,"Julia played tag with 8 kids on monday, 11 kids on tuesday and 9 kids on wednesday.",Julia played with more kids on Wednesday than on Tuesday,contradiction
+contra_switch_awp_e_065,36 children were riding on the bus. At the bus stop 68 children got off the bus while some more got on the bus. Then there were 12 children altogether on the bus.,More children got on the bus than those who got off,contradiction
+contra_switch_awp_e_069,In a school there are 632 girls and 410 boys. 465 more girls joined the school.,There are more boys than girls in the school,contradiction
+contra_switch_awp_e_197,Randy has 95 blocks. He uses 20 blocks to build a house and 50 blocks to build a tower.,Randy used more blocks to build the house than he did to build the tower,contradiction
+contra_switch_awp_e_265,2 birds and 6 storks were sitting on the fence. 3 more birds came to join them.,There is more stork than birds sitting on the fence,contradiction
+contra_switch_awp_e_286,Paco had 12 cookies. He ate 16 cookies and gave 21 of them to his friend.,Paco gave more cookies to his friend than those he ate,contradiction
+contra_switch_awp_e_287,"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 317 visitors came to the Buckingham palace that day. There were 295 visitors the previous day.",More visitors visited the previous day than on that day at Buckingham Palace,contradiction
+contra_switch_chal-005,Josh had 3 marbles in his collection. He found 6 marbles while he lost 5 marbles.,Josh lost more marble than those he found,contradiction
+contra_switch_chal-008,Because of the decision Sofia asked the students to suggest specific types of food. 408 students suggested adding mashed potatoes while 42 suggested adding bacon to the menu.,More students suggested bacon than those who suggested mashed potatoes,contradiction
+contra_switch_chal-011,Paco had 17 cookies. He ate 14 cookies and gave 13 of them to his friend.,Paco gave more cookies to his friend than those he ate,contradiction
+contra_switch_chal-020,Julia played tag with 19 kids on monday. She played tag with 18 kids on tuesday. She spent a total of 38 hours to play tag on both days.,Julia played with more kid on Tuesday than on Monday,contradiction
+contra_switch_chal-026,Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3.,Dan spent more money to buy a candy bar than he did to buy chocolate,contradiction
+contra_switch_chal-031,Ed had 29 more marbles than Doug. Ed lost 17 of his marbles at the playground.,Doug had more marbles than Ed then,contradiction
+contra_switch_chal-038,Allan brought 6 balloons and Jake brought 3 balloons to the park. Jake then bought 4 more balloons at the park.,Allan had more balloon than Jake in the park,contradiction
+contra_switch_chal-040,A grocery store had 22 bottles of regular soda and 61 bottles of diet soda.,They had more regular soda bottles than diet soda bottles,contradiction
+contra_switch_chal-042,Allan brought 2 balloons and Jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park.,Allan had more balloon than Jake in the park,contradiction
+contra_switch_chal-044,"Jack received 10 emails in the morning, 5 emails in the afternoon and 4 emails in the evening.",Jack received more emails in the evening than in the afternoon,contradiction
+contra_switch_chal-046,Because of the decision Sofia asked the students to suggest specific types of food. 479 students suggested adding mashed potatoes while 489 suggested adding bacon to the menu.,More students suggested mashed potatoes than those that suggested bacon,contradiction
+contra_switch_chal-050,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 19 chocolate chip cookies yesterday and 231 raisin cookies and 237 chocolate chip cookies this morning.,Helen baked more raisin cakes than chocolate chip cookies,contradiction
+contra_switch_chal-059,Danny collects bottle caps. He found 30 bottle caps at the park while he threw away 63 old ones. Now he has 42 bottle caps in his collection.,Danny found more bottle caps than he threw away at the park,contradiction
+contra_switch_chal-060,There were 7 roses and 12 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 11 roses and 20 orchids in the vase.,There are more roses than orchids in the vase now,contradiction
+contra_switch_chal-077,There are 10 different books and 11 different movies in the ' crazy silly school ' series. You read 13 of the books and watched 12 of the movies.,You have read more book than movies,contradiction
+contra_switch_chal-079,23 children were riding on the bus. At the bus stop 24 children got on the bus while some got off the bus. Then there were 8 children altogether on the bus.,More children got on the bus than those who got off,contradiction
+contra_switch_chal-081,Because of the decision Sofia asked the students to suggest specific types of food. 257 students suggested adding mashed potatoes 120 suggested adding bacon to the menu and 97 suggested adding tomatoes.,More students suggested mashed potatoes than those that suggested bacon,contradiction
+contra_switch_chal-084,Julia played tag with 4 kids on wednesday. She had played with 6 kids on monday and 17 kids on tuesday.,Julia played with more kids on Wednesday than on Monday,contradiction
+contra_switch_chal-086,"A grocery store had 36 apples, 80 bottles of regular soda and 54 bottles of diet soda.",They had more apples than bottles,contradiction
+contra_switch_chal-087,Paco had 40 sweet cookies and 25 salty cookies. He ate 28 salty cookies and 15 sweet cookies.,Paco ate more sweet cookies than salty cookies,contradiction
+contra_switch_chal-089,A grocery store had 67 bottles of regular soda and 9 bottles of diet soda.,They had more diet soda bottles than regular soda bottles,contradiction
+contra_switch_chal-090,Jake has 3 fewer peaches than Steven who has 8 more peaches than Jill. Steven has 5 peaches.,Jill has more peaches than Jake,contradiction
+contra_switch_chal-091,Jake has 5 fewer peaches than Steven. Steven has 18 more peaches than Jill. Jill has 87 peaches.,Jill has more peaches than Jake,contradiction
+contra_switch_chal-092,"A grocery store had 54 bottles of diet soda, 83 bottles of regular soda and 12 apples.",The store had more diet soda bottles than regular soda bottles,contradiction
+contra_switch_chal-094,Because of the decision Sofia asked the students to suggest specific types of food. 269 students suggested adding bacon 330 suggested adding mashed potatoes to the menu and 76 suggested adding tomatoes.,More students suggested mashed potatoes than those that suggested bacon,contradiction
+contra_switch_chal-095,Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left.,Dave added more app than he deleted,contradiction
+contra_switch_chal-096,Jack received 6 emails in the morning and 2 emails in the afternoon.,Jack received more emails in the afternoon than in the morning,contradiction
+contra_switch_chal-097,Baker made 43 cakes and 114 pastries. He sold 154 pastries and 78 cakes.,Baker sold more cakes than pastries,contradiction
+contra_switch_chal-103,Paco had 25 cookies. He ate 5 of them. Then he bought 3 more cookies.,Paco gave more cookies to his friend than those he ate,contradiction
+contra_switch_chal-105,Jake has 8 fewer peaches and 10 more apples than Steven. Steven has 11 apples and 18 peaches.,Steven has more apples than peaches,contradiction
+contra_switch_chal-109,"Every day Ryan spends 2 hours on learning english, 5 hours on learning chinese and 4 hours on learning spanish.",Ryan spends more hours learning Spanish than he does learning Chinese,contradiction
+contra_switch_chal-114,2 birds were sitting on the fence. 5 more birds and 4 more storks came to join them.,More storks than birds are sitting on the fence,contradiction
+contra_switch_chal-119,Paco had 6 cookies. He gave 30 cookies to his friend and ate 23 cookies.,Paco gave more cookies to his friend than those he ate,contradiction
+contra_switch_chal-122,Baker made 144 cakes. He sold 71 of them. Then he made 111 more cakes.,Baker sold more cakes than those he made,contradiction
+contra_switch_chal-124,41 children were riding on the bus. At the bus stop some children got off the bus. Then there were 18 children left on the bus.,There were more children on the bus now than before the bus stop,contradiction
+contra_switch_chal-131,Danny collects bottle caps and wrappers. He found 30 bottle caps and 14 wrappers at the park. Now he has 7 bottle caps and 86 wrappers in his collection.,Danny found more wrappers than bottle caps at the park,contradiction
+contra_switch_chal-134,Edward spent $ 16 to buy books and $ 8 to buy pens. Now he has $ 19.,Edward spent more on pens than books,contradiction
+contra_switch_chal-141,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 519 chocolate chip cookies and 300 raisin cookies yesterday. And she baked 280 raisin cookies and 359 chocolate chip cookies this morning.,Helen baked more raisin cookies today compared to yesterday,contradiction
+contra_switch_chal-145,"A grocery store had 81 bottles of regular soda, 60 bottles of diet soda and 60 bottles of lite soda.",They had more diet soda bottles than regular soda bottles,contradiction
+contra_switch_chal-155,"A grocery store had 72 bottles of regular soda, 32 bottles of diet soda and 78 apples.",They had more apples than bottles,contradiction
+contra_switch_chal-157,Because of the decision Sofia asked the students to suggest specific types of food. 144 students suggested adding mashed potatoes 467 suggested adding bacon to the menu and 79 suggested adding tomatoes.,More students suggested tomatoes than those that suggested mashed potatoes,contradiction
+contra_switch_chal-163,Randy has 90 blocks. He uses 89 blocks to build a house and 63 blocks to build a tower.,Randy used more blocks to build the tower than he did to build the house,contradiction
+contra_switch_chal-170,Allan brought 2 balloons and Jake brought 3 balloons to the park.,Allan had more balloon than Jake in the park,contradiction
+contra_switch_chal-175,"Every day Ryan spends 7 hours on learning english, 2 hours on learning chinese and 4 hours on learning spanish.",Ryan spends more hours on learning Spanish than he does on learning English,contradiction
+contra_switch_chal-180,Nell collects cards. She had 246 baseball cards and 214 Ace cards. She gave some of her cards to Jeff and now has 404 baseball cards and 495 Ace cards left.,Nell has more baseball cards than Ace cards,contradiction
+contra_switch_chal-182,Jerry had 9 action figures on a shelf in his room. Later he added 7 more action figures to the shelf. He also has 10 books on the shelf.,Jerry had more books than action figures on his shelf,contradiction
+contra_switch_chal-183,Paul got a box of 589 crayons for his birthday. During the school year he gave 571 crayons to his friends while he lost 161 crayons.,Paul gave more crayons to his friends than those he lost,contradiction
+contra_switch_chal-185,"Jack received 9 emails in the morning, 10 emails in the afternoon and 7 emails in the evening.",Jack received more emails in the evening than in the morning,contradiction
+contra_switch_chal-190,Jack received 6 emails in the morning and 8 emails in the afternoon.,Jack received more emails in the morning than in the afternoon,contradiction
+contra_switch_chal-191,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 197 chocolate chip cookies and 46 raisin cookies yesterday. And she baked 75 raisin cookies and 66 chocolate chip cookies this morning.,Helen baked more chocolate chip cookies today compared to yesterday,contradiction
+contra_switch_chal-195,Every day Ryan spends 6 hours on learning english 3 hours on learning chinese and 58 hours on learning spanish.,Ryan spends more hours on learning Chinese than he does on learning English,contradiction
+contra_switch_chal-197,A book has 2 chapters. The first chapter is 48 pages long. The second chapter is 11 pages long.,The second chapter has more pages than the first chapter,contradiction
+contra_switch_chal-208,"6 green peaches, 60 yellow peaches and 2 red peaches are in the basket.",There are more red peaches than green peaches in the basket,contradiction
+contra_switch_chal-209,Jake has 12 fewer peaches than Steven who has 11 more peaches than Jill. Steven has 4 peaches.,Jake has more peach than Jill,contradiction
+contra_switch_chal-210,There are 10 different books and 6 different movies in the ' crazy silly school ' series. You read 14 of the movies and watched 19 of the books.,You have read more books than movies,contradiction
+contra_switch_chal-220,Katie had 81 ds games and her friends had 59 games.,Katie has more games than her friends,contradiction
+contra_switch_chal-226,Julia played tag with 5 kids on tuesday. She had played tag with 6 kids on monday.,Julia played with more kid on Tuesday than on Monday,contradiction
+contra_switch_chal-231,Jerry had 3 books and 4 action figures on a shelf in his room. Later he added 2 more action figures to the shelf.,More books than action figures were on his shelf,contradiction
+contra_switch_chal-233,Dave had 19 apps and 18 files on his phone. After deleting some apps and files he had 6 apps and 15 files left.,Dave has more apps than files left on the phone,contradiction
+contra_switch_chal-241,Baker made 99 cakes. He bought 167 new cakes and sold 89 cakes.,Baker sold more cakes than those he bought,contradiction
+contra_switch_chal-242,Baker made 13 cakes. He sold 91 of them and bought 154 new cakes.,Baker sold more cakes than those he bought,contradiction
+contra_switch_chal-249,He then went to see the oranges being harvested. He found out that they harvest 71 sacks of unripe oranges and 60 sacks of ripe oranges per day.,More ripe oranges than sacks of unripe oranges are harvested per day,contradiction
+contra_switch_chal-252,Jerry had 7 action figures and 2 books on a shelf in his room. Later he added 4 more books to the shelf.,There were more books on his shelf than action figure,contradiction
+contra_switch_chal-263,In a school there are 34 girls and 841 boys.,The school has more girls than boys,contradiction
+contra_switch_chal-264,53 campers went rowing in the morning 48 campers went rowing in the afternoon and 49 campers went rowing in the evening.,More campers went rowing in the evening than in the morning,contradiction
+contra_switch_chal-265,"Jack received 3 emails in the afternoon, 5 emails in the morning and 16 emails in the evening.",Jack received more emails in the afternoon than in the morning,contradiction
+contra_switch_chal-270,Rachel had to complete 3 pages of math homework and 4 pages of reading homework.,Rachel had more math homework than page of reading homework,contradiction
+contra_switch_chal-284,A book has 2 chapters. The first chapter is 37 pages long. The second chapter is 80 pages long.,The first chapter has more pages than the second chapter,contradiction
+contra_switch_chal-287,Winter is almost here and most animals are migrating to warmer countries. There are 38 bird families living near the mountain. 47 bird families flew away to africa and 94 bird families flew away to asia.,More bird families flew away to Africa than those that flew away to Asia,contradiction
+contra_switch_chal-288,Zachary did 51 push-ups and David did 44 push-ups in gym class today.,David did more push-ups than Zachary,contradiction
+contra_switch_chal-289,Mary is baking a cake. The recipe calls for 6 cups of flour 8 cups of sugar and 7 cups of salt. She already put in 5 cups of flour.,Mary needs to add more cups of salt than cups of sugar,contradiction
+contra_switch_chal-291,Because of the decision Sofia asked the students to suggest specific types of food. 228 students suggested adding mashed potatoes 337 suggested adding bacon to the menu and 23 suggested adding tomatoes.,More students suggested tomatoes than those that suggested bacon.,contradiction
+contra_switch_chal-294,"Julia played tag with 9 kids on monday, 7 kids on tuesday and 96 kids on wednesday.",Julia played with more kids on Tuesday than on Monday.,contradiction
+contra_switch_chal-295,Randy has 37 blocks. He uses 33 blocks to build a tower and 13 blocks to build a house.,Randy used more blocks to build the house than he did to build the tower,contradiction
+contra_switch_chal-296,Baker made 8 cakes. He bought 139 new cakes and sold 145 cakes.,Baker bought more cakes than those he sold.,contradiction
+contra_switch_chal-304,Jack received 6 emails and 8 letters in the morning. He then received 2 emails and 7 letters in the afternoon.,Jack received more email in the afternoon than in the morning.,contradiction
+contra_switch_chal-307,Jake has 3 fewer peaches and 10 more apples than Steven. Steven has 12 peaches and 15 apples.,Adam has more peaches than apples.,contradiction
+contra_switch_chal-314,Rachel had to complete 5 pages of math homework and 2 pages of reading homework.,Rachel had more reading homework than pages of math homework,contradiction
+contra_switch_chal-317,Paul got a box of 601 crayons and 406 erasers for his birthday. At the end of the school year he only had 336 crayons left while not having lost a single eraser.,Paul had more crayons than erasers left.,contradiction
+contra_switch_chal-319,Adam has 10 apples. Jackie has 2 apples.,Jackie has more apples than Adam.,contradiction
+contra_switch_chal-321,Jerry had 5 action figures and 2 books on a shelf in his room. Later he added 9 more books to the shelf.,There are more action figures than books on his shelf.,contradiction
+contra_switch_chal-322,At the arcade Dave had won 13 tickets. He used 8 to buy some toys and 18 more to buy some clothes.,Dave used more tickets to buy toys than he did to buy clothes.,contradiction
+contra_switch_chal-329,"19 red peaches, 11 yellow peaches and 12 green peaches are in the basket.",There are more yellow peaches than red peaches in the basket.,contradiction
+contra_switch_chal-330,For Gwen's birthday she received 8 dollars from her mom. Her dad gave her 5 more dollars. She spent 4 dollars.,Gwen received more money from her dad than from her mom,contradiction
+contra_switch_chal-336,Paco had 39 sweet cookies and 6 salty cookies. He ate 23 salty cookies and 32 sweet cookies.,Paco ate more salty cookies than sweet cookies.,contradiction
+contra_switch_chal-337,Julia played tag with 18 kids on monday. She played tag with 10 kids on tuesday.,Julia played with more kids on Tuesday than on Monday.,contradiction
+contra_switch_chal-340,5 red peaches and 11 green peaches are in the basket.,There are more red peaches than green peaches in the basket,contradiction
+contra_switch_chal-341,"Rachel had to complete 9 pages of math homework, 2 pages of reading homework and 96 more pages of biology homework.",Rachel had more reading homework than pages of math homework,contradiction
+contra_switch_chal-343,Josh had 4 marbles in his collection. He lost 16 marbles and found 8 new ones.,Josh found more marbles than those he lost.,contradiction
+contra_switch_chal-344,Danny collects bottle caps and wrappers. He found 11 bottle caps and 28 wrappers at the park. Now he has 68 bottle caps and 51 wrappers in his collection.,Danny found more bottle caps than wrappers at the park,contradiction
+contra_switch_chal-359,Paul had 71 books. After selling some in a garage sale he bought 38 new ones. He has 116 books now.,Paul sold more books than he bought.,contradiction
+contra_switch_chal-361,Julia played tag with 11 kids on monday. She played tag with 12 kids on tuesday.,Julia played with more kid on Monday than on Tuesday.,contradiction
+contra_switch_chal-363,Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. The next day she found 7 more bags worth of cans.,Tiffany found more bag on the next day than she had on Monday.,contradiction
+contra_switch_chal-368,5 storks and 3 birds were sitting on the fence. 4 more birds came to join them.,More storks than birds are sitting on the fence,contradiction
+contra_switch_chal-371,There are 8 different books and 10 different movies in the ' crazy silly school ' series. You read 19 of the books and watched 61 of the movies.,There are more books than movies in the 'Crazy Silly School' series.,contradiction
+contra_switch_chal-375,"2 red peaches, 6 yellow peaches and 14 green peaches are in the basket.",There are more yellow peaches than green peaches in the basket.,contradiction
+contra_switch_chal-377,Bobby ate 38 pieces of candy. Then he ate 36 more. He also ate 16 pieces of chocolate.,Bobby ate more chocolate than pieces of candy.,contradiction
+contra_switch_chal-378,Jake has 3 fewer peaches and 4 more apples than Steven. Steven has 19 apples and 15 peaches.,Steven has more peaches than apples.,contradiction
+contra_switch_chal-379,Every day Ryan spends 6 hours on learning english and 7 hours on learning chinese.,Ryan spends more hour on learning English than he does on learning Chinese.,contradiction
+contra_switch_chal-380,Paco had 13 cookies. He ate 2 of them. Then he bought 36 more cookies.,Paco ate more cookies than those he bought.,contradiction
+contra_switch_chal-384,There were 15 roses in the vase. Jessica threw away 33 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 17 roses in the vase.,There cut more roses than those she threw away.,contradiction
+contra_switch_chal-389,Zachary did 15 push-ups in gym class today. David did 39 more push-ups than Zachary. John did 9 push-ups less than David.,John did more push-ups than Zachary.,contradiction
+contra_switch_chal-391,Danny collects bottle caps. He threw away 54 of the old ones at the park while he found 48 bottle caps new ones. Now he has 52 bottle caps in his collection.,Danny found more bottle caps than those he threw away at the park.,contradiction
+contra_switch_chal-398,Paul got a box of 110 crayons for his birthday. During the school year he gave 90 crayons to his friends while he lost 412 crayons.,Paul gave more crayons to his friends than those he lost.,contradiction
+contra_switch_chal-401,In a school there are 569 girls and 236 boys.,The school has more boys than girls.,contradiction
+contra_switch_chal-402,Danny collects bottle caps and wrappers. He found 71 bottle caps and 24 wrappers at the park. Now he has 28 bottle caps and 16 wrappers in his collection.,Danny has more wrappers than bottle caps now.,contradiction
+contra_switch_chal-405,5 children were riding on the bus. At the bus stop 63 children got off the bus while some more got on the bus. Then there were 14 children altogether on the bus.,More children got off the bus than those that got on.,contradiction
+contra_switch_chal-407,Danny collects bottle caps and wrappers. He found 10 bottle caps and 62 wrappers at the park. Now he has 27 bottle caps and 43 wrappers in his collection.,Danny has more bottle caps than wrappers now.,contradiction
+contra_switch_chal-409,4 birds and 3 storks were sitting on the fence. 6 more storks came to join them.,There are more birds than storks sitting on the fence.,contradiction
+contra_switch_chal-412,"Julia played tag with 14 kids on monday, 2 kids on tuesday and 8 kids on wednesday.",Julia played with more kids on Wednesday than on Monday,contradiction
+contra_switch_chal-414,Jake has 6 fewer peaches and 8 more apples than Steven. Steven has 17 peaches and 16 apples.,Steven has more apples than peach.,contradiction
+contra_switch_chal-415,A book has 3 chapters. The first chapter is 91 pages long the second chapter is 23 pages long and the third chapter is 25 pages long.,The second chapter has more pages than the first chapter,contradiction
+contra_switch_chal-417,Danny collects bottle caps. He found 36 bottle caps at the park while he threw away 35 old ones. Now he has 22 bottle caps in his collection.,Danny threw away more bottle cap at the park than those he found.,contradiction
+contra_switch_chal-421,2 children were riding on the bus. At the bus stop some more children got on the bus. Then there were 10 children altogether on the bus.,There are more children before the bus stop than there are now on the bus.,contradiction
+contra_switch_chal-422,"During summer break, 819058 kids from Lawrence county go to camp and the other 668278 kids stay home.",More kids stayed home compared to those who spent their summer break at the camp.,contradiction
+contra_switch_chal-426,There are 16 different books and 14 different movies in the ' crazy silly school ' series. You read 19 of the books and watched 13 of the movies.,There are more movies than books in the 'Crazy Silly School' series.,contradiction
+contra_switch_chal-433,Jerry had 2 action figures and 10 books on a shelf in his room. Later he added 4 more action figures to the shelf.,There are more action figures than books on his shelf.,contradiction
+contra_switch_chal-445,"Julia played tag with 15 kids on monday, 18 kids on tuesday and 7 kids on wednesday.",Julia played with more kids on Wednesday than on Monday and Tuesday.,contradiction
+contra_switch_chal-450,Baker made 133 cakes. He sold 51 of them.,Baker sold more cakes than those he made,contradiction
+contra_switch_chal-454,Dan has $ 5. He bought a chocolate for $ 3 and a candy bar for $ 7.,Dan spent more money to buy chocolate than he did to buy a candy bar.,contradiction
+contra_switch_chal-455,Baker made 126 cakes and 48 pastries. He sold 115 cakes and 81 pastries.,Baker made more pastries than cakes.,contradiction
+contra_switch_chal-460,At the arcade Dave had won 19 tickets. He used 12 to buy some toys and 7 more to buy some clothes.,Dave used more tickets to buy clothes than he did to buy toys.,contradiction
+contra_switch_chal-463,Jerry had 7 books and 3 action figures on a shelf in his room. Later he added 2 more action figures to the shelf.,There were more action figures than books on his shelf.,contradiction
+contra_switch_chal-470,Katie had 57 new games and 39 old games. Her friends had 34 new games.,Katie has more games than her friends,contradiction
+contra_switch_chal-478,For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 2 more dollars. She spent 6 dollars.,Gwen received more money from her mom than from her dad.,contradiction
+contra_switch_chal-484,Baker made 14 cakes and 153 pastries. He sold 8 pastries and 97 cakes.,Baker sold more pastries than cakes.,contradiction
+contra_switch_chal-485,Paco had 8 sweet cookies and 6 salty cookies. He ate 20 sweet cookies and 34 salty cookies.,Paco ate more sweet cookies than salty cookies,contradiction
+contra_switch_chal-497,"A grocery store had 79 bottles of regular soda, 53 bottles of diet soda and 42 apples.",They had more diet soda bottles than regular soda bottles,contradiction
+contra_switch_chal-499,"Rachel had to complete 7 pages of math homework, 11 pages of reading homework and 8 more pages of biology homework.",Rachel had more pages of biology homework than reading homework.,contradiction
+contra_switch_chal-514,Baker sold 8 cakes. He had made 40 cakes initially.,Baker sold more cakes than those he made,contradiction
+contra_switch_chal-517,"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 100 visitors came to the Buckingham palace on the previous day. There were 666 visitors on that day.",More visitors visited the previous day than on that day at Buckingham Palace,contradiction
+contra_switch_chal-520,Allan brought 6 balloons and Jake brought 2 balloons to the park. Jake then bought 3 more balloons at the park.,Allan had more balloon than Jake in the park,contradiction
+contra_switch_chal-533,Baker made 54 cakes and 143 pastries. He sold 68 cakes and 92 pastries.,Baker sold more cakes than pastries,contradiction
+contra_switch_chal-544,Danny collects bottle caps and wrappers. He found 15 bottle caps and 18 wrappers at the park. Now he has 67 wrappers and 35 bottle caps in his collection.,Danny has more bottle caps than wrappers now.,contradiction
+contra_switch_chal-545,3 birds were sitting on the fence. 2 more birds and 6 more storks came to join them.,There is more stork than birds sitting on the fence,contradiction
+contra_switch_chal-553,Dave had 11 apps and 3 files on his phone. After deleting some apps and files he had 24 files and 2 apps left.,Dave has more apps than files left on the phone,contradiction
+contra_switch_chal-559,"Jack received 10 emails in the morning, 7 emails in the afternoon, and 17 emails in the evening.",Jack received more emails in the afternoon than in the morning,contradiction
+contra_switch_chal-565,Lucy went to the grocery store. She bought 10 packs of cookie and 4 packs of cake.,Lucy bought more cake than packs of cookies.,contradiction
+contra_switch_chal-567,Every day Ryan spends 6 hours on learning english and 2 hours on learning chinese.,Ryan spends more hours on learning Chinese than English.,contradiction
+contra_switch_chal-577,The grasshopper and the frog had a jumping contest. The frog jumped 39 inches and the grasshopper jumped 17 inches.,The grasshopper jumped farther than the frog.,contradiction
+contra_switch_chal-578,A grocery store had 19 bottles of diet soda and 60 bottles of regular soda.,The store had more diet soda bottles than regular soda bottles,contradiction
+contra_switch_chal-584,"A book has 3 chapters. The first chapter is 35 pages long, the second chapter is 18 pages long, and the third chapter is 3 pages long.",The third chapter has more pages than the second chapter.,contradiction
+contra_switch_chal-608,Baker made 52 pastries and 84 cakes. He sold 102 cakes and 94 pastries.,Baker made more pastries than cakes.,contradiction
+contra_switch_chal-609,Paul had 21 books. After selling some in a garage sale he bought 42 new ones. He has 15 books now.,Paul bought more books than he sold.,contradiction
+contra_switch_chal-616,Winter is almost here and most animals are migrating to warmer countries. There are 41 bird families living near the mountain. 35 bird families flew away to asia and 62 bird families flew away to africa.,More bird families flew away to Asia than those that flew away to Africa.,contradiction
+contra_switch_chal-618,There were 6 roses and 20 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 21 orchids and 22 roses in the vase.,There is more orchid than rose in the vase now.,contradiction
+contra_switch_chal-625,Dave had 15 apps and 24 files on his phone. After deleting some apps and files he had 21 apps and 4 files left.,Dave has more files than apps left on the phone.,contradiction
+contra_switch_chal-629,Mary is baking a cake. The recipe calls for 11 cups of sugar 6 cups of flour and 9 cups of salt. She already put in 12 cups of flour.,Mary needs to add more cups of salt than cups of sugar.,contradiction
+contra_switch_chal-631,Josh had 7 marbles in his collection. He lost 8 marbles and found 10 new ones.,Josh lost more marbles than those he found.,contradiction
+contra_switch_chal-632,Nell collects cards. She had 239 baseball cards and 38 Ace cards. She gave some of her cards to Jeff and now has 376 Ace cards and 111 baseball cards left.,Nell has more baseball cards than Ace cards,contradiction
+contra_switch_chal-640,In a school there are 362 boys and 257 girls. 403 more girls joined the school.,There are more boys than girls in the school,contradiction
+contra_switch_chal-646,He then went to see the oranges being harvested. He found out that they harvest 41 sacks of unripe oranges and 86 sacks of ripe oranges per day.,More sacks of unripe oranges than ripe oranges are harvested per day.,contradiction
+contra_switch_chal-648,Paco had 37 sweet cookies and 11 salty cookies. He ate 5 sweet cookies and 2 salty cookies.,Paco ate more salty cookies than sweet cookies.,contradiction
+contra_switch_chal-660,Paul got a box of 267 crayons for his birthday. During the school year he lost 231 crayons while he gave away 308 crayons to his friends.,Paul gave more crayons to his friends than those he lost,contradiction
+contra_switch_chal-669,Rebecca wants to split a collection of eggs into groups of 5. Rebecca has 20 eggs and 6 marbles.,Rebecca has more marbles than eggs.,contradiction
+contra_switch_chal-682,Jack received 10 emails and 12 letters in the morning. He then received 3 emails and 44 letters in the afternoon.,Jack received more emails in the afternoon than in the morning,contradiction
+contra_switch_chal-688,David did 27 more push-ups but 7 less crunches than Zachary in gym class today. Zachary did 5 push-ups and 17 crunches.,Zachary did more push-ups than crunches.,contradiction
+contra_switch_chal-696,Allan brought 5 balloons and Jake brought 3 balloons to the park.,Jake had more balloons than Allan in the park.,contradiction
+contra_switch_chal-698,Winter is almost here and most animals are migrating to warmer countries. There are 8 bird families living near the mountain. 42 bird families flew away to africa and 31 bird families flew away to asia.,More bird families flew away to Asia than those that flew away to Africa.,contradiction
+contra_switch_chal-700,Zachary did 46 push-ups and 58 crunches in gym class today. David did 38 more push-ups but 62 less crunches than zachary.,Zachary did more push-ups than crunches.,contradiction
+contra_switch_chal-701,For Gwen's birthday she received 3 dollars from her mom. Her dad gave her 6 more dollars. She spent 4 dollars.,Gwen received more money from her mom than from her dad.,contradiction
+contra_switch_chal-703,There are 11 different books and 17 different movies in the ' crazy silly school ' series. You read 7 of the books and watched 21 of the movies.,You have read more books than movies,contradiction
+contra_switch_chal-712,Dan has $ 2. He bought a candy bar for $ 6 and a chocolate for $ 3.,Dan spent more money to buy chocolate than he did to buy a candy bar.,contradiction
+contra_switch_chal-713,Jackie has 10 apples. Adam has 8 apples.,Adam has more apples than Jackie.,contradiction
+contra_switch_chal-720,Baker made 19 cakes and 131 pastries. He sold 70 cakes and 88 pastries.,Baker made more cakes than pastries.,contradiction
+contra_switch_chal-731,Jake has 16 fewer peaches than Steven. Steven has 15 more peaches than Jill. Jill has 12 peaches.,Jake has more peach than Jill,contradiction
+contra_switch_chal-736,Jerry had 5 action figures and 9 books on a shelf in his room. Later he added 7 more action figures to the shelf.,Jerry has more books than action figures on his shelf.,contradiction
+contra_switch_chal-740,He then went to see the oranges being harvested. He found out that they harvest 5 sacks of ripe oranges and 74 sacks of unripe oranges per day.,They harvest more sacks of ripe oranges than unripe oranges per day.,contradiction
+contra_switch_chal-745,17 red peaches and 16 green peaches are in the basket.,There is more green peaches than red peach in the basket.,contradiction
+contra_switch_chal-747,"During summer break, 202,958 kids from Lawrence county go to camp and the other 777,622 kids stay home.",More kids went to the camp compared to those who stayed home.,contradiction
+contra_switch_chal-752,6 birds and 3 storks were sitting on the fence. 2 more storks came to join them.,There is more stork than birds sitting on the fence,contradiction
+contra_switch_chal-753,Dan has $ 4. He bought a chocolate for $ 7 and a candy bar for $ 2.,Dan spent more money to buy a candy bar than he did to buy chocolate,contradiction
+contra_switch_chal-754,There were 21 roses in the vase. Jessica threw away 34 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 15 roses in the vase.,Jessica cut more roses than she threw away from her garden.,contradiction
+contra_switch_chal-758,Allan brought 2 balloons and Jake brought 6 balloons to the park. Allan then bought 3 more balloons at the park.,Allan had more balloon than Jake in the park,contradiction
+contra_switch_chal-762,33 campers went rowing in the morning 34 campers went rowing in the afternoon and 10 campers went rowing in the evening.,More campers went rowing in the evening than in the afternoon.,contradiction
+contra_switch_chal-764,The grasshopper and the frog had a jumping contest. The grasshopper jumped 9 inches and the frog jumped 12 inches.,The grasshopper jumped farther than the frog.,contradiction
+contra_switch_chal-767,Ed had 30 more marbles than Doug. Ed lost 21 of his marbles at the playground. Ed had 91 marbles.,Doug had more marbles than Ed then,contradiction
+contra_switch_chal-773,There were 53 dollars in Olivia's wallet. She collected 91 more dollars from an atm. After she visited a supermarket there were 14 dollars left.,Olivia collected more money at the ATM than she spent at the supermarket.,contradiction
+contra_switch_chal-779,Danny collects bottle caps. He threw away 6 of the old ones at the park while he found 50 bottle caps new ones. Now he has 60 bottle caps in his collection.,Danny threw away more bottle caps than those he found at the park.,contradiction
+contra_switch_chal-789,"7 red peaches, 71 yellow peaches and 8 green peaches are in the basket.",There is more red peaches than green peach in the basket.,contradiction
+contra_switch_chal-790,52 campers went rowing in the morning. 61 campers went rowing in the afternoon.,More campers went rowing in the morning than in the afternoon.,contradiction
+contra_switch_chal-791,There are 17 different movies and 11 different books in the ' crazy silly school ' series. You read 13 of the books and watched 63 of the movies.,There are more books than movies in the 'Crazy Silly School' series.,contradiction
+contra_switch_chal-794,Danny collects bottle caps and wrappers. He found 58 bottle caps and 25 wrappers at the park. Now he has 11 wrappers and 12 bottle caps in his collection.,Danny has more wrappers than bottle cap now.,contradiction
+contra_switch_chal-797,Baker made 157 cakes and 169 pastries. He sold 158 cakes and 147 pastries.,Baker sold more cakes than pastries,contradiction
+contra_switch_chal-800,Baker made 134 pastries and 11 cakes. He sold 140 cakes and 92 pastries.,Baker made more cakes than pastries.,contradiction
+contra_switch_chal-804,Dave had 24 apps and 9 files on his phone. After deleting some apps and files he had 5 files and 12 apps left.,Dave has more files than apps left on the phone.,contradiction
+contra_switch_chal-805,44 campers went rowing in the morning 39 campers went rowing in the afternoon and 31 campers went rowing in the evening.,More campers went rowing in the afternoon than in the morning.,contradiction
+contra_switch_chal-813,Nell collects cards. She had 438 baseball cards and 18 Ace cards. She gave some of her cards to Jeff and now has 55 Ace cards and 178 baseball cards left.,Nell has more Ace cards than baseball cards,contradiction
+contra_switch_chal-819,He then went to see the oranges being harvested. He found out that they harvest 44 sacks of ripe oranges and 25 sacks of unripe oranges per day.,More sacks of unripe oranges than ripe oranges are harvested per day.,contradiction
+contra_switch_chal-827,6 storks and 2 birds were sitting on the fence. 3 more birds came to join them.,There is more stork than birds sitting on the fence,contradiction
+contra_switch_chal-830,Paul got a box of 531 crayons and 38 erasers for his birthday. At the end of the school year he only had 391 left while not having lost a single erasers.,Paul has more erasers than crayons left.,contradiction
+contra_switch_chal-832,There were 5 roses and 3 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 12 roses and 2 orchids in the vase.,There are more orchids than roses in the vase now.,contradiction
+contra_switch_chal-833,There are 14 different movies and 15 different books in the ' crazy silly school ' series. You read 11 of the books and watched 40 of the movies.,There is more movies than book in the 'Crazy Silly School' series.,contradiction
+contra_switch_chal-841,Randy has 86 blocks. He uses 79 blocks to build a tower and 82 blocks to build a house.,Randy used more blocks to build the tower than he did to build the house,contradiction
+contra_switch_chal-845,Josh had 15 marbles in his collection. He found 9 marbles while he lost 23 marbles.,Josh found more marbles than those he lost.,contradiction
+contra_switch_chal-846,29 campers went rowing and 66 campers went hiking in the morning. 26 campers went rowing in the afternoon.,More campers went rowing in the afternoon than in the morning.,contradiction
+contra_switch_chal-858,There were 174 parents in the program and 521 pupils too.,More parents were present compared to pupils in the program.,contradiction
+contra_switch_chal-869,Adam has 9 apples. Jackie has 10 apples.,Adam has more apple than Jackie.,contradiction
+contra_switch_chal-873,A book has 3 chapters. The first chapter is 53 pages long the second chapter is 75 pages long and the third chapter is 21 pages long.,The third chapter has more pages than the first chapter.,contradiction
+contra_switch_chal-884,Dave had 21 apps on his phone. He added 89 new apps. After deleting some he had 24 left.,Dave deleted more apps than he added.,contradiction
+contra_switch_chal-887,David did 36 more push-ups but 33 less crunches than Zachary in gym class today. Zachary did 58 push-ups and 33 crunches.,Zachary did more crunches than push-ups,contradiction
+contra_switch_chal-892,Rebecca wants to split a collection of eggs into groups of 20. Rebecca has 5 marbles and 12 eggs.,Rebecca has more marbles than eggs.,contradiction
+contra_switch_chal-893,Baker made 81 cakes. Then he made 92 more cakes. He sold 46 of them.,Baker sold more cakes than those he made,contradiction
+contra_switch_chal-898,62 campers went rowing in the morning. 39 campers went rowing in the afternoon.,More campers went rowing in the afternoon than in the morning.,contradiction
+contra_switch_chal-904,"Rachel had to complete 11 pages of math homework, 2 pages of reading homework and 3 more pages of biology homework.",Rachel had more pages of biology homework than math homework.,contradiction
+contra_switch_chal-912,"Rachel had to complete 4 pages of reading homework, 7 pages of math homework and 19 more pages of biology homework.",Rachel had more reading homework than pages of math homework,contradiction
+contra_switch_chal-917,Friends of Katie had 57 games and she had 63 ds games.,Katie has more games than her friends,contradiction
+contra_switch_chal-921,"Simon, Mark, Kevin, and Carl love collecting stamps. They meet up every month to compare and share their collections with each other. During the previous month, Kevin was able to collect 45 stamps while Simon was only able to collect 27.",Simon has more stamps than Kevin.,contradiction
+contra_switch_chal-922,If Carl has a total of 89 stamps and Kevin has 57.,Kevin has more stamps than Carl.,contradiction
+contra_switch_chal-926,Rob is very fond of tall structures. He likes collecting pictures and comparing them. Two of his favorite buildings are Chicago's Sears Tower and Dubai's Burj Khalifa. Burj Khalifa stands at 830 meters high and Sears stands at 527 meters high.,Sears is higher than Burj Khalifa.,contradiction
+contra_switch_chal-931,Rob also matched the London Eye which stands at 443 ft and Las Vegas' High Roller standing at 550 ft.,The London Eye is taller than High Roller.,contradiction
+contra_switch_chal-934,"At the end of the cave, they found a golden chest. The chest contains 421 diamonds and 377 rubies.",There are more rubies than diamonds.,contradiction
+contra_switch_chal-936,Willy has 1400 crayons. Lucy has 290 crayons.,Lucy has more crayons than Willy.,contradiction
+contra_switch_chal-940,James has 1222 balloons. Amy has 513 balloons.,Amy has more balloons than James.,contradiction
+contra_switch_chal-943,A pet supply store has 600 bags of dog food and 327 bags of cat food.,There are more cat food than bags of dog food.,contradiction
+entail_paraphrase_chal-098,There are 6 birds and 3 nests.,There are fewer nests than birds.,entailment
+entail_paraphrase_chal-125,There are 5 flowers and 3 bees.,There are more flowers than bees.,entailment
+entail_paraphrase_chal-302,There are 4 squirrels in a tree with 2 nuts.,There are fewer nuts than squirrels.,entailment
+entail_paraphrase_chal-360,A restaurant serves 6 cakes during lunch and 9 during dinner today.,Fewer cakes are served during lunch than dinner.,entailment
+entail_paraphrase_chal-386,"In a school, there are 542 girls and 387 boys.",Fewer boys are there compared to girls in that school.,entailment
+entail_paraphrase_chal-462,There were 28 girls and 35 boys on the playground at recess.,Fewer girls are there than boys.,entailment
+entail_paraphrase_chal-547,There are 58 geese and 37 ducks in the marsh.,Fewer ducks are there than geese.,entailment
+entail_paraphrase_chal-599,28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus.,Fewer children got off the bus than those who got on.,entailment
+entail_paraphrase_chal-652,Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies.,Paco gave fewer cookies to his friend than those he ate.,entailment
+entail_paraphrase_chal-771,3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them.,Fewer birds than storks are sitting on the fence.,entailment
+entail_paraphrase_chal-785,Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser.,Paul had fewer erasers than crayons left.,entailment
+entail_paraphrase_chal-905,Danny collects bottle caps and wrappers. He found 65 wrappers and 5 bottle caps at the park. Now he has 31 bottle caps and 9 wrappers in his collection.,Danny found fewer bottle caps than wrappers at the park.,entailment
+entail_paraphrase_chal-928,Tiffany was collecting cans for recycling. On monday she had 7 bags of cans. The next day she found 12 more bags worth of cans.,Tiffany had fewer bags on Monday than she found on the next day.,entailment
+entail_paraphrase_chal-968,For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 7 more dollars. She spent 4 dollars.,Gwen received less money from her dad than from her mom.,entailment
+entail_paraphrase_nluds-0837,There are 8 different books and 5 different movies in the ' crazy silly school ' series. You read 19 of the movies and watched 16 of the books.,You have read fewer books than movies.,entailment
+entail_paraphrase_nluds-0893,Danny collects bottle caps and wrappers. He found 46 wrappers and 50 bottle caps at the park. Now he has 21 bottle caps and 52 wrappers in his collection.,Danny found fewer wrappers than bottle caps at the park.,entailment
+entail_paraphrase_nluds-0895,3 birds and 4 storks were sitting on the fence. 2 more birds came to join them.,There is fewer stork than bird sitting on the fence.,entailment
+entail_paraphrase_chal-006,Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary.,Zachary did fewer crunches than push-ups.,entailment
+entail_paraphrase_chal-158,Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left.,Nell has fewer Ace cards than baseball cards.,entailment
+entail_paraphrase_chal-382,There were 9 roses and 6 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 13 orchids and 3 roses in the vase.,There are fewer roses than orchids in the vase now.,entailment
+entail_paraphrase_chal-564,"After eating a hearty meal they went to see the Buckingham palace. There were 39 paintings in the Buckingham palace. There, Rachel learned that 661 visitors came to the Buckingham palace that day. There were 600 visitors the previous day.",Fewer visitors visited the Buckingham Palace on the previous day than on that day.,entailment
+entail_paraphrase_chal-782,Rachel had to complete 2 pages of reading homework and 4 pages of math homework.,Rachel had fewer pages of reading homework than math homework.,entailment
+entail_paraphrase_awp_e_064,"Julia played tag with 8 kids on monday, 11 kids on tuesday and 9 kids on wednesday.",Julia played with fewer kids on Wednesday than on Tuesday.,entailment
+entail_paraphrase_awp_e_065,36 children were riding on the bus. At the bus stop 68 children got off the bus while some more got on the bus. Then there were 12 children altogether on the bus.,Fewer children got on the bus than those who got off.,entailment
+entail_paraphrase_awp_e_069,In a school there are 632 girls and 410 boys. 465 more girls joined the school.,There are fewer boys than girls in the school.,entailment
+entail_paraphrase_awp_e_197,Randy has 95 blocks. He uses 20 blocks to build a house and 50 blocks to build a tower.,Randy used fewer blocks to build the house than he did to build the tower.,entailment
+entail_paraphrase_awp_e_265,2 birds and 6 storks were sitting on the fence. 3 more birds came to join them.,There is fewer bird than stork sitting on the fence.,entailment
+entail_paraphrase_awp_e_286,Paco had 12 cookies. He ate 16 cookies and gave 21 of them to his friend.,Paco ate fewer cookies than those he gave to his friend.,entailment
+entail_paraphrase_awp_e_287,"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 317 visitors came to the Buckingham palace that day. There were 295 visitors the previous day.",Fewer visitors visited the Buckingham Palace on the previous day than on that day.,entailment
+entail_paraphrase_chal-005,Josh had 3 marbles in his collection. He found 6 marbles while he lost 5 marbles.,Josh lost fewer marbles than those he found.,entailment
+entail_paraphrase_chal-008,Because of the decision Sofia asked the students to suggest specific types of food. 408 students suggested adding mashed potatoes while 42 suggested adding bacon to the menu.,Fewer students suggested bacon than those who suggested mashed potatoes.,entailment
+entail_paraphrase_chal-011,Paco had 17 cookies. He ate 14 cookies and gave 13 of them to his friend.,Paco gave fewer cookies to his friend than those he ate.,entailment
+entail_paraphrase_chal-020,Julia played tag with 19 kids on monday. She played tag with 18 kids on tuesday. She spent a total of 38 hours to play tag on both days.,Julia played with fewer kids on Tuesday than on Monday.,entailment
+entail_paraphrase_chal-026,Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3.,Dan spent less money to buy a candy bar than he did to buy chocolate.,entailment
+entail_paraphrase_chal-031,Ed had 29 more marbles than Doug. Ed lost 17 of his marbles at the playground.,Doug had fewer marbles than Ed then.,entailment
+entail_paraphrase_chal-038,Allan brought 6 balloons and Jake brought 3 balloons to the park. Jake then bought 4 more balloons at the park.,Allan had fewer balloons than Jake in the park.,entailment
+entail_paraphrase_chal-040,A grocery store had 22 bottles of regular soda and 61 bottles of diet soda.,They had fewer bottles of regular soda than diet soda.,entailment
+entail_paraphrase_chal-042,Allan brought 2 balloons and Jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park.,Jake had fewer balloons than Allan in the park.,entailment
+entail_paraphrase_chal-044,"Jack received 10 emails in the morning, 5 emails in the afternoon and 4 emails in the evening.",Jack received fewer emails in the evening than in the afternoon.,entailment
+entail_paraphrase_chal-046,Because of the decision Sofia asked the students to suggest specific types of food. 479 students suggested adding mashed potatoes while 489 suggested adding bacon to the menu.,Fewer students suggested mashed potatoes than those that suggested bacon.,entailment
+entail_paraphrase_chal-050,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 19 chocolate chip cookies yesterday and 231 raisin cookies and 237 chocolate chip cookies this morning.,Helen baked fewer raisin cakes than chocolate chip cookies.,entailment
+entail_paraphrase_chal-059,Danny collects bottle caps. He found 30 bottle caps at the park while he threw away 63 old ones. Now he has 42 bottle caps in his collection.,Danny found fewer bottle caps than he threw away at the park.,entailment
+entail_paraphrase_chal-060,There were 7 roses and 12 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 11 roses and 20 orchids in the vase.,There are fewer roses than orchids in the vase now.,entailment
+entail_paraphrase_chal-077,There are 10 different books and 11 different movies in the ' crazy silly school ' series. You read 13 of the books and watched 12 of the movies.,You have read fewer movies than book.,entailment
+entail_paraphrase_chal-079,23 children were riding on the bus. At the bus stop 24 children got on the bus while some got off the bus. Then there were 8 children altogether on the bus.,Fewer children got on the bus than those who got off.,entailment
+entail_paraphrase_chal-081,Because of the decision Sofia asked the students to suggest specific types of food. 257 students suggested adding mashed potatoes 120 suggested adding bacon to the menu and 97 suggested adding tomatoes.,Fewer students suggested bacon than those that suggested mashed potatoes.,entailment
+entail_paraphrase_chal-084,Julia played tag with 4 kids on wednesday. She had played with 6 kids on monday and 17 kids on tuesday.,Julia played with fewer kids on Wednesday than on Monday.,entailment
+entail_paraphrase_chal-086,"A grocery store had 36 apples, 80 bottles of regular soda and 54 bottles of diet soda.",They had fewer apples than bottles.,entailment
+entail_paraphrase_chal-087,Paco had 40 sweet cookies and 25 salty cookies. He ate 28 salty cookies and 15 sweet cookies.,Paco ate fewer sweet cookies than salty cookies.,entailment
+entail_paraphrase_chal-089,A grocery store had 67 bottles of regular soda and 9 bottles of diet soda.,They had fewer diet soda bottles than regular soda.,entailment
+entail_paraphrase_chal-090,Jake has 3 fewer peaches than Steven who has 8 more peaches than Jill. Steven has 5 peaches.,Jill has fewer peaches than Jake.,entailment
+entail_paraphrase_chal-091,Jake has 5 fewer peaches than Steven. Steven has 18 more peaches than Jill. Jill has 87 peaches.,Jill has fewer peaches than Jake.,entailment
+entail_paraphrase_chal-092,"A grocery store had 54 bottles of diet soda, 83 bottles of regular soda and 12 apples.",The store had fewer diet soda bottles than regular soda.,entailment
+entail_paraphrase_chal-094,Because of the decision Sofia asked the students to suggest specific types of food. 269 students suggested adding bacon 330 suggested adding mashed potatoes to the menu and 76 suggested adding tomatoes.,Fewer students suggested bacon than those that suggested mashed potatoes.,entailment
+entail_paraphrase_chal-095,Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left.,Dave added fewer apps than he deleted.,entailment
+entail_paraphrase_chal-096,Jack received 6 emails in the morning and 2 emails in the afternoon.,Jack received fewer emails in the afternoon than in the morning.,entailment
+entail_paraphrase_chal-097,Baker made 43 cakes and 114 pastries. He sold 154 pastries and 78 cakes.,Baker sold fewer cakes than pastries.,entailment
+entail_paraphrase_chal-103,Paco had 25 cookies. He ate 5 of them. Then he bought 3 more cookies.,Paco bought fewer cookies than those he ate.,entailment
+entail_paraphrase_chal-105,Jake has 8 fewer peaches and 10 more apples than Steven. Steven has 11 apples and 18 peaches.,Steven has fewer apples than peaches.,entailment
+entail_paraphrase_chal-109,"Every day Ryan spends 2 hours on learning english, 5 hours on learning chinese and 4 hours on learning spanish.",Ryan spends fewer hours learning Spanish than he does learning Chinese.,entailment
+entail_paraphrase_chal-114,2 birds were sitting on the fence. 5 more birds and 4 more storks came to join them.,Fewer storks than birds are sitting on the fence.,entailment
+entail_paraphrase_chal-119,Paco had 6 cookies. He gave 30 cookies to his friend and ate 23 cookies.,Paco ate fewer cookies than those he gave to his friend.,entailment
+entail_paraphrase_chal-122,Baker made 144 cakes. He sold 71 of them. Then he made 111 more cakes.,Baker sold fewer cakes than those he made.,entailment
+entail_paraphrase_chal-124,41 children were riding on the bus. At the bus stop some children got off the bus. Then there were 18 children left on the bus.,There are fewer children on the bus now than there were before the bus stop.,entailment
+entail_paraphrase_chal-131,Danny collects bottle caps and wrappers. He found 30 bottle caps and 14 wrappers at the park. Now he has 7 bottle caps and 86 wrappers in his collection.,Danny found fewer wrappers than bottle caps at the park.,entailment
+entail_paraphrase_chal-134,Edward spent $ 16 to buy books and $ 8 to buy pens. Now he has $ 19.,Edward spent less on pens than books.,entailment
+entail_paraphrase_chal-141,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 519 chocolate chip cookies and 300 raisin cookies yesterday. And she baked 280 raisin cookies and 359 chocolate chip cookies this morning.,Helen baked fewer raisin cookies today compared to yesterday.,entailment
+entail_paraphrase_chal-145,"A grocery store had 81 bottles of regular soda, 60 bottles of diet soda and 60 bottles of lite soda.",They had fewer diet soda bottles than regular soda.,entailment
+entail_paraphrase_chal-155,"A grocery store had 72 bottles of regular soda, 32 bottles of diet soda and 78 apples.",They had fewer apples than bottles.,entailment
+entail_paraphrase_chal-157,Because of the decision Sofia asked the students to suggest specific types of food. 144 students suggested adding mashed potatoes 467 suggested adding bacon to the menu and 79 suggested adding tomatoes.,Fewer students suggested tomatoes than those that suggested mashed potatoes.,entailment
+entail_paraphrase_chal-163,Randy has 90 blocks. He uses 89 blocks to build a house and 63 blocks to build a tower.,Randy used fewer blocks to build the tower than he did to build the house.,entailment
+entail_paraphrase_chal-170,Allan brought 2 balloons and Jake brought 3 balloons to the park.,Allan had fewer balloons than Jake in the park.,entailment
+entail_paraphrase_chal-175,"Every day Ryan spends 7 hours on learning english, 2 hours on learning chinese and 4 hours on learning spanish.",Ryan spends fewer hours learning Spanish than he does learning English.,entailment
+entail_paraphrase_chal-180,Nell collects cards. She had 246 baseball cards and 214 Ace cards. She gave some of her cards to Jeff and now has 404 baseball cards and 495 Ace cards left.,Nell has fewer baseball cards than Ace cards.,entailment
+entail_paraphrase_chal-182,Jerry had 9 action figures on a shelf in his room. Later he added 7 more action figures to the shelf. He also has 10 books on the shelf.,Jerry had fewer books than action figures on his shelf.,entailment
+entail_paraphrase_chal-183,Paul got a box of 589 crayons for his birthday. During the school year he gave 571 crayons to his friends while he lost 161 crayons.,Paul lost fewer crayons than those he gave to his friends.,entailment
+entail_paraphrase_chal-185,"Jack received 9 emails in the morning, 10 emails in the afternoon and 7 emails in the evening.",Jack received fewer emails in the evening than in the morning.,entailment
+entail_paraphrase_chal-190,Jack received 6 emails in the morning and 8 emails in the afternoon.,Jack received fewer emails in the morning than in the afternoon.,entailment
+entail_paraphrase_chal-191,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 197 chocolate chip cookies and 46 raisin cookies yesterday. And she baked 75 raisin cookies and 66 chocolate chip cookies this morning.,Helen baked fewer chocolate chip cookies today compared to yesterday.,entailment
+entail_paraphrase_chal-195,Every day Ryan spends 6 hours on learning english 3 hours on learning chinese and 58 hours on learning spanish.,Ryan spends fewer hours learning Chinese than he does learning English.,entailment
+entail_paraphrase_chal-197,A book has 2 chapters. The first chapter is 48 pages long. The second chapter is 11 pages long.,The second chapter has fewer pages than the first chapter.,entailment
+entail_paraphrase_chal-208,"6 green peaches, 60 yellow peaches and 2 red peaches are in the basket.",There are fewer red peaches than green peaches in the basket.,entailment
+entail_paraphrase_chal-209,Jake has 12 fewer peaches than Steven who has 11 more peaches than Jill. Steven has 4 peaches.,Jake has fewer peaches than Jill.,entailment
+entail_paraphrase_chal-210,There are 10 different books and 6 different movies in the ' crazy silly school ' series. You read 14 of the movies and watched 19 of the books.,You have read fewer movies than books.,entailment
+entail_paraphrase_chal-220,Katie had 81 ds games and her friends had 59 games.,Katie has fewer friends than games.,entailment
+entail_paraphrase_chal-226,Julia played tag with 5 kids on tuesday. She had played tag with 6 kids on monday.,Julia played with fewer kids on Tuesday than on Monday.,entailment
+entail_paraphrase_chal-231,Jerry had 3 books and 4 action figures on a shelf in his room. Later he added 2 more action figures to the shelf.,Fewer books than action figures were on his shelf.,entailment
+entail_paraphrase_chal-233,Dave had 19 apps and 18 files on his phone. After deleting some apps and files he had 6 apps and 15 files left.,Dave has fewer apps than files left on the phone.,entailment
+entail_paraphrase_chal-241,Baker made 99 cakes. He bought 167 new cakes and sold 89 cakes.,Baker sold fewer cakes than those he bought.,entailment
+entail_paraphrase_chal-242,Baker made 13 cakes. He sold 91 of them and bought 154 new cakes.,Baker sold fewer cakes than those he bought.,entailment
+entail_paraphrase_chal-249,He then went to see the oranges being harvested. He found out that they harvest 71 sacks of unripe oranges and 60 sacks of ripe oranges per day.,Fewer sacks of ripe oranges than unripe oranges are harvested per day.,entailment
+entail_paraphrase_chal-252,Jerry had 7 action figures and 2 books on a shelf in his room. Later he added 4 more books to the shelf.,There were fewer books than action figures on his shelf.,entailment
+entail_paraphrase_chal-263,In a school there are 34 girls and 841 boys.,The school has fewer girls than boys.,entailment
+entail_paraphrase_chal-264,53 campers went rowing in the morning 48 campers went rowing in the afternoon and 49 campers went rowing in the evening.,Fewer campers went rowing in the evening than in the morning.,entailment
+entail_paraphrase_chal-265,"Jack received 3 emails in the afternoon, 5 emails in the morning and 16 emails in the evening.",Jack received fewer emails in the afternoon than in the morning.,entailment
+entail_paraphrase_chal-270,Rachel had to complete 3 pages of math homework and 4 pages of reading homework.,Rachel had fewer pages of math homework than reading homework.,entailment
+entail_paraphrase_chal-284,A book has 2 chapters. The first chapter is 37 pages long. The second chapter is 80 pages long.,The first chapter has fewer pages than the second chapter.,entailment
+entail_paraphrase_chal-287,Winter is almost here and most animals are migrating to warmer countries. There are 38 bird families living near the mountain. 47 bird families flew away to africa and 94 bird families flew away to asia.,Fewer bird families flew away to Africa than those that flew away to Asia.,entailment
+entail_paraphrase_chal-288,Zachary did 51 push-ups and David did 44 push-ups in gym class today.,David did fewer push-ups than Zachary.,entailment
+entail_paraphrase_chal-289,Mary is baking a cake. The recipe calls for 6 cups of flour 8 cups of sugar and 7 cups of salt. She already put in 5 cups of flour.,Mary needs to add fewer cups of salt than cups of sugar.,entailment
+entail_paraphrase_chal-291,Because of the decision Sofia asked the students to suggest specific types of food. 228 students suggested adding mashed potatoes 337 suggested adding bacon to the menu and 23 suggested adding tomatoes.,Fewer students suggested tomatoes than those that suggested bacon.,entailment
+entail_paraphrase_chal-294,"Julia played tag with 9 kids on monday, 7 kids on tuesday and 96 kids on wednesday.",Julia played with fewer kids on Tuesday than on Monday.,entailment
+entail_paraphrase_chal-295,Randy has 37 blocks. He uses 33 blocks to build a tower and 13 blocks to build a house.,Randy used fewer blocks to build the house than he did to build the tower.,entailment
+entail_paraphrase_chal-296,Baker made 8 cakes. He bought 139 new cakes and sold 145 cakes.,Baker bought fewer cakes than those he sold.,entailment
+entail_paraphrase_chal-304,Jack received 6 emails and 8 letters in the morning. He then received 2 emails and 7 letters in the afternoon.,Jack received fewer emails in the afternoon than in the morning.,entailment
+entail_paraphrase_chal-307,Jake has 3 fewer peaches and 10 more apples than Steven. Steven has 12 peaches and 15 apples.,Adam has fewer peaches than apples.,entailment
+entail_paraphrase_chal-314,Rachel had to complete 5 pages of math homework and 2 pages of reading homework.,Rachel had fewer pages of reading homework than math homework.,entailment
+entail_paraphrase_chal-317,Paul got a box of 601 crayons and 406 erasers for his birthday. At the end of the school year he only had 336 crayons left while not having lost a single eraser.,Paul had fewer crayons than erasers left.,entailment
+entail_paraphrase_chal-319,Adam has 10 apples. Jackie has 2 apples.,Jackie has fewer apples than Adam.,entailment
+entail_paraphrase_chal-321,Jerry had 5 action figures and 2 books on a shelf in his room. Later he added 9 more books to the shelf.,There are fewer action figures than books on his shelf.,entailment
+entail_paraphrase_chal-322,At the arcade Dave had won 13 tickets. He used 8 to buy some toys and 18 more to buy some clothes.,Dave used fewer tickets to buy toys than he did to buy clothes.,entailment
+entail_paraphrase_chal-329,"19 red peaches, 11 yellow peaches and 12 green peaches are in the basket.",There are fewer yellow peaches than red peaches in the basket.,entailment
+entail_paraphrase_chal-330,For Gwen's birthday she received 8 dollars from her mom. Her dad gave her 5 more dollars. She spent 4 dollars.,Gwen received less money from her dad than from her mom.,entailment
+entail_paraphrase_chal-336,Paco had 39 sweet cookies and 6 salty cookies. He ate 23 salty cookies and 32 sweet cookies.,Paco ate fewer salty cookies than sweet cookies.,entailment
+entail_paraphrase_chal-337,Julia played tag with 18 kids on monday. She played tag with 10 kids on tuesday.,Julia played with fewer kids on Tuesday than on Monday.,entailment
+entail_paraphrase_chal-340,5 red peaches and 11 green peaches are in the basket.,There are fewer red peaches than green peaches in the basket.,entailment
+entail_paraphrase_chal-341,"Rachel had to complete 9 pages of math homework, 2 pages of reading homework and 96 more pages of biology homework.",Rachel had fewer pages of reading homework than math homework.,entailment
+entail_paraphrase_chal-343,Josh had 4 marbles in his collection. He lost 16 marbles and found 8 new ones.,Josh found fewer marbles than those he lost.,entailment
+entail_paraphrase_chal-344,Danny collects bottle caps and wrappers. He found 11 bottle caps and 28 wrappers at the park. Now he has 68 bottle caps and 51 wrappers in his collection.,Danny found fewer bottle caps than wrappers at the park.,entailment
+entail_paraphrase_chal-359,Paul had 71 books. After selling some in a garage sale he bought 38 new ones. He has 116 books now.,Paul sold fewer books than he bought.,entailment
+entail_paraphrase_chal-361,Julia played tag with 11 kids on monday. She played tag with 12 kids on tuesday.,Julia played with fewer kids on Monday than on Tuesday.,entailment
+entail_paraphrase_chal-363,Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. The next day she found 7 more bags worth of cans.,Tiffany found fewer bags on the next day than she had on Monday.,entailment
+entail_paraphrase_chal-368,5 storks and 3 birds were sitting on the fence. 4 more birds came to join them.,Fewer storks than birds are sitting on the fence.,entailment
+entail_paraphrase_chal-371,There are 8 different books and 10 different movies in the ' crazy silly school ' series. You read 19 of the books and watched 61 of the movies.,There are fewer books than movies in the 'Crazy Silly School' series.,entailment
+entail_paraphrase_chal-375,"2 red peaches, 6 yellow peaches and 14 green peaches are in the basket.",There are fewer yellow peaches than green peaches in the basket.,entailment
+entail_paraphrase_chal-377,Bobby ate 38 pieces of candy. Then he ate 36 more. He also ate 16 pieces of chocolate.,Bobby ate fewer pieces of chocolate than candy.,entailment
+entail_paraphrase_chal-378,Jake has 3 fewer peaches and 4 more apples than Steven. Steven has 19 apples and 15 peaches.,Steven has fewer peaches than apples.,entailment
+entail_paraphrase_chal-379,Every day Ryan spends 6 hours on learning english and 7 hours on learning chinese.,Ryan spends fewer hours learning English than he does learning Chinese.,entailment
+entail_paraphrase_chal-380,Paco had 13 cookies. He ate 2 of them. Then he bought 36 more cookies.,Paco ate fewer cookies than those he bought.,entailment
+entail_paraphrase_chal-384,There were 15 roses in the vase. Jessica threw away 33 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 17 roses in the vase.,There cut fewer roses than those she threw away.,entailment
+entail_paraphrase_chal-389,Zachary did 15 push-ups in gym class today. David did 39 more push-ups than Zachary. John did 9 push-ups less than David.,John did fewer push-ups than Zachary.,entailment
+entail_paraphrase_chal-391,Danny collects bottle caps. He threw away 54 of the old ones at the park while he found 48 bottle caps new ones. Now he has 52 bottle caps in his collection.,Danny found fewer bottle caps than those he threw away at the park.,entailment
+entail_paraphrase_chal-398,Paul got a box of 110 crayons for his birthday. During the school year he gave 90 crayons to his friends while he lost 412 crayons.,Paul gave fewer crayons to his friends than those he lost.,entailment
+entail_paraphrase_chal-401,In a school there are 569 girls and 236 boys.,The school has fewer boys than girls.,entailment
+entail_paraphrase_chal-402,Danny collects bottle caps and wrappers. He found 71 bottle caps and 24 wrappers at the park. Now he has 28 bottle caps and 16 wrappers in his collection.,Danny has fewer wrappers than bottle caps now.,entailment
+entail_paraphrase_chal-405,5 children were riding on the bus. At the bus stop 63 children got off the bus while some more got on the bus. Then there were 14 children altogether on the bus.,Fewer children got off the bus than those that got on.,entailment
+entail_paraphrase_chal-407,Danny collects bottle caps and wrappers. He found 10 bottle caps and 62 wrappers at the park. Now he has 27 bottle caps and 43 wrappers in his collection.,Danny has fewer bottle caps than wrappers now.,entailment
+entail_paraphrase_chal-409,4 birds and 3 storks were sitting on the fence. 6 more storks came to join them.,There are fewer birds than storks sitting on the fence.,entailment
+entail_paraphrase_chal-412,"Julia played tag with 14 kids on monday, 2 kids on tuesday and 8 kids on wednesday.",Julia played with fewer kids on Wednesday than on Monday.,entailment
+entail_paraphrase_chal-414,Jake has 6 fewer peaches and 8 more apples than Steven. Steven has 17 peaches and 16 apples.,Steven has fewer apples than peach.,entailment
+entail_paraphrase_chal-415,A book has 3 chapters. The first chapter is 91 pages long the second chapter is 23 pages long and the third chapter is 25 pages long.,The second chapter has fewer pages than the first chapter.,entailment
+entail_paraphrase_chal-417,Danny collects bottle caps. He found 36 bottle caps at the park while he threw away 35 old ones. Now he has 22 bottle caps in his collection.,Danny threw away fewer bottle caps at the park than those he found.,entailment
+entail_paraphrase_chal-421,2 children were riding on the bus. At the bus stop some more children got on the bus. Then there were 10 children altogether on the bus.,There are fewer children before the bus stop than there are now on the bus.,entailment
+entail_paraphrase_chal-422,"During summer break, 819058 kids from Lawrence county go to camp and the other 668278 kids stay home.",Fewer kids stayed home compared to those who spent their summer break at the camp.,entailment
+entail_paraphrase_chal-426,There are 16 different books and 14 different movies in the ' crazy silly school ' series. You read 19 of the books and watched 13 of the movies.,There are fewer movies than books in the 'Crazy Silly School' series.,entailment
+entail_paraphrase_chal-433,Jerry had 2 action figures and 10 books on a shelf in his room. Later he added 4 more action figures to the shelf.,There are fewer action figures than books on his shelf.,entailment
+entail_paraphrase_chal-445,"Julia played tag with 15 kids on monday, 18 kids on tuesday and 7 kids on wednesday.",Julia played with fewer kids on Wednesday than on Monday and Tuesday.,entailment
+entail_paraphrase_chal-450,Baker made 133 cakes. He sold 51 of them.,Baker sold fewer cakes than those he made.,entailment
+entail_paraphrase_chal-454,Dan has $ 5. He bought a chocolate for $ 3 and a candy bar for $ 7.,Dan spent less money to buy chocolate than he did to buy a candy bar.,entailment
+entail_paraphrase_chal-455,Baker made 126 cakes and 48 pastries. He sold 115 cakes and 81 pastries.,Baker made fewer pastries than cakes.,entailment
+entail_paraphrase_chal-460,At the arcade Dave had won 19 tickets. He used 12 to buy some toys and 7 more to buy some clothes.,Dave used fewer tickets to buy clothes than he did to buy toys.,entailment
+entail_paraphrase_chal-463,Jerry had 7 books and 3 action figures on a shelf in his room. Later he added 2 more action figures to the shelf.,There were fewer action figures than books on his shelf.,entailment
+entail_paraphrase_chal-470,Katie had 57 new games and 39 old games. Her friends had 34 new games.,Katie has fewer friends than games.,entailment
+entail_paraphrase_chal-478,For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 2 more dollars. She spent 6 dollars.,Gwen received less money from her mom than from her dad.,entailment
+entail_paraphrase_chal-484,Baker made 14 cakes and 153 pastries. He sold 8 pastries and 97 cakes.,Baker sold fewer pastries than cakes.,entailment
+entail_paraphrase_chal-485,Paco had 8 sweet cookies and 6 salty cookies. He ate 20 sweet cookies and 34 salty cookies.,Paco ate fewer sweet cookies than salty cookies.,entailment
+entail_paraphrase_chal-497,"A grocery store had 79 bottles of regular soda, 53 bottles of diet soda and 42 apples.",They had fewer diet soda bottles than regular soda.,entailment
+entail_paraphrase_chal-499,"Rachel had to complete 7 pages of math homework, 11 pages of reading homework and 8 more pages of biology homework.",Rachel had fewer pages of biology homework than reading homework.,entailment
+entail_paraphrase_chal-514,Baker sold 8 cakes. He had made 40 cakes initially.,Baker sold fewer cakes than those he made.,entailment
+entail_paraphrase_chal-517,"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 100 visitors came to the Buckingham palace on the previous day. There were 666 visitors on that day.",Fewer visitors visited the Buckingham Palace on the previous day than on that day.,entailment
+entail_paraphrase_chal-520,Allan brought 6 balloons and Jake brought 2 balloons to the park. Jake then bought 3 more balloons at the park.,Jake had fewer balloons than Allan in the park.,entailment
+entail_paraphrase_chal-533,Baker made 54 cakes and 143 pastries. He sold 68 cakes and 92 pastries.,Baker sold fewer cakes than pastries.,entailment
+entail_paraphrase_chal-544,Danny collects bottle caps and wrappers. He found 15 bottle caps and 18 wrappers at the park. Now he has 67 wrappers and 35 bottle caps in his collection.,Danny has fewer bottle caps than wrappers now.,entailment
+entail_paraphrase_chal-545,3 birds were sitting on the fence. 2 more birds and 6 more storks came to join them.,There is fewer bird than stork sitting on the fence.,entailment
+entail_paraphrase_chal-553,Dave had 11 apps and 3 files on his phone. After deleting some apps and files he had 24 files and 2 apps left.,Dave has fewer apps than files left on the phone.,entailment
+entail_paraphrase_chal-559,"Jack received 10 emails in the morning, 7 emails in the afternoon, and 17 emails in the evening.",Jack received fewer emails in the afternoon than in the morning.,entailment
+entail_paraphrase_chal-565,Lucy went to the grocery store. She bought 10 packs of cookie and 4 packs of cake.,Lucy bought less cake than packs of cookies.,entailment
+entail_paraphrase_chal-567,Every day Ryan spends 6 hours on learning english and 2 hours on learning chinese.,Ryan spends fewer hours learning Chinese than English.,entailment
+entail_paraphrase_chal-577,The grasshopper and the frog had a jumping contest. The frog jumped 39 inches and the grasshopper jumped 17 inches.,The grasshopper jumped less far than the frog.,entailment
+entail_paraphrase_chal-578,A grocery store had 19 bottles of diet soda and 60 bottles of regular soda.,The store had fewer diet soda bottles than regular soda.,entailment
+entail_paraphrase_chal-584,"A book has 3 chapters. The first chapter is 35 pages long, the second chapter is 18 pages long, and the third chapter is 3 pages long.",The third chapter has fewer pages than the second chapter.,entailment
+entail_paraphrase_chal-608,Baker made 52 pastries and 84 cakes. He sold 102 cakes and 94 pastries.,Baker made fewer pastries than cakes.,entailment
+entail_paraphrase_chal-609,Paul had 21 books. After selling some in a garage sale he bought 42 new ones. He has 15 books now.,Paul bought fewer books than he sold.,entailment
+entail_paraphrase_chal-616,Winter is almost here and most animals are migrating to warmer countries. There are 41 bird families living near the mountain. 35 bird families flew away to asia and 62 bird families flew away to africa.,Fewer bird families flew away to Asia than those that flew away to Africa.,entailment
+entail_paraphrase_chal-618,There were 6 roses and 20 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 21 orchids and 22 roses in the vase.,There is fewer orchid than rose in the vase now.,entailment
+entail_paraphrase_chal-625,Dave had 15 apps and 24 files on his phone. After deleting some apps and files he had 21 apps and 4 files left.,Dave has fewer files than apps left on the phone.,entailment
+entail_paraphrase_chal-629,Mary is baking a cake. The recipe calls for 11 cups of sugar 6 cups of flour and 9 cups of salt. She already put in 12 cups of flour.,Mary needs to add fewer cups of salt than cups of sugar.,entailment
+entail_paraphrase_chal-631,Josh had 7 marbles in his collection. He lost 8 marbles and found 10 new ones.,Josh lost fewer marbles than those he found.,entailment
+entail_paraphrase_chal-632,Nell collects cards. She had 239 baseball cards and 38 Ace cards. She gave some of her cards to Jeff and now has 376 Ace cards and 111 baseball cards left.,Nell has fewer baseball cards than Ace cards.,entailment
+entail_paraphrase_chal-640,In a school there are 362 boys and 257 girls. 403 more girls joined the school.,There are fewer boys than girls in the school.,entailment
+entail_paraphrase_chal-646,He then went to see the oranges being harvested. He found out that they harvest 41 sacks of unripe oranges and 86 sacks of ripe oranges per day.,Fewer sacks of unripe oranges than ripe oranges are harvested per day.,entailment
+entail_paraphrase_chal-648,Paco had 37 sweet cookies and 11 salty cookies. He ate 5 sweet cookies and 2 salty cookies.,Paco ate fewer salty cookies than sweet cookies.,entailment
+entail_paraphrase_chal-660,Paul got a box of 267 crayons for his birthday. During the school year he lost 231 crayons while he gave away 308 crayons to his friends.,Paul lost fewer crayons than those he gave to his friends.,entailment
+entail_paraphrase_chal-669,Rebecca wants to split a collection of eggs into groups of 5. Rebecca has 20 eggs and 6 marbles.,Rebecca has fewer marbles than eggs.,entailment
+entail_paraphrase_chal-682,Jack received 10 emails and 12 letters in the morning. He then received 3 emails and 44 letters in the afternoon.,Jack received fewer emails in the afternoon than in the morning.,entailment
+entail_paraphrase_chal-688,David did 27 more push-ups but 7 less crunches than Zachary in gym class today. Zachary did 5 push-ups and 17 crunches.,Zachary did fewer push-ups than crunches.,entailment
+entail_paraphrase_chal-696,Allan brought 5 balloons and Jake brought 3 balloons to the park.,Jake had fewer balloons than Allan in the park.,entailment
+entail_paraphrase_chal-698,Winter is almost here and most animals are migrating to warmer countries. There are 8 bird families living near the mountain. 42 bird families flew away to africa and 31 bird families flew away to asia.,Fewer bird families flew away to Asia than those that flew away to Africa.,entailment
+entail_paraphrase_chal-700,Zachary did 46 push-ups and 58 crunches in gym class today. David did 38 more push-ups but 62 less crunches than zachary.,Zachary did fewer push-ups than crunches.,entailment
+entail_paraphrase_chal-701,For Gwen's birthday she received 3 dollars from her mom. Her dad gave her 6 more dollars. She spent 4 dollars.,Gwen received less money from her mom than from her dad.,entailment
+entail_paraphrase_chal-703,There are 11 different books and 17 different movies in the ' crazy silly school ' series. You read 7 of the books and watched 21 of the movies.,You have read fewer books than movies.,entailment
+entail_paraphrase_chal-712,Dan has $ 2. He bought a candy bar for $ 6 and a chocolate for $ 3.,Dan spent less money to buy chocolate than he did to buy a candy bar.,entailment
+entail_paraphrase_chal-713,Jackie has 10 apples. Adam has 8 apples.,Adam has fewer apples than Jackie.,entailment
+entail_paraphrase_chal-720,Baker made 19 cakes and 131 pastries. He sold 70 cakes and 88 pastries.,Baker made fewer cakes than pastries.,entailment
+entail_paraphrase_chal-731,Jake has 16 fewer peaches than Steven. Steven has 15 more peaches than Jill. Jill has 12 peaches.,Jake has fewer peaches than Jill.,entailment
+entail_paraphrase_chal-736,Jerry had 5 action figures and 9 books on a shelf in his room. Later he added 7 more action figures to the shelf.,Jerry has fewer books than action figures on his shelf.,entailment
+entail_paraphrase_chal-740,He then went to see the oranges being harvested. He found out that they harvest 5 sacks of ripe oranges and 74 sacks of unripe oranges per day.,They harvest fewer sacks of ripe oranges than unripe oranges per day.,entailment
+entail_paraphrase_chal-745,17 red peaches and 16 green peaches are in the basket.,There is fewer green peaches than red peach in the basket.,entailment
+entail_paraphrase_chal-747,"During summer break, 202,958 kids from Lawrence county go to camp and the other 777,622 kids stay home.",Fewer kids went to the camp compared to those who stayed home.,entailment
+entail_paraphrase_chal-752,6 birds and 3 storks were sitting on the fence. 2 more storks came to join them.,There is fewer stork than bird sitting on the fence.,entailment
+entail_paraphrase_chal-753,Dan has $ 4. He bought a chocolate for $ 7 and a candy bar for $ 2.,Dan spent less money to buy a candy bar than he did to buy chocolate.,entailment
+entail_paraphrase_chal-754,There were 21 roses in the vase. Jessica threw away 34 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 15 roses in the vase.,Jessica cut fewer roses than she threw away from her garden.,entailment
+entail_paraphrase_chal-758,Allan brought 2 balloons and Jake brought 6 balloons to the park. Allan then bought 3 more balloons at the park.,Allan had fewer balloons than Jake in the park.,entailment
+entail_paraphrase_chal-762,33 campers went rowing in the morning 34 campers went rowing in the afternoon and 10 campers went rowing in the evening.,Fewer campers went rowing in the evening than in the afternoon.,entailment
+entail_paraphrase_chal-764,The grasshopper and the frog had a jumping contest. The grasshopper jumped 9 inches and the frog jumped 12 inches.,The grasshopper jumped less far than the frog.,entailment
+entail_paraphrase_chal-767,Ed had 30 more marbles than Doug. Ed lost 21 of his marbles at the playground. Ed had 91 marbles.,Doug had fewer marbles than Ed then.,entailment
+entail_paraphrase_chal-773,There were 53 dollars in Olivia's wallet. She collected 91 more dollars from an atm. After she visited a supermarket there were 14 dollars left.,Olivia collected less money at the ATM than she spent at the supermarket.,entailment
+entail_paraphrase_chal-779,Danny collects bottle caps. He threw away 6 of the old ones at the park while he found 50 bottle caps new ones. Now he has 60 bottle caps in his collection.,Danny threw away fewer bottle caps than those he found at the park.,entailment
+entail_paraphrase_chal-789,"7 red peaches, 71 yellow peaches and 8 green peaches are in the basket.",There is fewer red peaches than green peach in the basket.,entailment
+entail_paraphrase_chal-790,52 campers went rowing in the morning. 61 campers went rowing in the afternoon.,Fewer campers went rowing in the morning than in the afternoon.,entailment
+entail_paraphrase_chal-791,There are 17 different movies and 11 different books in the ' crazy silly school ' series. You read 13 of the books and watched 63 of the movies.,There are fewer books than movies in the 'Crazy Silly School' series.,entailment
+entail_paraphrase_chal-794,Danny collects bottle caps and wrappers. He found 58 bottle caps and 25 wrappers at the park. Now he has 11 wrappers and 12 bottle caps in his collection.,Danny has fewer wrappers than bottle cap now.,entailment
+entail_paraphrase_chal-797,Baker made 157 cakes and 169 pastries. He sold 158 cakes and 147 pastries.,Baker sold fewer cakes than pastries.,entailment
+entail_paraphrase_chal-800,Baker made 134 pastries and 11 cakes. He sold 140 cakes and 92 pastries.,Baker made fewer cakes than pastries.,entailment
+entail_paraphrase_chal-804,Dave had 24 apps and 9 files on his phone. After deleting some apps and files he had 5 files and 12 apps left.,Dave has fewer files than apps left on the phone.,entailment
+entail_paraphrase_chal-805,44 campers went rowing in the morning 39 campers went rowing in the afternoon and 31 campers went rowing in the evening.,Fewer campers went rowing in the afternoon than in the morning.,entailment
+entail_paraphrase_chal-813,Nell collects cards. She had 438 baseball cards and 18 Ace cards. She gave some of her cards to Jeff and now has 55 Ace cards and 178 baseball cards left.,Nell has fewer Ace cards than baseball cards.,entailment
+entail_paraphrase_chal-819,He then went to see the oranges being harvested. He found out that they harvest 44 sacks of ripe oranges and 25 sacks of unripe oranges per day.,Fewer sacks of unripe oranges than ripe oranges are harvested per day.,entailment
+entail_paraphrase_chal-827,6 storks and 2 birds were sitting on the fence. 3 more birds came to join them.,There is fewer bird than stork sitting on the fence.,entailment
+entail_paraphrase_chal-830,Paul got a box of 531 crayons and 38 erasers for his birthday. At the end of the school year he only had 391 left while not having lost a single erasers.,Paul has fewer erasers than crayons left.,entailment
+entail_paraphrase_chal-832,There were 5 roses and 3 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 12 roses and 2 orchids in the vase.,There are fewer orchids than roses in the vase now.,entailment
+entail_paraphrase_chal-833,There are 14 different movies and 15 different books in the ' crazy silly school ' series. You read 11 of the books and watched 40 of the movies.,There is fewer movies than book in the 'Crazy Silly School' series.,entailment
+entail_paraphrase_chal-841,Randy has 86 blocks. He uses 79 blocks to build a tower and 82 blocks to build a house.,Randy used fewer blocks to build the tower than he did to build the house.,entailment
+entail_paraphrase_chal-845,Josh had 15 marbles in his collection. He found 9 marbles while he lost 23 marbles.,Josh found fewer marbles than those he lost.,entailment
+entail_paraphrase_chal-846,29 campers went rowing and 66 campers went hiking in the morning. 26 campers went rowing in the afternoon.,Fewer campers went rowing in the afternoon than in the morning.,entailment
+entail_paraphrase_chal-858,There were 174 parents in the program and 521 pupils too.,Fewer parents were present compared to pupils in the program.,entailment
+entail_paraphrase_chal-869,Adam has 9 apples. Jackie has 10 apples.,Adam has fewer apples than Jackie.,entailment
+entail_paraphrase_chal-873,A book has 3 chapters. The first chapter is 53 pages long the second chapter is 75 pages long and the third chapter is 21 pages long.,The third chapter has fewer pages than the first chapter.,entailment
+entail_paraphrase_chal-884,Dave had 21 apps on his phone. He added 89 new apps. After deleting some he had 24 left.,Dave deleted fewer apps than he added.,entailment
+entail_paraphrase_chal-887,David did 36 more push-ups but 33 less crunches than Zachary in gym class today. Zachary did 58 push-ups and 33 crunches.,Zachary did fewer crunches than push-ups.,entailment
+entail_paraphrase_chal-892,Rebecca wants to split a collection of eggs into groups of 20. Rebecca has 5 marbles and 12 eggs.,Rebecca has fewer marbles than eggs.,entailment
+entail_paraphrase_chal-893,Baker made 81 cakes. Then he made 92 more cakes. He sold 46 of them.,Baker sold fewer cakes than those he made.,entailment
+entail_paraphrase_chal-898,62 campers went rowing in the morning. 39 campers went rowing in the afternoon.,Fewer campers went rowing in the afternoon than in the morning.,entailment
+entail_paraphrase_chal-904,"Rachel had to complete 11 pages of math homework, 2 pages of reading homework and 3 more pages of biology homework.",Rachel had fewer pages of biology homework than math homework.,entailment
+entail_paraphrase_chal-912,"Rachel had to complete 4 pages of reading homework, 7 pages of math homework and 19 more pages of biology homework.",Rachel had fewer pages of reading homework than math homework.,entailment
+entail_paraphrase_chal-917,Friends of Katie had 57 games and she had 63 ds games.,Katie has fewer friends than games.,entailment
+entail_paraphrase_chal-921,"Simon, Mark, Kevin, and Carl love collecting stamps. They meet up every month to compare and share their collections with each other. During the previous month, Kevin was able to collect 45 stamps while Simon was only able to collect 27.",Simon has fewer stamps than Kevin.,entailment
+entail_paraphrase_chal-922,If Carl has a total of 89 stamps and Kevin has 57.,Kevin has fewer stamps than Carl.,entailment
+entail_paraphrase_chal-926,Rob is very fond of tall structures. He likes collecting pictures and comparing them. Two of his favorite buildings are Chicago's Sears Tower and Dubai's Burj Khalifa. Burj Khalifa stands at 830 meters high and Sears stands at 527 meters high.,Sears is lower than Burj Khalifa.,entailment
+entail_paraphrase_chal-931,Rob also matched the London Eye which stands at 443 ft and Las Vegas' High Roller standing at 550 ft.,The London Eye is shorter than High Roller.,entailment
+entail_paraphrase_chal-934,"At the end of the cave, they found a golden chest. The chest contains 421 diamonds and 377 rubies.",There are fewer rubies than diamonds.,entailment
+entail_paraphrase_chal-936,Willy has 1400 crayons. Lucy has 290 crayons.,Lucy has fewer crayons than Willy.,entailment
+entail_paraphrase_chal-940,James has 1222 balloons. Amy has 513 balloons.,Amy has fewer balloons than James.,entailment
+entail_paraphrase_chal-943,A pet supply store has 600 bags of dog food and 327 bags of cat food.,There are fewer cat food than bags of dog food.,entailment
+contra_change_adj_chal-098,There are 6 birds and 3 nests.,There are fewer birds than nests,contradiction
+contra_change_adj_chal-125,There are 5 flowers and 3 bees.,There are more bees than flowers,contradiction
+contra_change_adj_chal-302,There are 4 squirrels in a tree with 2 nuts.,There are fewer squirrels than nuts,contradiction
+contra_change_adj_chal-360,A restaurant serves 6 cakes during lunch and 9 during dinner today.,Fewer cakes are served during dinner than lunch,contradiction
+contra_change_adj_chal-386,"In a school, there are 542 girls and 387 boys.",Fewer girls are there compared to boys in that school,contradiction
+contra_change_adj_chal-462,There were 28 girls and 35 boys on the playground at recess.,Fewer boys are there than girls,contradiction
+contra_change_adj_chal-547,There are 58 geese and 37 ducks in the marsh.,Fewer geese are there than ducks,contradiction
+contra_change_adj_chal-599,28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus.,Fewer children got on the bus than those who got off.,contradiction
+contra_change_adj_chal-652,Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies.,Paco ate fewer cookies than those he gave to his friend.,contradiction
+contra_change_adj_chal-771,3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them.,Fewer stork than birds is sitting on the fence.,contradiction
+contra_change_adj_chal-785,Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser.,Paul had fewer crayons than erasers left.,contradiction
+contra_change_adj_chal-905,Danny collects bottle caps and wrappers. He found 65 wrappers and 5 bottle caps at the park. Now he has 31 bottle caps and 9 wrappers in his collection.,Danny found fewer wrappers than bottle caps at the park.,contradiction
+contra_change_adj_chal-928,Tiffany was collecting cans for recycling. On monday she had 7 bags of cans. The next day she found 12 more bags worth of cans.,Tiffany found fewer bags on the next day than she had on Monday.,contradiction
+contra_change_adj_chal-968,For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 7 more dollars. She spent 4 dollars.,Gwen received less money from her mom than from her dad.,contradiction
+contra_change_adj_nluds-0837,There are 8 different books and 5 different movies in the ' crazy silly school ' series. You read 19 of the movies and watched 16 of the books.,You have read fewer movies than books.,contradiction
+contra_change_adj_nluds-0893,Danny collects bottle caps and wrappers. He found 46 wrappers and 50 bottle caps at the park. Now he has 21 bottle caps and 52 wrappers in his collection.,Danny found fewer bottle caps than wrappers at the park.,contradiction
+contra_change_adj_nluds-0895,3 birds and 4 storks were sitting on the fence. 2 more birds came to join them.,There is fewer bird than stork sitting on the fence.,contradiction
+contra_change_adj_chal-006,Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary.,Zachary did fewer push-ups than crunches.,contradiction
+contra_change_adj_chal-158,Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left.,Nell has fewer baseball cards than Ace cards.,contradiction
+contra_change_adj_chal-382,There were 9 roses and 6 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 13 orchids and 3 roses in the vase.,There are fewer orchids than roses in the vase now.,contradiction
+contra_change_adj_chal-564,"After eating a hearty meal they went to see the Buckingham palace. There were 39 paintings in the Buckingham palace. There, Rachel learned that 661 visitors came to the Buckingham palace that day. There were 600 visitors the previous day.",Fewer visitors visited the Buckingham Palace on that day than on the previous day.,contradiction
+contra_change_adj_chal-782,Rachel had to complete 2 pages of reading homework and 4 pages of math homework.,Rachel had fewer pages of math homework than reading homework.,contradiction
+contra_change_adj_awp_e_064,"Julia played tag with 8 kids on monday, 11 kids on tuesday and 9 kids on wednesday.",Julia played with fewer kids on Tuesday than on Wednesday.,contradiction
+contra_change_adj_awp_e_065,36 children were riding on the bus. At the bus stop 68 children got off the bus while some more got on the bus. Then there were 12 children altogether on the bus.,Fewer children got off the bus than those who got on.,contradiction
+contra_change_adj_awp_e_069,In a school there are 632 girls and 410 boys. 465 more girls joined the school.,There are fewer girls than boys in the school.,contradiction
+contra_change_adj_awp_e_197,Randy has 95 blocks. He uses 20 blocks to build a house and 50 blocks to build a tower.,Randy used fewer blocks to build the tower than he did to build the house.,contradiction
+contra_change_adj_awp_e_265,2 birds and 6 storks were sitting on the fence. 3 more birds came to join them.,There is fewer stork than birds sitting on the fence.,contradiction
+contra_change_adj_awp_e_286,Paco had 12 cookies. He ate 16 cookies and gave 21 of them to his friend.,Paco gave fewer cookies to his friend than those he ate.,contradiction
+contra_change_adj_awp_e_287,"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 317 visitors came to the Buckingham palace that day. There were 295 visitors the previous day.",Fewer visitors visited the Buckingham Palace on that day than on the previous day.,contradiction
+contra_change_adj_chal-005,Josh had 3 marbles in his collection. He found 6 marbles while he lost 5 marbles.,Josh found fewer marble than those he lost.,contradiction
+contra_change_adj_chal-008,Because of the decision Sofia asked the students to suggest specific types of food. 408 students suggested adding mashed potatoes while 42 suggested adding bacon to the menu.,Fewer students suggested mashed potatoes than those who suggested bacon.,contradiction
+contra_change_adj_chal-011,Paco had 17 cookies. He ate 14 cookies and gave 13 of them to his friend.,Paco ate fewer cookie than he gave to his friend.,contradiction
+contra_change_adj_chal-020,Julia played tag with 19 kids on monday. She played tag with 18 kids on tuesday. She spent a total of 38 hours to play tag on both days.,Julia played with fewer kid on Monday than on Tuesday.,contradiction
+contra_change_adj_chal-026,Dan has $ 5. He bought a candy bar for $ 2 and a chocolate for $ 3.,Dan spent less money to buy chocolate than he did to buy a candy bar.,contradiction
+contra_change_adj_chal-031,Ed had 29 more marbles than Doug. Ed lost 17 of his marbles at the playground.,Ed had fewer marbles than Doug then.,contradiction
+contra_change_adj_chal-038,Allan brought 6 balloons and Jake brought 3 balloons to the park. Jake then bought 4 more balloons at the park.,Jake had fewer balloon than Allan in the park.,contradiction
+contra_change_adj_chal-040,A grocery store had 22 bottles of regular soda and 61 bottles of diet soda.,They had fewer bottles of diet soda than regular soda.,contradiction
+contra_change_adj_chal-042,Allan brought 2 balloons and Jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park.,Allan had fewer balloon than Jake in the park.,contradiction
+contra_change_adj_chal-044,"Jack received 10 emails in the morning, 5 emails in the afternoon and 4 emails in the evening.",Jack received fewer email in the afternoon than in the evening.,contradiction
+contra_change_adj_chal-046,Because of the decision Sofia asked the students to suggest specific types of food. 479 students suggested adding mashed potatoes while 489 suggested adding bacon to the menu.,Fewer students suggested bacon than those that suggested mashed potatoes.,contradiction
+contra_change_adj_chal-050,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 19 chocolate chip cookies yesterday and 231 raisin cookies and 237 chocolate chip cookies this morning.,Helen baked fewer chocolate chip cookies than raisin cakes.,contradiction
+contra_change_adj_chal-059,Danny collects bottle caps. He found 30 bottle caps at the park while he threw away 63 old ones. Now he has 42 bottle caps in his collection.,Danny threw away fewer bottle caps than he found at the park.,contradiction
+contra_change_adj_chal-060,There were 7 roses and 12 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 11 roses and 20 orchids in the vase.,There are fewer orchids than roses in the vase now.,contradiction
+contra_change_adj_chal-077,There are 10 different books and 11 different movies in the ' crazy silly school ' series. You read 13 of the books and watched 12 of the movies.,You have read fewer book than movies.,contradiction
+contra_change_adj_chal-079,23 children were riding on the bus. At the bus stop 24 children got on the bus while some got off the bus. Then there were 8 children altogether on the bus.,Fewer children got off the bus than those who got on.,contradiction
+contra_change_adj_chal-081,Because of the decision Sofia asked the students to suggest specific types of food. 257 students suggested adding mashed potatoes 120 suggested adding bacon to the menu and 97 suggested adding tomatoes.,Fewer students suggested mashed potatoes than those that suggested bacon.,contradiction
+contra_change_adj_chal-084,Julia played tag with 4 kids on wednesday. She had played with 6 kids on monday and 17 kids on tuesday.,Julia played with fewer kids on Monday than on Wednesday.,contradiction
+contra_change_adj_chal-086,"A grocery store had 36 apples, 80 bottles of regular soda and 54 bottles of diet soda.",They had fewer bottles than apples.,contradiction
+contra_change_adj_chal-087,Paco had 40 sweet cookies and 25 salty cookies. He ate 28 salty cookies and 15 sweet cookies.,Paco ate fewer salty cookies than sweet cookies.,contradiction
+contra_change_adj_chal-089,A grocery store had 67 bottles of regular soda and 9 bottles of diet soda.,They had fewer bottles of regular soda than diet soda.,contradiction
+contra_change_adj_chal-090,Jake has 3 fewer peaches than Steven who has 8 more peaches than Jill. Steven has 5 peaches.,Jake has fewer peaches than Jill.,contradiction
+contra_change_adj_chal-091,Jake has 5 fewer peaches than Steven. Steven has 18 more peaches than Jill. Jill has 87 peaches.,Jake has fewer peaches than Jill.,contradiction
+contra_change_adj_chal-092,"A grocery store had 54 bottles of diet soda, 83 bottles of regular soda and 12 apples.",The store had fewer bottles of regular soda than diet soda.,contradiction
+contra_change_adj_chal-094,Because of the decision Sofia asked the students to suggest specific types of food. 269 students suggested adding bacon 330 suggested adding mashed potatoes to the menu and 76 suggested adding tomatoes.,Fewer students suggested mashed potatoes than those that suggested bacon.,contradiction
+contra_change_adj_chal-095,Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left.,Dave deleted fewer app than he added.,contradiction
+contra_change_adj_chal-096,Jack received 6 emails in the morning and 2 emails in the afternoon.,Jack received fewer emails in the morning than in the afternoon.,contradiction
+contra_change_adj_chal-097,Baker made 43 cakes and 114 pastries. He sold 154 pastries and 78 cakes.,Baker sold fewer pastries than cakes.,contradiction
+contra_change_adj_chal-103,Paco had 25 cookies. He ate 5 of them. Then he bought 3 more cookies.,Paco ate fewer cookies than those he bought.,contradiction
+contra_change_adj_chal-105,Jake has 8 fewer peaches and 10 more apples than Steven. Steven has 11 apples and 18 peaches.,Steven has fewer peaches than apples.,contradiction
+contra_change_adj_chal-109,"Every day Ryan spends 2 hours on learning english, 5 hours on learning chinese and 4 hours on learning spanish.",Ryan spends fewer hour learning Chinese than he does learning Spanish.,contradiction
+contra_change_adj_chal-114,2 birds were sitting on the fence. 5 more birds and 4 more storks came to join them.,Fewer birds than storks are sitting on the fence.,contradiction
+contra_change_adj_chal-119,Paco had 6 cookies. He gave 30 cookies to his friend and ate 23 cookies.,Paco gave fewer cookies to his friend than those he ate.,contradiction
+contra_change_adj_chal-122,Baker made 144 cakes. He sold 71 of them. Then he made 111 more cakes.,Baker made fewer cakes than those he sold.,contradiction
+contra_change_adj_chal-124,41 children were riding on the bus. At the bus stop some children got off the bus. Then there were 18 children left on the bus.,There were fewer children on the bus before the bus stop than there are now.,contradiction
+contra_change_adj_chal-131,Danny collects bottle caps and wrappers. He found 30 bottle caps and 14 wrappers at the park. Now he has 7 bottle caps and 86 wrappers in his collection.,Danny found fewer bottle caps than wrappers at the park.,contradiction
+contra_change_adj_chal-134,Edward spent $ 16 to buy books and $ 8 to buy pens. Now he has $ 19.,Edward spent less on books than pens.,contradiction
+contra_change_adj_chal-141,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 519 chocolate chip cookies and 300 raisin cookies yesterday. And she baked 280 raisin cookies and 359 chocolate chip cookies this morning.,Helen baked fewer raisin cookies yesterday compared to today.,contradiction
+contra_change_adj_chal-145,"A grocery store had 81 bottles of regular soda, 60 bottles of diet soda and 60 bottles of lite soda.",They had fewer bottles of regular soda than diet soda.,contradiction
+contra_change_adj_chal-155,"A grocery store had 72 bottles of regular soda, 32 bottles of diet soda and 78 apples.",They had fewer bottles than apples.,contradiction
+contra_change_adj_chal-157,Because of the decision Sofia asked the students to suggest specific types of food. 144 students suggested adding mashed potatoes 467 suggested adding bacon to the menu and 79 suggested adding tomatoes.,Fewer students suggested mashed potatoes than those that suggested tomatoes.,contradiction
+contra_change_adj_chal-163,Randy has 90 blocks. He uses 89 blocks to build a house and 63 blocks to build a tower.,Randy used fewer blocks to build the house than he did to build the tower.,contradiction
+contra_change_adj_chal-170,Allan brought 2 balloons and Jake brought 3 balloons to the park.,Jake had fewer balloon than Allan in the park.,contradiction
+contra_change_adj_chal-175,"Every day Ryan spends 7 hours on learning english, 2 hours on learning chinese and 4 hours on learning spanish.",Ryan spends fewer hours on learning English than he does on learning Spanish.,contradiction
+contra_change_adj_chal-180,Nell collects cards. She had 246 baseball cards and 214 Ace cards. She gave some of her cards to Jeff and now has 404 baseball cards and 495 Ace cards left.,Nell has fewer Ace cards than baseball cards.,contradiction
+contra_change_adj_chal-182,Jerry had 9 action figures on a shelf in his room. Later he added 7 more action figures to the shelf. He also has 10 books on the shelf.,Jerry had fewer action figures than books on his shelf.,contradiction
+contra_change_adj_chal-183,Paul got a box of 589 crayons for his birthday. During the school year he gave 571 crayons to his friends while he lost 161 crayons.,Paul gave fewer crayons to his friends than those he lost.,contradiction
+contra_change_adj_chal-185,"Jack received 9 emails in the morning, 10 emails in the afternoon and 7 emails in the evening.",Jack received fewer emails in the morning than in the evening.,contradiction
+contra_change_adj_chal-190,Jack received 6 emails in the morning and 8 emails in the afternoon.,Jack received fewer emails in the afternoon than in the morning.,contradiction
+contra_change_adj_chal-191,Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 197 chocolate chip cookies and 46 raisin cookies yesterday. And she baked 75 raisin cookies and 66 chocolate chip cookies this morning.,Helen baked fewer chocolate chip cookies yesterday compared to today.,contradiction
+contra_change_adj_chal-195,Every day Ryan spends 6 hours on learning english 3 hours on learning chinese and 58 hours on learning spanish.,Ryan spends fewer hours on learning English than he does on learning Chinese.,contradiction
+contra_change_adj_chal-197,A book has 2 chapters. The first chapter is 48 pages long. The second chapter is 11 pages long.,The first chapter has fewer pages than the second chapter.,contradiction
+contra_change_adj_chal-208,"6 green peaches, 60 yellow peaches and 2 red peaches are in the basket.",There are fewer green peaches than red peaches in the basket.,contradiction
+contra_change_adj_chal-209,Jake has 12 fewer peaches than Steven who has 11 more peaches than Jill. Steven has 4 peaches.,Jill has fewer peach than Jake.,contradiction
+contra_change_adj_chal-210,There are 10 different books and 6 different movies in the ' crazy silly school ' series. You read 14 of the movies and watched 19 of the books.,You have read fewer books than movies.,contradiction
+contra_change_adj_chal-220,Katie had 81 ds games and her friends had 59 games.,Katie has fewer games than her friends.,contradiction
+contra_change_adj_chal-226,Julia played tag with 5 kids on tuesday. She had played tag with 6 kids on monday.,Julia played with fewer kid on Monday than on Tuesday.,contradiction
+contra_change_adj_chal-231,Jerry had 3 books and 4 action figures on a shelf in his room. Later he added 2 more action figures to the shelf.,Fewer action figures than books were on his shelf.,contradiction
+contra_change_adj_chal-233,Dave had 19 apps and 18 files on his phone. After deleting some apps and files he had 6 apps and 15 files left.,Dave has fewer files than apps left on the phone.,contradiction
+contra_change_adj_chal-241,Baker made 99 cakes. He bought 167 new cakes and sold 89 cakes.,Baker bought fewer cakes than those he sold.,contradiction
+contra_change_adj_chal-242,Baker made 13 cakes. He sold 91 of them and bought 154 new cakes.,Baker bought fewer cakes than those he sold.,contradiction
+contra_change_adj_chal-249,He then went to see the oranges being harvested. He found out that they harvest 71 sacks of unripe oranges and 60 sacks of ripe oranges per day.,Fewer sacks of unripe oranges than ripe oranges are harvested per day.,contradiction
+contra_change_adj_chal-252,Jerry had 7 action figures and 2 books on a shelf in his room. Later he added 4 more books to the shelf.,There was fewer action figure than books on his shelf.,contradiction
+contra_change_adj_chal-263,In a school there are 34 girls and 841 boys.,The school has fewer boys than girls.,contradiction
+contra_change_adj_chal-264,53 campers went rowing in the morning 48 campers went rowing in the afternoon and 49 campers went rowing in the evening.,Fewer campers went rowing in the morning than in the evening.,contradiction
+contra_change_adj_chal-265,"Jack received 3 emails in the afternoon, 5 emails in the morning and 16 emails in the evening.",Jack received fewer emails in the morning than in the afternoon.,contradiction
+contra_change_adj_chal-270,Rachel had to complete 3 pages of math homework and 4 pages of reading homework.,Rachel had fewer page of reading homework than math homework.,contradiction
+contra_change_adj_chal-284,A book has 2 chapters. The first chapter is 37 pages long. The second chapter is 80 pages long.,The second chapter has fewer pages than the first chapter.,contradiction
+contra_change_adj_chal-287,Winter is almost here and most animals are migrating to warmer countries. There are 38 bird families living near the mountain. 47 bird families flew away to africa and 94 bird families flew away to asia.,Fewer bird families flew away to Asia than those that flew away to Africa.,contradiction
+contra_change_adj_chal-288,Zachary did 51 push-ups and David did 44 push-ups in gym class today.,Zachary did fewer push-ups than David.,contradiction
+contra_change_adj_chal-289,Mary is baking a cake. The recipe calls for 6 cups of flour 8 cups of sugar and 7 cups of salt. She already put in 5 cups of flour.,Mary needs to add fewer cup of sugar than cups of salt.,contradiction
+contra_change_adj_chal-291,Because of the decision Sofia asked the students to suggest specific types of food. 228 students suggested adding mashed potatoes 337 suggested adding bacon to the menu and 23 suggested adding tomatoes.,Fewer students suggested bacon than those that suggested tomatoes.,contradiction
+contra_change_adj_chal-294,"Julia played tag with 9 kids on monday, 7 kids on tuesday and 96 kids on wednesday.",Julia played with fewer kids on Monday than on Tuesday.,contradiction
+contra_change_adj_chal-295,Randy has 37 blocks. He uses 33 blocks to build a tower and 13 blocks to build a house.,Randy used fewer blocks to build the tower than he did to build the house.,contradiction
+contra_change_adj_chal-296,Baker made 8 cakes. He bought 139 new cakes and sold 145 cakes.,Baker sold fewer cakes than those he bought.,contradiction
+contra_change_adj_chal-304,Jack received 6 emails and 8 letters in the morning. He then received 2 emails and 7 letters in the afternoon.,Jack received fewer email in the morning than in the afternoon.,contradiction
+contra_change_adj_chal-307,Jake has 3 fewer peaches and 10 more apples than Steven. Steven has 12 peaches and 15 apples.,Adam has fewer apples than peaches.,contradiction
+contra_change_adj_chal-314,Rachel had to complete 5 pages of math homework and 2 pages of reading homework.,Rachel had fewer pages of math homework than reading homework.,contradiction
+contra_change_adj_chal-317,Paul got a box of 601 crayons and 406 erasers for his birthday. At the end of the school year he only had 336 crayons left while not having lost a single eraser.,Paul had fewer erasers than crayons left.,contradiction
+contra_change_adj_chal-319,Adam has 10 apples. Jackie has 2 apples.,Adam has fewer apples than Jackie.,contradiction
+contra_change_adj_chal-321,Jerry had 5 action figures and 2 books on a shelf in his room. Later he added 9 more books to the shelf.,There are fewer books than action figures on his shelf.,contradiction
+contra_change_adj_chal-322,At the arcade Dave had won 13 tickets. He used 8 to buy some toys and 18 more to buy some clothes.,Dave used fewer tickets to buy clothes than he did to buy toys.,contradiction
+contra_change_adj_chal-329,"19 red peaches, 11 yellow peaches and 12 green peaches are in the basket.",There are fewer red peaches than yellow peaches in the basket.,contradiction
+contra_change_adj_chal-330,For Gwen's birthday she received 8 dollars from her mom. Her dad gave her 5 more dollars. She spent 4 dollars.,Gwen received less money from her mom than from her dad.,contradiction
+contra_change_adj_chal-336,Paco had 39 sweet cookies and 6 salty cookies. He ate 23 salty cookies and 32 sweet cookies.,Paco ate fewer sweet cookies than salty cookies.,contradiction
+contra_change_adj_chal-337,Julia played tag with 18 kids on monday. She played tag with 10 kids on tuesday.,Julia played with fewer kids on Monday than on Tuesday.,contradiction
+contra_change_adj_chal-340,5 red peaches and 11 green peaches are in the basket.,There are fewer green peaches than red peaches in the basket.,contradiction
+contra_change_adj_chal-341,"Rachel had to complete 9 pages of math homework, 2 pages of reading homework and 96 more pages of biology homework.",Rachel had fewer pages of math homework than reading homework.,contradiction
+contra_change_adj_chal-343,Josh had 4 marbles in his collection. He lost 16 marbles and found 8 new ones.,Josh lost fewer marbles than those he found.,contradiction
+contra_change_adj_chal-344,Danny collects bottle caps and wrappers. He found 11 bottle caps and 28 wrappers at the park. Now he has 68 bottle caps and 51 wrappers in his collection.,Danny found fewer wrappers than bottle caps at the park.,contradiction
+contra_change_adj_chal-359,Paul had 71 books. After selling some in a garage sale he bought 38 new ones. He has 116 books now.,Paul bought fewer books than he sold.,contradiction
+contra_change_adj_chal-361,Julia played tag with 11 kids on monday. She played tag with 12 kids on tuesday.,Julia played with fewer kid on Tuesday than on Monday.,contradiction
+contra_change_adj_chal-363,Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. The next day she found 7 more bags worth of cans.,Tiffany had fewer bag on Monday than she found on the next day.,contradiction
+contra_change_adj_chal-368,5 storks and 3 birds were sitting on the fence. 4 more birds came to join them.,Fewer birds than storks are sitting on the fence.,contradiction
+contra_change_adj_chal-371,There are 8 different books and 10 different movies in the ' crazy silly school ' series. You read 19 of the books and watched 61 of the movies.,There are fewer movies than books in the 'Crazy Silly School' series.,contradiction
+contra_change_adj_chal-375,"2 red peaches, 6 yellow peaches and 14 green peaches are in the basket.",There are fewer green peaches than yellow peaches in the basket.,contradiction
+contra_change_adj_chal-377,Bobby ate 38 pieces of candy. Then he ate 36 more. He also ate 16 pieces of chocolate.,Bobby ate fewer pieces of candy than chocolate.,contradiction
+contra_change_adj_chal-378,Jake has 3 fewer peaches and 4 more apples than Steven. Steven has 19 apples and 15 peaches.,Steven has fewer apples than peaches.,contradiction
+contra_change_adj_chal-379,Every day Ryan spends 6 hours on learning english and 7 hours on learning chinese.,Ryan spends fewer hour on learning Chinese than he does on learning English.,contradiction
+contra_change_adj_chal-380,Paco had 13 cookies. He ate 2 of them. Then he bought 36 more cookies.,Paco bought fewer cookies than those he ate.,contradiction
+contra_change_adj_chal-384,There were 15 roses in the vase. Jessica threw away 33 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 17 roses in the vase.,There cut fewer roses than those she threw away.,contradiction
+contra_change_adj_chal-389,Zachary did 15 push-ups in gym class today. David did 39 more push-ups than Zachary. John did 9 push-ups less than David.,Zachary did fewer push-ups than John.,contradiction
+contra_change_adj_chal-391,Danny collects bottle caps. He threw away 54 of the old ones at the park while he found 48 bottle caps new ones. Now he has 52 bottle caps in his collection.,Danny threw away fewer bottle caps than those he found at the park.,contradiction
+contra_change_adj_chal-398,Paul got a box of 110 crayons for his birthday. During the school year he gave 90 crayons to his friends while he lost 412 crayons.,Paul lost fewer crayons than those he gave to his friends.,contradiction
+contra_change_adj_chal-401,In a school there are 569 girls and 236 boys.,The school has fewer girls than boys.,contradiction
+contra_change_adj_chal-402,Danny collects bottle caps and wrappers. He found 71 bottle caps and 24 wrappers at the park. Now he has 28 bottle caps and 16 wrappers in his collection.,Danny has fewer bottle caps than wrappers now.,contradiction
+contra_change_adj_chal-405,5 children were riding on the bus. At the bus stop 63 children got off the bus while some more got on the bus. Then there were 14 children altogether on the bus.,Fewer children got on the bus than those that got off.,contradiction
+contra_change_adj_chal-407,Danny collects bottle caps and wrappers. He found 10 bottle caps and 62 wrappers at the park. Now he has 27 bottle caps and 43 wrappers in his collection.,Danny has fewer wrappers than bottle caps now.,contradiction
+contra_change_adj_chal-409,4 birds and 3 storks were sitting on the fence. 6 more storks came to join them.,There are fewer storks than birds sitting on the fence.,contradiction
+contra_change_adj_chal-412,"Julia played tag with 14 kids on monday, 2 kids on tuesday and 8 kids on wednesday.",Julia played with fewer kids on Monday than on Wednesday.,contradiction
+contra_change_adj_chal-414,Jake has 6 fewer peaches and 8 more apples than Steven. Steven has 17 peaches and 16 apples.,Steven has fewer peach than apples.,contradiction
+contra_change_adj_chal-415,A book has 3 chapters. The first chapter is 91 pages long the second chapter is 23 pages long and the third chapter is 25 pages long.,The first chapter has fewer pages than the second chapter.,contradiction
+contra_change_adj_chal-417,Danny collects bottle caps. He found 36 bottle caps at the park while he threw away 35 old ones. Now he has 22 bottle caps in his collection.,Danny found fewer bottle cap at the park than those he threw away.,contradiction
+contra_change_adj_chal-421,2 children were riding on the bus. At the bus stop some more children got on the bus. Then there were 10 children altogether on the bus.,There are fewer children on the bus now than there were before the bus stop.,contradiction
+contra_change_adj_chal-422,"During summer break, 819058 kids from Lawrence county go to camp and the other 668278 kids stay home.",Fewer kids spent their summer break at the camp compared to those who stayed home.,contradiction
+contra_change_adj_chal-426,There are 16 different books and 14 different movies in the ' crazy silly school ' series. You read 19 of the books and watched 13 of the movies.,There are fewer books than movies in the 'Crazy Silly School' series.,contradiction
+contra_change_adj_chal-433,Jerry had 2 action figures and 10 books on a shelf in his room. Later he added 4 more action figures to the shelf.,There are fewer books than action figures on his shelf.,contradiction
+contra_change_adj_chal-445,"Julia played tag with 15 kids on monday, 18 kids on tuesday and 7 kids on wednesday.",Julia played with fewer kids on Monday and Tuesday than on Wednesday.,contradiction
+contra_change_adj_chal-450,Baker made 133 cakes. He sold 51 of them.,Baker made fewer cakes than those he sold.,contradiction
+contra_change_adj_chal-454,Dan has $ 5. He bought a chocolate for $ 3 and a candy bar for $ 7.,Dan spent less money to buy a candy bar than he did to buy chocolate.,contradiction
+contra_change_adj_chal-455,Baker made 126 cakes and 48 pastries. He sold 115 cakes and 81 pastries.,Baker made fewer cakes than pastries.,contradiction
+contra_change_adj_chal-460,At the arcade Dave had won 19 tickets. He used 12 to buy some toys and 7 more to buy some clothes.,Dave used fewer tickets to buy toys than he did to buy clothes.,contradiction
+contra_change_adj_chal-463,Jerry had 7 books and 3 action figures on a shelf in his room. Later he added 2 more action figures to the shelf.,There were fewer books than action figures on his shelf.,contradiction
+contra_change_adj_chal-470,Katie had 57 new games and 39 old games. Her friends had 34 new games.,Katie has fewer games than her friends.,contradiction
+contra_change_adj_chal-478,For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 2 more dollars. She spent 6 dollars.,Gwen received fewer money from her dad than from her mom.,contradiction
+contra_change_adj_chal-484,Baker made 14 cakes and 153 pastries. He sold 8 pastries and 97 cakes.,Baker sold fewer cakes than pastries.,contradiction
+contra_change_adj_chal-485,Paco had 8 sweet cookies and 6 salty cookies. He ate 20 sweet cookies and 34 salty cookies.,Paco ate fewer salty cookies than sweet cookies.,contradiction
+contra_change_adj_chal-497,"A grocery store had 79 bottles of regular soda, 53 bottles of diet soda and 42 apples.",They had fewer bottles of regular soda than diet soda.,contradiction
+contra_change_adj_chal-499,"Rachel had to complete 7 pages of math homework, 11 pages of reading homework and 8 more pages of biology homework.",Rachel had fewer pages of reading homework than biology homework.,contradiction
+contra_change_adj_chal-514,Baker sold 8 cakes. He had made 40 cakes initially.,Baker made fewer cakes than those he sold.,contradiction
+contra_change_adj_chal-517,"After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 100 visitors came to the Buckingham palace on the previous day. There were 666 visitors on that day.",Fewer visitors visited the Buckingham Palace on that day than on the previous day.,contradiction
+contra_change_adj_chal-520,Allan brought 6 balloons and Jake brought 2 balloons to the park. Jake then bought 3 more balloons at the park.,Allan had fewer balloon than Jake in the park.,contradiction
+contra_change_adj_chal-533,Baker made 54 cakes and 143 pastries. He sold 68 cakes and 92 pastries.,Baker sold fewer pastries than cakes.,contradiction
+contra_change_adj_chal-544,Danny collects bottle caps and wrappers. He found 15 bottle caps and 18 wrappers at the park. Now he has 67 wrappers and 35 bottle caps in his collection.,Danny has fewer wrappers than bottle caps now.,contradiction
+contra_change_adj_chal-545,3 birds were sitting on the fence. 2 more birds and 6 more storks came to join them.,There is fewer stork than birds sitting on the fence.,contradiction
+contra_change_adj_chal-553,Dave had 11 apps and 3 files on his phone. After deleting some apps and files he had 24 files and 2 apps left.,Dave has fewer files than apps left on the phone.,contradiction
+contra_change_adj_chal-559,"Jack received 10 emails in the morning, 7 emails in the afternoon, and 17 emails in the evening.",Jack received fewer emails in the morning than in the afternoon.,contradiction
+contra_change_adj_chal-565,Lucy went to the grocery store. She bought 10 packs of cookie and 4 packs of cake.,Lucy bought less packs of cookies than cake.,contradiction
+contra_change_adj_chal-567,Every day Ryan spends 6 hours on learning english and 2 hours on learning chinese.,Ryan spends fewer hours on learning English than Chinese.,contradiction
+contra_change_adj_chal-577,The grasshopper and the frog had a jumping contest. The frog jumped 39 inches and the grasshopper jumped 17 inches.,The frog jumped less far than the grasshopper.,contradiction
+contra_change_adj_chal-578,A grocery store had 19 bottles of diet soda and 60 bottles of regular soda.,The store had fewer bottles of regular soda than diet soda.,contradiction
+contra_change_adj_chal-584,"A book has 3 chapters. The first chapter is 35 pages long, the second chapter is 18 pages long, and the third chapter is 3 pages long.",The second chapter has fewer pages than the third chapter.,contradiction
+contra_change_adj_chal-608,Baker made 52 pastries and 84 cakes. He sold 102 cakes and 94 pastries.,Baker made fewer cakes than pastries.,contradiction
+contra_change_adj_chal-609,Paul had 21 books. After selling some in a garage sale he bought 42 new ones. He has 15 books now.,Paul sold fewer books than he bought.,contradiction
+contra_change_adj_chal-616,Winter is almost here and most animals are migrating to warmer countries. There are 41 bird families living near the mountain. 35 bird families flew away to asia and 62 bird families flew away to africa.,Fewer bird families flew away to Africa than those that flew away to Asia.,contradiction
+contra_change_adj_chal-618,There were 6 roses and 20 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 21 orchids and 22 roses in the vase.,There is fewer rose than orchid in the vase now.,contradiction
+contra_change_adj_chal-625,Dave had 15 apps and 24 files on his phone. After deleting some apps and files he had 21 apps and 4 files left.,Dave has fewer apps than files left on the phone.,contradiction
+contra_change_adj_chal-629,Mary is baking a cake. The recipe calls for 11 cups of sugar 6 cups of flour and 9 cups of salt. She already put in 12 cups of flour.,Mary needs to add fewer cups of sugar than cups of salt.,contradiction
+contra_change_adj_chal-631,Josh had 7 marbles in his collection. He lost 8 marbles and found 10 new ones.,Josh found fewer marbles than those he lost.,contradiction
+contra_change_adj_chal-632,Nell collects cards. She had 239 baseball cards and 38 Ace cards. She gave some of her cards to Jeff and now has 376 Ace cards and 111 baseball cards left.,Nell has fewer Ace cards than baseball cards.,contradiction
+contra_change_adj_chal-640,In a school there are 362 boys and 257 girls. 403 more girls joined the school.,There are fewer girls than boys in the school.,contradiction
+contra_change_adj_chal-646,He then went to see the oranges being harvested. He found out that they harvest 41 sacks of unripe oranges and 86 sacks of ripe oranges per day.,Fewer sacks of ripe oranges than unripe oranges are harvested per day.,contradiction
+contra_change_adj_chal-648,Paco had 37 sweet cookies and 11 salty cookies. He ate 5 sweet cookies and 2 salty cookies.,Paco ate fewer sweet cookies than salty cookies.,contradiction
+contra_change_adj_chal-660,Paul got a box of 267 crayons for his birthday. During the school year he lost 231 crayons while he gave away 308 crayons to his friends.,Paul gave fewer crayons to his friends than those he lost.,contradiction
+contra_change_adj_chal-669,Rebecca wants to split a collection of eggs into groups of 5. Rebecca has 20 eggs and 6 marbles.,Rebecca has fewer eggs than marbles.,contradiction
+contra_change_adj_chal-682,Jack received 10 emails and 12 letters in the morning. He then received 3 emails and 44 letters in the afternoon.,Jack received fewer emails in the morning than in the afternoon.,contradiction
+contra_change_adj_chal-688,David did 27 more push-ups but 7 less crunches than Zachary in gym class today. Zachary did 5 push-ups and 17 crunches.,Zachary did fewer crunches than push-ups.,contradiction
+contra_change_adj_chal-696,Allan brought 5 balloons and Jake brought 3 balloons to the park.,Allan had fewer balloons than Jake in the park.,contradiction
+contra_change_adj_chal-698,Winter is almost here and most animals are migrating to warmer countries. There are 8 bird families living near the mountain. 42 bird families flew away to africa and 31 bird families flew away to asia.,Fewer bird families flew away to Africa than those that flew away to Asia.,contradiction
+contra_change_adj_chal-700,Zachary did 46 push-ups and 58 crunches in gym class today. David did 38 more push-ups but 62 less crunches than zachary.,Zachary did fewer crunches than push-ups.,contradiction
+contra_change_adj_chal-701,For Gwen's birthday she received 3 dollars from her mom. Her dad gave her 6 more dollars. She spent 4 dollars.,Gwen received fewer money from her dad than from her mom.,contradiction
+contra_change_adj_chal-703,There are 11 different books and 17 different movies in the ' crazy silly school ' series. You read 7 of the books and watched 21 of the movies.,You have read fewer movies than books.,contradiction
+contra_change_adj_chal-712,Dan has $ 2. He bought a candy bar for $ 6 and a chocolate for $ 3.,Dan spent less money to buy a candy bar than he did to buy chocolate.,contradiction
+contra_change_adj_chal-713,Jackie has 10 apples. Adam has 8 apples.,Jackie has fewer apples than Adam.,contradiction
+contra_change_adj_chal-720,Baker made 19 cakes and 131 pastries. He sold 70 cakes and 88 pastries.,Baker made fewer pastries than cakes.,contradiction
+contra_change_adj_chal-731,Jake has 16 fewer peaches than Steven. Steven has 15 more peaches than Jill. Jill has 12 peaches.,Jill has fewer peach than Jake.,contradiction
+contra_change_adj_chal-736,Jerry had 5 action figures and 9 books on a shelf in his room. Later he added 7 more action figures to the shelf.,Jerry has fewer action figures than books on his shelf.,contradiction
+contra_change_adj_chal-740,He then went to see the oranges being harvested. He found out that they harvest 5 sacks of ripe oranges and 74 sacks of unripe oranges per day.,They harvest fewer sacks of unripe oranges than ripe oranges per day.,contradiction
+contra_change_adj_chal-745,17 red peaches and 16 green peaches are in the basket.,There is fewer red peach than green peaches in the basket.,contradiction
+contra_change_adj_chal-747,"During summer break, 202,958 kids from Lawrence county go to camp and the other 777,622 kids stay home.",Fewer kids stayed home compared to those who went to the camp.,contradiction
+contra_change_adj_chal-752,6 birds and 3 storks were sitting on the fence. 2 more storks came to join them.,There is fewer bird than stork sitting on the fence.,contradiction
+contra_change_adj_chal-753,Dan has $ 4. He bought a chocolate for $ 7 and a candy bar for $ 2.,Dan spent less money to buy chocolate than he did to buy a candy bar.,contradiction
+contra_change_adj_chal-754,There were 21 roses in the vase. Jessica threw away 34 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 15 roses in the vase.,Jessica threw away fewer roses than she cut from her garden.,contradiction
+contra_change_adj_chal-758,Allan brought 2 balloons and Jake brought 6 balloons to the park. Allan then bought 3 more balloons at the park.,Jake had fewer balloon than Allan in the park.,contradiction
+contra_change_adj_chal-762,33 campers went rowing in the morning 34 campers went rowing in the afternoon and 10 campers went rowing in the evening.,Fewer campers went rowing in the afternoon than in the evening.,contradiction
+contra_change_adj_chal-764,The grasshopper and the frog had a jumping contest. The grasshopper jumped 9 inches and the frog jumped 12 inches.,The frog jumped less far than the grasshopper.,contradiction
+contra_change_adj_chal-767,Ed had 30 more marbles than Doug. Ed lost 21 of his marbles at the playground. Ed had 91 marbles.,Ed had fewer marbles than Doug then.,contradiction
+contra_change_adj_chal-773,There were 53 dollars in Olivia's wallet. She collected 91 more dollars from an atm. After she visited a supermarket there were 14 dollars left.,Olivia spent less money at the supermarket than she collected at the ATM.,contradiction
+contra_change_adj_chal-779,Danny collects bottle caps. He threw away 6 of the old ones at the park while he found 50 bottle caps new ones. Now he has 60 bottle caps in his collection.,Danny found fewer bottle caps at the park than those he threw away.,contradiction
+contra_change_adj_chal-789,"7 red peaches, 71 yellow peaches and 8 green peaches are in the basket.",There is fewer green peach than red peaches in the basket.,contradiction
+contra_change_adj_chal-790,52 campers went rowing in the morning. 61 campers went rowing in the afternoon.,Fewer campers went rowing in the afternoon than in the morning.,contradiction
+contra_change_adj_chal-791,There are 17 different movies and 11 different books in the ' crazy silly school ' series. You read 13 of the books and watched 63 of the movies.,There are fewer movies than books in the 'Crazy Silly School' series.,contradiction
+contra_change_adj_chal-794,Danny collects bottle caps and wrappers. He found 58 bottle caps and 25 wrappers at the park. Now he has 11 wrappers and 12 bottle caps in his collection.,Danny has fewer bottle cap than wrappers now.,contradiction
+contra_change_adj_chal-797,Baker made 157 cakes and 169 pastries. He sold 158 cakes and 147 pastries.,Baker sold fewer pastries than cakes.,contradiction
+contra_change_adj_chal-800,Baker made 134 pastries and 11 cakes. He sold 140 cakes and 92 pastries.,Baker made fewer pastries than cakes.,contradiction
+contra_change_adj_chal-804,Dave had 24 apps and 9 files on his phone. After deleting some apps and files he had 5 files and 12 apps left.,Dave has fewer apps than files left on the phone.,contradiction
+contra_change_adj_chal-805,44 campers went rowing in the morning 39 campers went rowing in the afternoon and 31 campers went rowing in the evening.,Fewer campers went rowing in the morning than in the afternoon.,contradiction
+contra_change_adj_chal-813,Nell collects cards. She had 438 baseball cards and 18 Ace cards. She gave some of her cards to Jeff and now has 55 Ace cards and 178 baseball cards left.,Nell has fewer baseball cards than Ace cards.,contradiction
+contra_change_adj_chal-819,He then went to see the oranges being harvested. He found out that they harvest 44 sacks of ripe oranges and 25 sacks of unripe oranges per day.,Fewer sacks of ripe oranges than unripe oranges are harvested per day.,contradiction
+contra_change_adj_chal-827,6 storks and 2 birds were sitting on the fence. 3 more birds came to join them.,There is fewer stork than birds sitting on the fence.,contradiction
+contra_change_adj_chal-830,Paul got a box of 531 crayons and 38 erasers for his birthday. At the end of the school year he only had 391 left while not having lost a single erasers.,Paul has fewer crayons than erasers left.,contradiction
+contra_change_adj_chal-832,There were 5 roses and 3 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 12 roses and 2 orchids in the vase.,There are fewer roses than orchids in the vase now.,contradiction
+contra_change_adj_chal-833,There are 14 different movies and 15 different books in the ' crazy silly school ' series. You read 11 of the books and watched 40 of the movies.,There is fewer book than movies in the 'Crazy Silly School' series.,contradiction
+contra_change_adj_chal-841,Randy has 86 blocks. He uses 79 blocks to build a tower and 82 blocks to build a house.,Randy used fewer blocks to build the house than he did to build the tower.,contradiction
+contra_change_adj_chal-845,Josh had 15 marbles in his collection. He found 9 marbles while he lost 23 marbles.,Josh lost fewer marbles than those he found.,contradiction
+contra_change_adj_chal-846,29 campers went rowing and 66 campers went hiking in the morning. 26 campers went rowing in the afternoon.,Fewer campers went rowing in the morning than in the afternoon.,contradiction
+contra_change_adj_chal-858,There were 174 parents in the program and 521 pupils too.,Fewer pupils were present compared to parents in the program.,contradiction
+contra_change_adj_chal-869,Adam has 9 apples. Jackie has 10 apples.,Jackie has fewer apple than Adam.,contradiction
+contra_change_adj_chal-873,A book has 3 chapters. The first chapter is 53 pages long the second chapter is 75 pages long and the third chapter is 21 pages long.,The first chapter has fewer pages than the third chapter.,contradiction
+contra_change_adj_chal-884,Dave had 21 apps on his phone. He added 89 new apps. After deleting some he had 24 left.,Dave added fewer apps than he deleted.,contradiction
+contra_change_adj_chal-887,David did 36 more push-ups but 33 less crunches than Zachary in gym class today. Zachary did 58 push-ups and 33 crunches.,Zachary did fewer push-ups than crunches.,contradiction
+contra_change_adj_chal-892,Rebecca wants to split a collection of eggs into groups of 20. Rebecca has 5 marbles and 12 eggs.,Rebecca has fewer eggs than marbles.,contradiction
+contra_change_adj_chal-893,Baker made 81 cakes. Then he made 92 more cakes. He sold 46 of them.,Baker made fewer cakes than those he sold.,contradiction
+contra_change_adj_chal-898,62 campers went rowing in the morning. 39 campers went rowing in the afternoon.,Fewer campers went rowing in the morning than in the afternoon.,contradiction
+contra_change_adj_chal-904,"Rachel had to complete 11 pages of math homework, 2 pages of reading homework and 3 more pages of biology homework.",Rachel had fewer pages of math homework than biology homework.,contradiction
+contra_change_adj_chal-912,"Rachel had to complete 4 pages of reading homework, 7 pages of math homework and 19 more pages of biology homework.",Rachel had fewer pages of math homework than reading homework.,contradiction
+contra_change_adj_chal-917,Friends of Katie had 57 games and she had 63 ds games.,Katie has fewer games than her friends.,contradiction
+contra_change_adj_chal-921,"Simon, Mark, Kevin, and Carl love collecting stamps. They meet up every month to compare and share their collections with each other. During the previous month, Kevin was able to collect 45 stamps while Simon was only able to collect 27.",Kevin has fewer stamps than Simon.,contradiction
+contra_change_adj_chal-922,If Carl has a total of 89 stamps and Kevin has 57.,Carl has fewer stamps than Kevin.,contradiction
+contra_change_adj_chal-926,Rob is very fond of tall structures. He likes collecting pictures and comparing them. Two of his favorite buildings are Chicago's Sears Tower and Dubai's Burj Khalifa. Burj Khalifa stands at 830 meters high and Sears stands at 527 meters high.,Burj Khalifa is lower than Sears.,contradiction
+contra_change_adj_chal-931,Rob also matched the London Eye which stands at 443 ft and Las Vegas' High Roller standing at 550 ft.,High Roller is shorter than the London Eye.,contradiction
+contra_change_adj_chal-934,"At the end of the cave, they found a golden chest. The chest contains 421 diamonds and 377 rubies.",There are fewer diamonds than rubies.,contradiction
+contra_change_adj_chal-936,Willy has 1400 crayons. Lucy has 290 crayons.,Willy has fewer crayons than Lucy.,contradiction
+contra_change_adj_chal-940,James has 1222 balloons. Amy has 513 balloons.,James has fewer balloons than Amy.,contradiction
+contra_change_adj_chal-943,A pet supply store has 600 bags of dog food and 327 bags of cat food.,There are fewer bags of dog food than cat food.,contradiction
